@@ -1,0 +1,15 @@
+{{ define "main" }}
+  <section class='content'>
+    <ul class="nav-results">
+      <li class="current">Main Article</li>
+    {{ range .Paginator.Pages }}
+      <li><a href="{{ .Permalink }}">{{ .Params.SubTitle }}</a></li>
+    {{ end }}
+    </ul>
+
+    <h1>DX Marathon Results for {{ .Params.Year }}</h1>
+
+    {{ .Content }}
+
+  </section>
+{{ end }}

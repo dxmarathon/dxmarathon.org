@@ -1,21 +1,15 @@
 ---
-title: "Marathon Rules"
+title: "2022 Marathon Rules"
 subtitle: "For 2022"
-type: "page"
 date: 2022-07-17T10:33:54+02:00
 author: "The DX Marathon Managers"
 ---
 
-<div class='note'>
-
-NEW!!! Starting in 2022, the DX Marathon is pleased to announce a new Youth overlay for any operators aged 25 or younger. Special Youth certificates will be awarded. See the new Youth section
-in the rules for complete details.
-
+<div class='note note-right'>
+  NEW!!! Starting in 2022, the DX Marathon is pleased to announce a new Youth overlay for any operators aged 25 or younger. Special Youth certificates will be awarded. See the new Youth section in the rules for complete details.
 </div>
 
-# Announcing: 2022 CQ DX Marathon
-
-### January 1 — December 31, 2022
+### Dates: January 1 — December 31, 2022
 
 ### Log Deadline: January 5, 2023
 

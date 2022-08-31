@@ -1,3 +1,10 @@
-baseURL = 'http://example.org/'
+baseURL = "https://dxmarathon.netlify.app/"
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "DX Marathon"
+theme = 'cq'
+
+[markup.goldmark.renderer]
+  unsafe = true
+[markup.goldmark.parser.attribute]
+  block = true
+  attribute = true

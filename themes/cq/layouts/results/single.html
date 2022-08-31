@@ -1,0 +1,19 @@
+{{ define "main" }}
+  <section class='content'>
+    <ul class="nav-results">
+      <li><a href="../">Main Article</a></li>
+    {{ range .Parent.Paginator.Pages }}
+      {{ if (eq . $) }}
+        <li class="current">{{ .Params.SubTitle }}</li>
+      {{ else }}
+        <li><a href="{{ .Permalink }}">{{ .Params.SubTitle }}</a></li>
+      {{ end }}
+    {{ end }}
+    </ul>
+
+    <h1>DX Marathon - {{ .Params.SubTitle }} for {{ .Parent.Params.Year }}</h1>
+
+    {{ .Content }}
+
+  </section>
+{{ end }}

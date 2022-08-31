@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+  {{ $news := .Site.GetPage "/news" }}
+  {{ $results := .Site.GetPage "/results" }}
+
+  <section class='content'>
+    <h1>{{ .Title }}</h1>
+
+      {{ .Content }}
+
+    <div id="results">
+      <h2>Results</h2>
+      <ul>
+      {{ range $results.Pages }}
+        <li><a href="{{ .Permalink }}">{{ .Params.Year }}</a></li>
+      {{ end }}
+      </ul>
+    </div>
+
+    <div id="news">
+      <h2>News</h2>
+      <ul>
+      {{ range first 5 (where .Site.RegularPages "Section" "news") }}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      {{ end }}
+      </ul>
+    </div>
+  </section>
+{{ end }}

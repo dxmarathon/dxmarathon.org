@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <section class='content'>
+    <h1>DX Marathon Results</h1>
+
+    {{ .Content }}
+
+    <ul>
+    {{ range .Pages }}
+      <li><a href="{{ .Permalink }}">{{ .Params.Year }}</a></li>
+    {{ end }}
+    </ul>
+  </section>
+{{ end }}
