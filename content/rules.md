@@ -88,8 +88,7 @@ The DX Marathon will award plaques as follows: highest overall score in Unlimite
 
 Certificates are awarded to qualified participants in this order: highest overall score on the 160, 60, 6 and 2 meter bands; highest overall score for each of the three modes on each continent with the exception of CW in Europe and North America; highest overall score in each CQ zone; highest overall score in each country; highest overall score for each class in the USA; highest overall score in Unlimited, Limited, Formula 100 watt and Formula 5 watt classes in each USA callsign district; highest overall score in each Canadian callsign district. Plaque winners are not eligible for certificates. Only one certificate will be awarded per entrant. In the case of a participant qualifying for more than one certificate, that participant will receive a certificate for the highest level based on the above order. In all cases, the rulings of the Marathon Manager are final.
 
-## Youth
-Overlay
+## Youth Overlay
 
 In 2022 we are introducing a new Youth overlay category. The Youth category for 2022 is open to anyone who was born on January 1, 1997 or later. Special Youth certificates will be awarded to the highest Youth score in each of the six Continents. To enter in the Youth overlay, the entrant must use the comments box at the bottom of the DX Marathon entry form and clearly state that it is a Youth entry and clearly state their date of birth. All Youth entries may be subject to age verification.
 

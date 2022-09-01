@@ -1,0 +1,798 @@
+---
+subtitle: Country Leaders
+weight: 5
+---
+
+<div align="center">
+
+\# = Corrected scores &nbsp;&nbsp;&nbsp; * = Certificate Winner
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="289" style="width: 217.0pt; border-collapse: collapse">
+	<tr style="height: 18.75pt">
+		<td width="289" nowrap colspan="3" valign="bottom" style="width: 217.0pt; height: 18.75pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="4"><b><span style="color: black">Countries</span></b></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Alaska</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">AL7KC*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">216</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Antarctica</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">DP1POL*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">134</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Argentina</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">LU1FAM*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">286</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Australia</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">VK3GA*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">299</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Bahrain</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">A92GE*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">294</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Balearic
+		Islands</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">EA6DB*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">131</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Belarus</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">EV1R*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">300</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Belgium</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">ON6QRP*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">199</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Brazil</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">PY5EG</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">325</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Canada</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">VE3VEE</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">322</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Canary
+		Islands</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">EA8AXT</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">304</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Chile</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">CE3WW*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">177</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">China</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">BA4TB*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">147</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Colombia</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">HK3W*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">243</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Crete</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">SV9COL*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">252</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Croatia</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">9A2EU*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">251</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Cuba</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">CO6HLP</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">189</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Curacao</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">PJ2/W9VA*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">81</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Czech
+		Republic</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">OK2PAY</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">321</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Denmark</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">OZ7YY*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">313</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Easter Island</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">CB0Y*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">73</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">England</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">G4AYU*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">152</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Fernando de
+		Noronha</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">PY0F/PP1CZ*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">119</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Finland</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">OH5RF*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">185</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">France</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">F5CQ*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">304</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Germany</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">DL5AN*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">315</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Greec</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">SV1CNS*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">226</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Guernsey</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">GU0SUP*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">175</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Hungary</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">HA0HW*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">263</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Iceland</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">TF3DC*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">220</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">India</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">VU2CPL*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">280</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Indonesia</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">YB1AR*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">295</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Iraq</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">YI3WHR*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">155</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Ireland</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">EI7CC*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">239</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Italy</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">I4EAT*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">325</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Japan#</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">JA2NDQ*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">319</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Kuwait</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">9K2NO*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">295</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Libya</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">5A1AL*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">122</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Lithuania</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">LY7Z*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">294</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Luxembourg</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">LX1CW*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">295</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Madeira
+		Island</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">CT3HF*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">239</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Mexico</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">XE2AU*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">182</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Netherlands</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">PA2LO</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">296</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">New Caledonia</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">FK1TS*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">151</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">New Zealand</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">ZL2IFB</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">316</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Northern
+		Ireland</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">GI4SJQ*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">268</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Paraguay</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">ZP5BVK*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">194</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Philippines</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">DU2UXH*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">122</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Poland</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">SQ8N*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">305</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Portugal</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">CT1IUA*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">320</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Qatar</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">A75GT*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">186</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Romania</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">YO9HP*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">300</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Russia (Asia)</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">R9AB*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">297</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Russia
+		(Europe)</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">R6YY*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">323</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Saint Martin</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">FS/W9ILY*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">106</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Saudi Arabia</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">7Z1SJ*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">266</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Serbia</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">YU1WAT*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">121</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Slovak
+		Republic</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">OM3EY*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">322</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">South Africa</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">ZS6C*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">227</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Spain</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">EA1DR</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">325</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Sweden</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">SM0MPV*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">303</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Taiwan</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">BV1EK*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">168</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Turkey (Asia)</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">TA3MHA*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">217</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Turkey
+		(Europe)</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">TA1CM*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">240</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">United Arab
+		Emirates</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">A65CA</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">319</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Uruguay</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">CX6VM*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">127</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">USA</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">K2TQC</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">326</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Venezuela</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">YV1KK*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">240</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Vietnam</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">XV4Y*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">82</span></font></td>
+	</tr>
+	<tr style="height: 15.0pt">
+		<td width="161" nowrap valign="bottom" style="width: 121.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">Wales</span></font></td>
+		<td width="98" nowrap valign="bottom" style="width: 73.8pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" style="line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">GW4EVX*</span></font></td>
+		<td width="29" nowrap valign="bottom" style="width: 22.1pt; height: 15.0pt; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0in; padding-bottom: 0in">
+		<p class="MsoNormal" align="center" style="text-align: center; line-height: normal; margin-bottom: .0001pt">
+		<font face="Arial" size="3"><span style="color: black">110</span></font></td>
+	</tr>
+</table>
+
+</div>
