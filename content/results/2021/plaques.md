@@ -1,5 +1,6 @@
 ---
 subtitle: Plaques
+weight: 2
 ---
 
 <div align="center">

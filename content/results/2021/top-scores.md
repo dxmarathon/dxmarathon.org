@@ -1,6 +1,6 @@
 ---
 subtitle: Top Scores
-weight: 100
+weight: 1
 ---
 
 <div align="center">

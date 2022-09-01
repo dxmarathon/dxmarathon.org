@@ -4,9 +4,8 @@ subtitle: All Scores
 
 ### (includes CLASS, MODE, BAND and CLUB scores listing)
 
-<div>
+<div align="center">
 
-<p align="center"> &nbsp;</p>
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="285" style="width: 214.05pt; border-collapse: collapse">
 	<tr style="height: 21.0pt">
 		<td width="285" nowrap colspan="4" valign="bottom" style="width:214.05pt;
