@@ -1,0 +1,3 @@
+<div class="sidebar {{ with .Get 0 }}sidebar-{{.}}{{ end }}">
+  {{ .Inner | markdownify }}
+</div>
