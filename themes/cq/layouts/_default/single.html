@@ -10,6 +10,9 @@
       {{ with .Params.SubTitle }}
         <h2>{{.}}</h2>
       {{ end }}
+      {{ with .Date }}
+        {{ .Format "Jan 2 2006" }}
+      {{ end }}
     </div>
 
     {{ .Content }}

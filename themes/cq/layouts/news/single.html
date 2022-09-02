@@ -1,0 +1,31 @@
+{{ define "main" }}
+  <section class='content'>
+    <div class='title'>
+      {{ with .Params.PreTitle }}
+        <h2>{{.}}</h2>
+      {{ end }}
+      {{ with .Title }}
+        <h1>{{.}}</h1>
+      {{ end }}
+      {{ with .Params.SubTitle }}
+        <h2>{{.}}</h2>
+      {{ end }}
+      <p class="news-meta">
+        {{ $lastmodstr := .Lastmod.Format "January 2 2006" }}
+        {{ $datestr := .Date.Format "January 2 2006" }}
+        {{ with $datestr }}
+          Posted on {{ $datestr }}
+        {{ end }}
+        {{ if ne $datestr $lastmodstr  }}
+          &nbsp; Last modified on {{ $lastmodstr  }}
+        {{ end }}
+
+        {{ with .Params.Author }}
+          by {{.}}
+        {{ end }}
+      </p>
+    </div>
+
+    {{ .Content }}
+  </section>
+{{ end }}

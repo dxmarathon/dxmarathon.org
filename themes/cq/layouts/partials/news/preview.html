@@ -4,15 +4,20 @@
         </a>
 
         <p class="news-meta">
-          {{ $lastmodstr := default (i18n "dateFormat") .Site.Params.dateformat | .Lastmod.Format }}
-          {{ $datestr := default (i18n "dateFormat") .Site.Params.dateformat | .Date.Format }}
-          Posted on {{ $datestr }}
-          {{ if ne $datestr $lastmodstr }}
+          {{ $lastmodstr := .Lastmod.Format "January 2 2006" }}
+          {{ $datestr := .Date.Format "January 2 2006" }}
+          {{ with $datestr }}
+            Posted on {{ $datestr }}
+          {{ end }}
+          {{ if ne $datestr $lastmodstr  }}
             &nbsp; Last modified on {{ $lastmodstr  }}
+          {{ end }}
+          {{ with .Params.Author }}
+            by {{.}}
           {{ end }}
         </p>
 
-        <div class="mews-entry">
+        <div class="news-entry">
           {{ if .Params.subtitle }}
             <h3 class="post-subtitle">
               {{ .Params.subtitle }}
