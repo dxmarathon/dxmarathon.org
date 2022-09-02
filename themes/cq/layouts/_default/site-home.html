@@ -27,7 +27,9 @@
       </div>
     </div>
 
-    {{ .Content }}
+    <div class='body'>
+      {{ .Content }}
+    </div>
 
     <div id="results">
       {{ range first 1 $results.Pages }}

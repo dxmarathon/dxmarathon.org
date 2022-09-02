@@ -4,7 +4,9 @@
       <h1>DX Marathon News</h1>
     </div>
 
-    {{ .Content }}
+    <div class='body'>
+      {{ .Content }}
+    </div>
 
     {{ range .Paginator.Pages }}
       {{ partial "news/preview.html" .}}

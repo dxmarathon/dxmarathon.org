@@ -47,392 +47,106 @@ Check Zone 2 	submissions carefully - see Zone 2 information below.
 
 ## Valid Callsigns &amp; Callsign Notes
 
-<table>
-	<tr>
-		<th colspan="2">CALLSIGN NOTES</th>
-	</tr>
-	<tr>
-		<td>1A0KM</td>
-		<td>Pirate on 24 February</td>
-	</tr>
-	<tr>
-		<td>2Q</td>
-		<td>2Q stations may be in any Great Britain country in June. See [this web
-		page](https://clublog.freshdesk.com/support/solutions/articles/3000112434) for more info</td>
-	</tr>
-	<tr>
-		<td>3A</td>
-		<td>Many pirates - makes sure you can confirm your QSO</td>
-	</tr>
-	<tr>
-		<td>3A/PB8DX</td>
-		<td>Please check log carefully for 15m QSOs - a pirate was active on 15.</td>
-	</tr>
-	<tr>
-		<td>3A3A</td>
-		<td>Valid callsign</td>
-	</tr>
-	<tr>
-		<td>3V8BB</td>
-		<td>6M not allowed - any 6m activity is from a pirate</td>
-	</tr>
-	<tr>
-		<td>4U0WFP</td>
-		<td>Counts as Italy</td>
-	</tr>
-	<tr>
-		<td>4U1A</td>
-		<td>Valid callsign - Same as 4U1VIC</td>
-	</tr>
-	<tr>
-		<td>4U1GSC</td>
-		<td>Counts as Italy</td>
-	</tr>
-	<tr>
-		<td>4U1ITU</td>
-		<td>Activity starting April 10 is valid</td>
-	</tr>
-	<tr>
-		<td>4U1WB</td>
-		<td>Counts as USA</td>
-	</tr>
-	<tr>
-		<td>4U1XMAS</td>
-		<td>Valid callsign - Same as 4U1VIC</td>
-	</tr>
-	<tr>
-		<td>4U13FEB</td>
-		<td>Counts as Italy</td>
-	</tr>
-	<tr>
-		<td>4U2U</td>
-		<td>Valid callsign - Same as 4U1VIC</td>
-	</tr>
-	<tr>
-		<td>4U2WRC</td>
-		<td>Same as 4U1ITU</td>
-	</tr>
-	<tr>
-		<td>4U29MAY</td>
-		<td>Counts as Italy</td>
-	</tr>
-	<tr>
-		<td>4U75A</td>
-		<td>Valid callsign - Same as 4U1VIC</td>
-	</tr>
-	<tr>
-		<td>4U75B</td>
-		<td>Counts as Italy</td>
-	</tr>
-	<tr>
-		<td>4U9A</td>
-		<td>Counts as Italy</td>
-	</tr>
-	<tr>
-		<td>4UNR</td>
-		<td>Valid callsign - Same as 4U1VIC</td>
-	</tr>
-	<tr>
-		<td>4Y1A</td>
-		<td>Valid callsign - Same as 4U1VIC</td>
-	</tr>
-	<tr>
-		<td>5X2G</td>
-		<td>Valid callsign</td>
-	</tr>
-	<tr>
-		<td>5X2H</td>
-		<td>Valid callsign</td>
-	</tr>
-	<tr>
-		<td>5X3Z</td>
-		<td>Valid callsign</td>
-	</tr>
-	<tr>
-		<td>8N1AQ/JD1</td>
-		<td>Minami Torishima</td>
-	</tr>
-	<tr>
-		<td>9M22DX</td>
-		<td>West Malaysia - 9M2</td>
-	</tr>
-	<tr>
-		<td>9M4CGR</td>
-		<td>West Malaysia - 9M2</td>
-	</tr>
-	<tr>
-		<td>9M4CKR</td>
-		<td>East Malaysia - 9M6</td>
-	</tr>
-	<tr>
-		<td>9M59SD</td>
-		<td>East Malaysia - 9M6</td>
-	</tr>
-	<tr>
-		<td>BY1CRA/WO22</td>
-		<td>Station is located in China, not USA - special Winter Olympic station</td>
-	</tr>
-	<tr>
-		<td>C7A</td>
-		<td>Valid callsign - Same as 4U1VIC</td>
-	</tr>
-	<tr>
-		<td>CE0YHF</td>
-		<td>Operating from CE3 - counts as Chile. Often does not sign CE3/</td>
-	</tr>
-	<tr>
-		<td>E51CJC</td>
-		<td>Valid callsign - South Cook</td>
-	</tr>
-	<tr>
-		<td>E51WL</td>
-		<td>Pirate at 1200Z on 80m; 28Jul 14090 - Pirate. Warwick only operates
-		16-20z and 03-06Z</td>
-	</tr>
-	<tr>
-		<td>FM/PE1IGM</td>
-		<td>Contacts NOT valid - operating from a boat</td>
-	</tr>
-	<tr>
-		<td>FO/KD6XU</td>
-		<td>Operating from a boat - contacts not valid</td>
-	</tr>
-	<tr>
-		<td>FO5QS</td>
-		<td>Moved to Marquesas in July</td>
-	</tr>
-	<tr>
-		<td>GQ</td>
-		<td>GQ stations may be in any Great Britain country in June. See [this web
-		page](https://clublog.freshdesk.com/support/solutions/articles/3000112434) for more info</td>
-	</tr>
-	<tr>
-		<td>HV0A</td>
-		<td>Activity on 9Feb on 15m FT8 and May10 on 20m SSB was a pirate</td>
-	</tr>
-	<tr>
-		<td>HZ</td>
-		<td>30 meters not currently allowed in Saudi Arabia</td>
-	</tr>
-	<tr>
-		<td>JW6VDA</td>
-		<td>Pirate on May 1,2,3. Any CW is from a pirate</td>
-	</tr>
-	<tr>
-		<td>LU1ZD</td>
-		<td>Same as CE9, AN-016, Barry Island - planned for April 15-18</td>
-	</tr>
-	<tr>
-		<td>MQ</td>
-		<td>MQ stations may be in any Great Britain country in June. See [this web
-		page](https://clublog.freshdesk.com/support/solutions/articles/3000112434) for more info</td>
-	</tr>
-	<tr>
-		<td>NL8F</td>
-		<td>Callsign was used by a pirate on 6m on June 2nd</td>
-	</tr>
-	<tr>
-		<td>SP6TL/5W</td>
-		<td>He is operating from Poland with 5 watts - not in 5W.</td>
-	</tr>
-	<tr>
-		<td>SU9VB</td>
-		<td>All FT8 is from a pirate; Also pirate on 26May 10,15,20 CW; 24May 15 CW;
-		21May 15 CW</td>
-	</tr>
-	<tr>
-		<td>TC60TRAC</td>
-		<td>Asia Turkey</td>
-	</tr>
-	<tr>
-		<td>TO1A</td>
-		<td>Same as FY</td>
-	</tr>
-	<tr>
-		<td>TO1Q</td>
-		<td>Same as FG March-April</td>
-	</tr>
-	<tr>
-		<td>TO2AZ</td>
-		<td>Same as FG 27May-10June</td>
-	</tr>
-	<tr>
-		<td>TO3Z</td>
-		<td>Same as FG</td>
-	</tr>
-	<tr>
-		<td>TO4A</td>
-		<td>Same as FM</td>
-	</tr>
-	<tr>
-		<td>TO5A</td>
-		<td>Same as FM - CQWW SSB contest</td>
-	</tr>
-	<tr>
-		<td>TO5T</td>
-		<td>Same as FP - CANCELLED</td>
-	</tr>
-	<tr>
-		<td>TO5Z</td>
-		<td>Same as FM</td>
-	</tr>
-	<tr>
-		<td>TO6S</td>
-		<td>Same as FG - 20Jan-1Feb</td>
-	</tr>
-	<tr>
-		<td>TO60CNES</td>
-		<td>Same as FY</td>
-	</tr>
-	<tr>
-		<td>TO7GJ</td>
-		<td>Same as FH - mostly 6m EME</td>
-	</tr>
-	<tr>
-		<td>TO8FTDM</td>
-		<td>Same as FG</td>
-	</tr>
-	<tr>
-		<td>TO8N</td>
-		<td>Same as FM</td>
-	</tr>
-	<tr>
-		<td>TO9W</td>
-		<td>Same as FS</td>
-	</tr>
-	<tr>
-		<td>TX5AQ</td>
-		<td>Same as FO/A - Austral Islands</td>
-	</tr>
-	<tr>
-		<td>TX5N</td>
-		<td>Austral Islands - expedition planned for April 16-28</td>
-	</tr>
-	<tr>
-		<td>TX5XG</td>
-		<td>Austral Islands - expedition planned for November 2-9</td>
-	</tr>
-	<tr>
-		<td>TX60CNES</td>
-		<td>Same as FK</td>
-	</tr>
-	<tr>
-		<td>TX7G</td>
-		<td>Marquesas Islands - expedition planned for October 1-15</td>
-	</tr>
-	<tr>
-		<td>TY5TZ</td>
-		<td>No info - checking for validity</td>
-	</tr>
-	<tr>
-		<td>V85BS</td>
-		<td>Pirate on 27Jan 20m FT4</td>
-	</tr>
-	<tr>
-		<td>VB3Q70</td>
-		<td>Valid Canadian callsign</td>
-	</tr>
-	<tr>
-		<td>VK1MDJ/P2</td>
-		<td>Appears to be portable VK2 and NOT in P2</td>
-	</tr>
-	<tr>
-		<td>VK9DX</td>
-		<td>12m CW on 31 March was from a pirate. 10m CW activity was real.</td>
-	</tr>
-	<tr>
-		<td>VP2V/N9DK</td>
-		<td>Operating from a boat - contacts not valid</td>
-	</tr>
-	<tr>
-		<td>VU2TS</td>
-		<td>Pirate on 15m on April 26th</td>
-	</tr>
-	<tr>
-		<td>XU7AGA</td>
-		<td>Pirate on 19Feb 80m</td>
-	</tr>
-	<tr>
-		<td>ZG</td>
-		<td>Valid prefix for ZB in June</td>
-	</tr>
-	<tr>
-		<td>ZL75WARC</td>
-		<td>Counts as New Zealand</td>
-	</tr>
-</table>
+| CALLSIGN    | NOTES                                                                                                                                                       |
+|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1A0KM       | Pirate on 24 February                                                                                                                                       |
+| 2Q          | 2Q stations may be in any Great Britain country in June. See [this page](https://clublog.freshdesk.com/support/solutions/articles/3000112434) for more info |
+| 3A          | Many pirates - makes sure you can confirm your QSO                                                                                                          |
+| 3A/PB8DX    | Please check log carefully for 15m QSOs - a pirate was active on 15.                                                                                        |
+| 3A3A        | Valid callsign                                                                                                                                              |
+| 3V8BB       | 6M not allowed - any 6m activity is from a pirate                                                                                                           |
+| 4U0WFP      | Counts as Italy                                                                                                                                             |
+| 4U1A        | Valid callsign - Same as 4U1VIC                                                                                                                             |
+| 4U1GSC      | Counts as Italy                                                                                                                                             |
+| 4U1ITU      | Activity starting April 10 is valid                                                                                                                         |
+| 4U1WB       | Counts as USA                                                                                                                                               |
+| 4U1XMAS     | Valid callsign - Same as 4U1VIC                                                                                                                             |
+| 4U13FEB     | Counts as Italy                                                                                                                                             |
+| 4U2U        | Valid callsign - Same as 4U1VIC                                                                                                                             |
+| 4U2WRC      | Same as 4U1ITU                                                                                                                                              |
+| 4U29MAY     | Counts as Italy                                                                                                                                             |
+| 4U75A       | Valid callsign - Same as 4U1VIC                                                                                                                             |
+| 4U75B       | Counts as Italy                                                                                                                                             |
+| 4U9A        | Counts as Italy                                                                                                                                             |
+| 4UNR        | Valid callsign - Same as 4U1VIC                                                                                                                             |
+| 4Y1A        | Valid callsign - Same as 4U1VIC                                                                                                                             |
+| 5X2G        | Valid callsign                                                                                                                                              |
+| 5X2H        | Valid callsign                                                                                                                                              |
+| 5X3Z        | Valid callsign                                                                                                                                              |
+| 8N1AQ/JD1   | Minami Torishima                                                                                                                                            |
+| 9M22DX      | West Malaysia - 9M2                                                                                                                                         |
+| 9M4CGR      | West Malaysia - 9M2                                                                                                                                         |
+| 9M4CKR      | East Malaysia - 9M6                                                                                                                                         |
+| 9M59SD      | East Malaysia - 9M6                                                                                                                                         |
+| BY1CRA/WO22 | Station is located in China, not USA - Special Winter Olympic station                                                                                       |
+| C7A         | Valid callsign - Same as 4U1VIC                                                                                                                             |
+| CE0YHF      | Operating from CE3 - counts as Chile. Often does not sign CE3/                                                                                              |
+| E51CJC      | Valid callsign - South Cook Is.                                                                                                                             |
+| E51WL       | Pirate at 1200Z on 80m; 28Jul 14090 - Pirate. Warwick only operates 16-20z and 03-06Z                                                                       |
+| FM/PE1IGM   | Contacts NOT valid - operating from a boat                                                                                                                  |
+| FO/KD6XU    | Operating from a boat - contacts not valid                                                                                                                  |
+| FO5QS       | Moved to Marquesas in July                                                                                                                                  |
+| GQ          | GQ stations may be in any Great Britain country in June. See [this page](https://clublog.freshdesk.com/support/solutions/articles/3000112434) for more info |
+| HV0A        | Activity on 9Feb on 15m FT8 and May10 on 20m SSB was a pirate                                                                                               |
+| HZ          | 30 meters not currently allowed in Saudi Arabia                                                                                                             |
+| JW6VDA      | Pirate on May 1,2,3. Any CW is from a pirate                                                                                                                |
+| LU1ZD       | Same as CE9, AN-016, Barry Island - planned for April 15-18                                                                                                 |
+| MQ          | MQ stations may be in any Great Britain country in June. See [this page](https://clublog.freshdesk.com/support/solutions/articles/3000112434) for more info |
+| NL8F        | Callsign was used by a pirate on 6m on June 2nd                                                                                                             |
+| SP6TL/5W    | He is operating from Poland with 5 watts - not in 5W.                                                                                                       |
+| SU9VB       | All FT8 is from a pirate; Also pirate on 26May 10,15,20 CW; 24May 15 CW; 21May 15 CW                                                                        |
+| TC60TRAC    | Asia Turkey                                                                                                                                                 |
+| TO1A        | Same as FY                                                                                                                                                  |
+| TO1Q        | Same as FG March-April                                                                                                                                      |
+| TO2AZ       | Same as FG 27May-10June                                                                                                                                     |
+| TO3Z        | Same as FG                                                                                                                                                  |
+| TO4A        | Same as FM                                                                                                                                                  |
+| TO5A        | Same as FM - CQWW SSB contest                                                                                                                               |
+| TO5T        | Same as FP - CANCELLED                                                                                                                                      |
+| TO5Z        | Same as FM                                                                                                                                                  |
+| TO6S        | Same as FG - 20Jan-1Feb                                                                                                                                     |
+| TO60CNES    | Same as FY                                                                                                                                                  |
+| TO7GJ       | Same as FH - mostly 6m EME                                                                                                                                  |
+| TO8FTDM     | Same as FG                                                                                                                                                  |
+| TO8N        | Same as FM                                                                                                                                                  |
+| TO9W        | Same as FS                                                                                                                                                  |
+| TX5AQ       | Same as FO/A - Austral Islands                                                                                                                              |
+| TX5N        | Austral Islands - expedition planned for April 16-28                                                                                                        |
+| TX5XG       | Austral Islands - expedition planned for November 2-9                                                                                                       |
+| TX60CNES    | Same as FK                                                                                                                                                  |
+| TX7G        | Marquesas Islands - expedition planned for October 1-15                                                                                                     |
+| TY5TZ       | No info - checking for validity                                                                                                                             |
+| V85BS       | Pirate on 27Jan 20m FT4                                                                                                                                     |
+| VB3Q70      | Valid Canadian callsign                                                                                                                                     |
+| VK1MDJ/P2   | Appears to be portable VK2 and NOT in P2                                                                                                                    |
+| VK9DX       | 12m CW on 31 March was from a pirate. 10m CW activity was real.                                                                                             |
+| VP2V/N9DK   | Operating from a boat - contacts not valid                                                                                                                  |
+| VU2TS       | Pirate on 15m on April 26th                                                                                                                                 |
+| XU7AGA      | Pirate on 19Feb 80m                                                                                                                                         |
+| ZG          | Valid prefix for ZB in June                                                                                                                                 |
+| ZL75WARC    | Counts as New Zealand                                                                                                                                       |
+
 
 ## Invalid Callsigns
 
-<table>
-	<tr>
-		<th colspan="2">&nbsp;</th>
-	</tr>
-	<tr>
-		<td>1A0/PE5CE</td>
-		<td>Pirate</td>
-	</tr>
-	<tr>
-		<td>1A0UN</td>
-		<td>Pirate</td>
-	</tr>
-	<tr>
-		<td>3A2AM</td>
-		<td>Pirate</td>
-	</tr>
-	<tr>
-		<td>6V6CYU</td>
-		<td>Pirate</td>
-	</tr>
-	<tr>
-		<td>8Q7/RX3APM</td>
-		<td>Pirate</td>
-	</tr>
-	<tr>
-		<td>9Q7AX</td>
-		<td>Pirate</td>
-	</tr>
-	<tr>
-		<td>BG5IQX</td>
-		<td>Uses USA based remote</td>
-	</tr>
-	<tr>
-		<td>C9LOC</td>
-		<td>Pirate</td>
-	</tr>
-	<tr>
-		<td>FT5WQ</td>
-		<td>Pirate</td>
-	</tr>
-	<tr>
-		<td>HB0TW</td>
-		<td>Pirate activity - callsign has not been used since 2020</td>
-	</tr>
-	<tr>
-		<td>T32C</td>
-		<td>Pirate</td>
-	</tr>
-	<tr>
-		<td>TY5TZ</td>
-		<td>Pirate</td>
-	</tr>
-	<tr>
-		<td>VQ9LT</td>
-		<td>Pirate</td>
-	</tr>
-	<tr>
-		<td>VU2GSM</td>
-		<td>Uses remotes in other countries</td>
-	</tr>
-	<tr>
-		<td>YK7R</td>
-		<td>Pirate</td>
-	</tr>
-	<tr>
-		<td>ZD8RTC</td>
-		<td>Pirate</td>
-	</tr>
-</table>
+| CALLSIGN   | NOTES                                                   |
+|------------|---------------------------------------------------------|
+| 1A0/PE5CE  | Pirate                                                  |
+| 1A0UN      | Pirate                                                  |
+| 3A2AM      | Pirate                                                  |
+| 6V6CYU     | Pirate                                                  |
+| 8Q7/RX3APM | Pirate                                                  |
+| 9Q7AX      | Pirate                                                  |
+| BG5IQX     | Uses USA based remote                                   |
+| C9LOC      | Pirate                                                  |
+| FT5WQ      | Pirate                                                  |
+| HB0TW      | Pirate activity - callsign has not been used since 2020 |
+| T32C       | Pirate                                                  |
+| TY5TZ      | Pirate                                                  |
+| VQ9LT      | Pirate                                                  |
+| VU2GSM     | Uses remotes in other countries                         |
+| YK7R       | Pirate                                                  |
+| ZD8RTC     | Pirate                                                  |
 
 
 
@@ -440,6 +154,7 @@ Check Zone 2 	submissions carefully - see Zone 2 information below.
 ## Zone 2 Callsigns
 
 **Zone 2 (Northeastern Zone of North America) Official Definition:**
+
 * <b>VO2</b> (Labrador)
 * The portion of <b>VE2</b> Quebec north of the 50th parallel
 * Nunavut Territories east of 102 degrees (Includes the islands of
@@ -453,623 +168,150 @@ Click [here](http://www.hamatlas.eu/waz/Strefy_mapy/Nunavut.jpg) for a detailed 
 
 The following callsigns are good for Zone 2. As	2022 expeditions are announced, more callsigns will be added.
 
-<table>
-	<tr>
-		<th colspan="2">&nbsp;</th>
-	</tr>
-  <tr>
-    <td>VA2RC</td>
-    <td>Zone 2 on June 24, 2021</td>
-  </tr>
-  <tr>
-    <td>VA2VT</td>
-    <td>Zone 2 November 25-29 2021</td>
-  </tr>
-  <tr>
-    <td>VE2CSI</td>
-    <td>Resident</td>
-  </tr>
-  <tr>
-    <td>VE2IDX</td>
-    <td>Contests only</td>
-  </tr>
-  <tr>
-    <td>VE2IM</td>
-    <td>CQWW SSB 2021</td>
-  </tr>
-  <tr>
-    <td>VE2IM</td>
-    <td>November 22-29, 2021</td>
-  </tr>
-  <tr>
-    <td>VO2 (any)</td>
-    <td>All VO2 stations are in Zone 2</td>
-  </tr>
-  <tr>
-    <td>VY0ERC</td>
-    <td>Resident</td>
-  </tr>
-  <tr>
-    <td>VY0MEL</td>
-    <td>Part time resident</td>
-  </tr>
-</table>
-
-
+| CALLSIGN  | NOTES                          |
+|-----------|--------------------------------|
+| VA2RC     | Zone 2 on June 24, 2021        |
+| VA2VT     | Zone 2 November 25-29 2021     |
+| VE2CSI    | Resident                       |
+| VE2IDX    | Contests only                  |
+| VE2IM     | CQWW SSB 2021                  |
+| VE2IM     | November 22-29, 2021           |
+| VO2 (any) | All VO2 stations are in Zone 2 |
+| VY0ERC    | Resident                       |
+| VY0MEL    | Part time resident             |
 
 
 ## Known Shetland Islands Callsigns
 
 The following stations are known to have operated from the Shetland Islands (GM/S) at some time over the last few years. Not all are currently active.
 
-<table>
-	<tr>
-		<th colspan="2">&nbsp;</th>
-	</tr>
-	<tr>
-		<td>2M0SPX</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>2M0VIK/MM0VIK</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>GB0DAW</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>GB1COR</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>GB2AES</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>GB2ELH</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>GB2QM</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>GB2SAA</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>GB2SLH</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>GB2SUM</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>GB2WAM</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>GM0EKM</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>GM0GFL</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>GM0JDB</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>GM3ZET</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>GM4JPI</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>GM4LER</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>GM4S</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>GM4SLV</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>GM4SSA - Silent Key</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>GM4WSB/P</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>GS0AAA</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>GS3BSQ</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>GS3ZET</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>GS7V</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>GZ1DVP</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>GZ5Y</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>MA0XAU</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>MM0SHF/P</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>MM0VIK</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>MM0XAU</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>MM0ZRC</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>MM1FEO</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>MM5PSL</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>MM6IIP</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>MM6PTE</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>MM7CGR</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>MS0OXE</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>MZ5A</td>
-		<td>GM/S</td>
-	</tr>
-	<tr>
-		<td>MZ5B</td>
-		<td>GM/S</td>
-	</tr>
-</table>
-
+| CALLSIGN            | NOTES |
+|---------------------|-------|
+| 2M0SPX              | GM/S  |
+| 2M0VIK/MM0VIK       | GM/S  |
+| GB0DAW              | GM/S  |
+| GB1COR              | GM/S  |
+| GB2AES              | GM/S  |
+| GB2ELH              | GM/S  |
+| GB2QM               | GM/S  |
+| GB2SAA              | GM/S  |
+| GB2SLH              | GM/S  |
+| GB2SUM              | GM/S  |
+| GB2WAM              | GM/S  |
+| GM0EKM              | GM/S  |
+| GM0GFL              | GM/S  |
+| GM0JDB              | GM/S  |
+| GM3ZET              | GM/S  |
+| GM4JPI              | GM/S  |
+| GM4LER              | GM/S  |
+| GM4S                | GM/S  |
+| GM4SLV              | GM/S  |
+| GM4SSA - Silent Key | GM/S  |
+| GM4WSB/P            | GM/S  |
+| GS0AAA              | GM/S  |
+| GS3BSQ              | GM/S  |
+| GS3ZET              | GM/S  |
+| GS7V                | GM/S  |
+| GZ1DVP              | GM/S  |
+| GZ5Y                | GM/S  |
+| MA0XAU              | GM/S  |
+| MM0SHF/P            | GM/S  |
+| MM0VIK              | GM/S  |
+| MM0XAU              | GM/S  |
+| MM0ZRC              | GM/S  |
+| MM1FEO              | GM/S  |
+| MM5PSL              | GM/S  |
+| MM6IIP              | GM/S  |
+| MM6PTE              | GM/S  |
+| MM7CGR              | GM/S  |
+| MS0OXE              | GM/S  |
+| MZ5A                | GM/S  |
+| MZ5B                | GM/S  |
 
 
 
 ## Known CQ Zones for Antarctic Callsigns
 
-<table>
-  <tr>
-    <th>CALLSIGN</th>
-    <th>CQ ZONE</th>
-    <th>COMMENTS</th>
-  </tr>
-  <tr>
-    <td>4K1A</td>
-    <td>39</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>4K1B</td>
-    <td>29</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>4K1C</td>
-    <td>29</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>4K1D</td>
-    <td>36</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>4K1E</td>
-    <td>29</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>4K1F</td>
-    <td>13</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>4K1G</td>
-    <td>30</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>4K1H</td>
-    <td>32</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>4K1J</td>
-    <td>13</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>8J1RL</td>
-    <td>39</td>
-    <td>AN-015 until Jan22</td>
-  </tr>
-  <tr>
-    <td>8J60JARE</td>
-    <td>39</td>
-    <td>Syowa Base</td>
-  </tr>
-  <tr>
-    <td>8T2BH</td>
-    <td>39</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>D8A</td>
-    <td>30</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>DH5CW</td>
-    <td>38</td>
-    <td>AN016; Neumayer station, Dec 2017-Feb2019</td>
-  </tr>
-  <tr>
-    <td>DP0GVN</td>
-    <td>38</td>
-    <td>Neumayer Station III</td>
-  </tr>
-  <tr>
-    <td>DP1POL</td>
-    <td>38</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>EM1E</td>
-    <td>13</td>
-    <td>Vernadsky Base, AN006</td>
-  </tr>
-  <tr>
-    <td>EM1UA or EM1U</td>
-    <td>13</td>
-    <td>Vernadsky Base, AN006</td>
-  </tr>
-  <tr>
-    <td>FT3YL</td>
-    <td>30</td>
-    <td>Dumont D'Urville, F6KPQ, Start Feb 2017 AN017</td>
-  </tr>
-  <tr>
-    <td>FT4YM</td>
-    <td>30</td>
-    <td>Nov 2021 to March 2022, Dumont D'Urville base</td>
-  </tr>
-  <tr>
-    <td>HF0POL</td>
-    <td>13</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>HL5BDS</td>
-    <td>13</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>IA0/DK6SQX or DK5SXQ</td>
-    <td>29</td>
-    <td>Concordia</td>
-  </tr>
-  <tr>
-    <td>IA0/IZ1KHY</td>
-    <td>29</td>
-    <td>Concordia Jan2019</td>
-  </tr>
-  <tr>
-    <td>IA0MZ</td>
-    <td>30</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>KC4/N2TA</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>KC4AAA</td>
-    <td>12,13,29,30,32,38,39</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>KC4AAC</td>
-    <td>13</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>KC4AAD</td>
-    <td>13</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>KC4AAE</td>
-    <td>29</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>KC4USB</td>
-    <td>32</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>KC4USN</td>
-    <td>12,13,29,30,32,38,39</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>KC4USV</td>
-    <td>30</td>
-    <td>Active in 2021</td>
-  </tr>
-  <tr>
-    <td>LU1ZAB</td>
-    <td>13</td>
-    <td>Argentine Matienzo Base (LU4DXU)</td>
-  </tr>
-  <tr>
-    <td>LU1ZG</td>
-    <td>13</td>
-    <td>Base Belgrano II</td>
-  </tr>
-  <tr>
-    <td>LU1ZV</td>
-    <td>13</td>
-    <td>BASE ANTÁRTICA ESPERANZA</td>
-  </tr>
-  <tr>
-    <td>LU3HRS/Z</td>
-    <td>&nbsp;</td>
-    <td>ITU Zone 73</td>
-  </tr>
-  <tr>
-    <td>LU4ZA</td>
-    <td>&nbsp;</td>
-    <td>Marambio Base; LU4DXU</td>
-  </tr>
-  <tr>
-    <td>LU4ZS</td>
-    <td>13</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>OJ1ABOA</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>OP0LE</td>
-    <td>38</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>OR4TN</td>
-    <td>38</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>R1ANC</td>
-    <td>29</td>
-    <td>Vostek Station</td>
-  </tr>
-  <tr>
-    <td>R1ANN</td>
-    <td>38</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>R1ANR</td>
-    <td>38</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>R1ANT</td>
-    <td>29</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>RI01ANT - RI0IANT?</td>
-    <td>29, 38</td>
-    <td>Progress and Vostek Station</td>
-  </tr>
-  <tr>
-    <td>RI1ANA</td>
-    <td>39</td>
-    <td>Molodyozhnaya Base, till March 2017</td>
-  </tr>
-  <tr>
-    <td>RI1ANC</td>
-    <td>29</td>
-    <td>Starts again 10 Feb 2020 with new op</td>
-  </tr>
-  <tr>
-    <td>RI1AND</td>
-    <td>38</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>RI1ANL</td>
-    <td>38</td>
-    <td>Novolazarevskaya AN-016 Mar2018 to March2019</td>
-  </tr>
-  <tr>
-    <td>RI1ANL</td>
-    <td>39</td>
-    <td>March 18, 2018 ONLY - Molodezhnaya Station</td>
-  </tr>
-  <tr>
-    <td>RI1ANM</td>
-    <td>38</td>
-    <td>Mirny Base</td>
-  </tr>
-  <tr>
-    <td>RI1ANN</td>
-    <td>38</td>
-    <td>Progress station till 2/22</td>
-  </tr>
-  <tr>
-    <td>RI1ANP</td>
-    <td>39</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>RI1ANR</td>
-    <td>38</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>RI1ANT</td>
-    <td>29</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>RI1ANV</td>
-    <td>29</td>
-    <td>Vostek Station</td>
-  </tr>
-  <tr>
-    <td>RI1ANW</td>
-    <td>38</td>
-    <td>Novolazarevskaya</td>
-  </tr>
-  <tr>
-    <td>RI1ANX</td>
-    <td>&nbsp;</td>
-    <td class='warning'>NEED INFO</td>
-  </tr>
-  <tr>
-    <td>RI1ANZ</td>
-    <td>39</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>RI60ANT</td>
-    <td>38</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>VK0GM</td>
-    <td>29</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>VK0HZ</td>
-    <td>39</td>
-    <td>Davis Base</td>
-  </tr>
-  <tr>
-    <td>VK0PD</td>
-    <td>&nbsp;</td>
-    <td>Casey Station 2021</td>
-  </tr>
-  <tr>
-    <td>VK0JJJ</td>
-    <td>39</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>VP8/SQ1SGB</td>
-    <td>13</td>
-    <td>Halley VI Base (SQ1SGB)</td>
-  </tr>
-  <tr>
-    <td>VP8CTR</td>
-    <td>13</td>
-    <td>AN006</td>
-  </tr>
-  <tr>
-    <td>VP8DMH</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>VP8DPJ</td>
-    <td>13</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>VP8HAL</td>
-    <td>13</td>
-    <td>Halley VI Base (SQ1SGB)</td>
-  </tr>
-  <tr>
-    <td>VP8ME</td>
-    <td>38</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>VP8ROT</td>
-    <td>13</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>VU3LBP/P</td>
-    <td>&nbsp;</td>
-    <td>Bharati Station</td>
-  </tr>
-  <tr>
-    <td>ZL5A</td>
-    <td>30</td>
-    <td>Scott Base</td>
-  </tr>
-  <tr>
-    <td>ZL5AA</td>
-    <td>30</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>ZS7ANF</td>
-    <td>38</td>
-    <td>2021</td>
-  </tr>
-  <tr>
-    <td>ZS7ANT</td>
-    <td>38</td>
-    <td>WAP MNB-12 or MNB-11</td>
-  </tr>
-</table>
+| CALLSIGN             | ZONE                 | NOTES                                         |
+|----------------------|----------------------|-----------------------------------------------|
+| 4K1A                 | 39                   | &nbsp;                                        |
+| 4K1B                 | 29                   | &nbsp;                                        |
+| 4K1C                 | 29                   | &nbsp;                                        |
+| 4K1D                 | 36                   | &nbsp;                                        |
+| 4K1E                 | 29                   | &nbsp;                                        |
+| 4K1F                 | 13                   | &nbsp;                                        |
+| 4K1G                 | 30                   | &nbsp;                                        |
+| 4K1H                 | 32                   | &nbsp;                                        |
+| 4K1J                 | 13                   | &nbsp;                                        |
+| 8J1RL                | 39                   | AN-015 until Jan22                            |
+| 8J60JARE             | 39                   | Syowa Base                                    |
+| 8T2BH                | 39                   | &nbsp;                                        |
+| D8A                  | 30                   | &nbsp;                                        |
+| DH5CW                | 38                   | AN016; Neumayer station, Dec 2017-Feb2019     |
+| DP0GVN               | 38                   | Neumayer Station III                          |
+| DP1POL               | 38                   | &nbsp;                                        |
+| EM1E                 | 13                   | Vernadsky Base, AN006                         |
+| EM1UA or EM1U        | 13                   | Vernadsky Base, AN006                         |
+| FT3YL                | 30                   | Dumont D'Urville, F6KPQ, Start Feb 2017 AN017 |
+| FT4YM                | 30                   | Nov 2021 to March 2022, Dumont D'Urville base |
+| HF0POL               | 13                   | &nbsp;                                        |
+| HL5BDS               | 13                   | &nbsp;                                        |
+| IA0/DK6SQX or DK5SXQ | 29                   | Concordia                                     |
+| IA0/IZ1KHY           | 29                   | Concordia Jan2019                             |
+| IA0MZ                | 30                   | &nbsp;                                        |
+| KC4/N2TA             | &nbsp;               | &nbsp;                                        |
+| KC4AAA               | 12,13,29,30,32,38,39 | &nbsp;                                        |
+| KC4AAC               | 13                   | &nbsp;                                        |
+| KC4AAD               | 13                   | &nbsp;                                        |
+| KC4AAE               | 29                   | &nbsp;                                        |
+| KC4USB               | 32                   | &nbsp;                                        |
+| KC4USN               | 12,13,29,30,32,38,39 | &nbsp;                                        |
+| KC4USV               | 30                   | Active in 2021                                |
+| LU1ZAB               | 13                   | Argentine Matienzo Base (LU4DXU)              |
+| LU1ZG                | 13                   | Base Belgrano II                              |
+| LU1ZV                | 13                   | BASE ANTÁRTICA ESPERANZA                      |
+| LU3HRS/Z             | &nbsp;               | ITU Zone 73                                   |
+| LU4ZA                | &nbsp;               | Marambio Base; LU4DXU                         |
+| LU4ZS                | 13                   | &nbsp;                                        |
+| OJ1ABOA              | &nbsp;               | &nbsp;                                        |
+| OP0LE                | 38                   | &nbsp;                                        |
+| OR4TN                | 38                   | &nbsp;                                        |
+| R1ANC                | 29                   | Vostek Station                                |
+| R1ANN                | 38                   | &nbsp;                                        |
+| R1ANR                | 38                   | &nbsp;                                        |
+| R1ANT                | 29                   | &nbsp;                                        |
+| RI01ANT - RI0IANT?   | 29, 38               | Progress and Vostek Station                   |
+| RI1ANA               | 39                   | Molodyozhnaya Base, till March 2017           |
+| RI1ANC               | 29                   | Starts again 10 Feb 2020 with new op          |
+| RI1AND               | 38                   | &nbsp;                                        |
+| RI1ANL               | 38                   | Novolazarevskaya AN-016 Mar2018 to March2019  |
+| RI1ANL               | 39                   | March 18, 2018 ONLY - Molodezhnaya Station    |
+| RI1ANM               | 38                   | Mirny Base                                    |
+| RI1ANN               | 38                   | Progress station till 2/22                    |
+| RI1ANP               | 39                   | &nbsp;                                        |
+| RI1ANR               | 38                   | &nbsp;                                        |
+| RI1ANT               | 29                   | &nbsp;                                        |
+| RI1ANV               | 29                   | Vostek Station                                |
+| RI1ANW               | 38                   | Novolazarevskaya                              |
+| RI1ANX               | &nbsp;               | class='warning'>NEED INFO                     |
+| RI1ANZ               | 39                   | &nbsp;                                        |
+| RI60ANT              | 38                   | &nbsp;                                        |
+| VK0GM                | 29                   | &nbsp;                                        |
+| VK0HZ                | 39                   | Davis Base                                    |
+| VK0PD                | &nbsp;               | Casey Station 2021                            |
+| VK0JJJ               | 39                   | &nbsp;                                        |
+| VP8/SQ1SGB           | 13                   | Halley VI Base (SQ1SGB)                       |
+| VP8CTR               | 13                   | AN006                                         |
+| VP8DMH               | &nbsp;               | &nbsp;                                        |
+| VP8DPJ               | 13                   | &nbsp;                                        |
+| VP8HAL               | 13                   | Halley VI Base (SQ1SGB)                       |
+| VP8ME                | 38                   | &nbsp;                                        |
+| VP8ROT               | 13                   | &nbsp;                                        |
+| VU3LBP/P             | &nbsp;               | Bharati Station                               |
+| ZL5A                 | 30                   | Scott Base                                    |
+| ZL5AA                | 30                   | &nbsp;                                        |
+| ZS7ANF               | 38                   | 2021                                          |
+| ZS7ANT               | 38                   | WAP MNB-12 or MNB-11                          |
 
 
 

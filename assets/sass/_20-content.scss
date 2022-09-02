@@ -50,3 +50,9 @@ content.text-content > p, content.text-content > div {
   h2 { margin-top: 0; margin-bottom: 0; }
   h3 { margin-top: 0; margin-bottom: 0; }
 }
+
+.content .body {
+  h1, h2 {
+    margin-top: 2em;
+  }
+}
