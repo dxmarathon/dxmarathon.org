@@ -1,0 +1,34 @@
+{{ define "main" }}
+  <section class='content'>
+
+    <div class="title">
+      <h3>Resources, Hints & Tips</h3>
+      <h1>{{ .Params.SubTitle }}</h1>
+    </div>
+
+    <div class='sidebar'>
+      <div class='aside'>
+        <ul class="nav-results">
+          <li><a href="../">Resources, Hints & Tips</a></li>
+          {{ range .Parent.Paginator.Pages }}
+            {{ if (eq . $) }}
+              <li class="current">{{ .Params.SubTitle }}</li>
+            {{ else }}
+              <li><a href="{{ .Permalink }}">{{ .Params.SubTitle }}</a></li>
+            {{ end }}
+          {{ end }}
+        </ul>
+        {{ with .Parent.Params.PDF }}
+          <center>
+            <a href='../{{.}}'>Download a full PDF of the article</a>
+          </center>
+        {{ end }}
+      </div>
+    </div>
+
+    <div class='body'>
+      {{ .Content }}
+    </div>
+
+  </section>
+{{ end }}

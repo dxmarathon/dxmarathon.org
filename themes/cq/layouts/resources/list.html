@@ -1,0 +1,24 @@
+{{ define "main" }}
+  <section class='content'>
+
+    <div class="title">
+      <h1>Resources, Hints & Tips</h1>
+    </div>
+
+    <div class='sidebar'>
+      <div class='aside'>
+        <ul class="nav-results">
+          <li class="current">Resources, Hints & Tips</li>
+        {{ range .Paginator.Pages }}
+          <li><a href="{{ .Permalink }}">{{ .Params.SubTitle }}</a></li>
+        {{ end }}
+        </ul>
+      </div>
+    </div>
+
+    <div class='body'>
+      {{ .Content }}
+    </div>
+
+  </section>
+{{ end }}

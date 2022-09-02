@@ -1,5 +1,6 @@
 ---
-title: 2022 Bad Spots
+subtitle: Bad Spots
+weight: 3
 ---
 
 Last Update - 17 August 2022
