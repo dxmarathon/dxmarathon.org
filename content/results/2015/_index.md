@@ -4,8 +4,8 @@ date: 2016-06-01T00:00:00
 author: "John Sweeney • K9EL"
 ---
 
-36 All time records were broken or added in 2015!
-Click [here](records) for details.
+**36 All time records were broken or added in 2015!
+Click [here](records) for details.**
 
 The higher HF bands are not dead! We all
 expected reduced propagation in 2015, but DX Marathon participants went

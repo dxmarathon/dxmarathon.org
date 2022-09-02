@@ -8,7 +8,7 @@ author: "John Sweeney • K9EL"
 Download a PDF of the full article [here](./2017%20DX%20Marathon%20Results.pdf).
 {{% /note %}}
 
-47 All time records were broken or added in 2016! Click [here](records) for details.
+**47 All time records were broken or added in 2016! Click [here](records) for details.**
 
 Note:
 Since the summary below was published, a scoring error was discovered:
