@@ -1,6 +1,6 @@
 ---
 subtitle: Club Scores
-weight: 3
+weight: 5
 ---
 
 <div align="center">
