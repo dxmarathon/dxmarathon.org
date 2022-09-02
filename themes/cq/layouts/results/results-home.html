@@ -4,7 +4,7 @@
 
     {{ .Content }}
 
-    <ul>
+    <ul id="year-list">
     {{ range .Pages }}
       <li><a href="{{ .Permalink }}">{{ .Params.Year }}</a></li>
     {{ end }}

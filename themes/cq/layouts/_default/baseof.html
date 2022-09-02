@@ -2,7 +2,11 @@
 <!DOCTYPE html>
 <html>
   {{- partial "head.html" . -}}
-  <body class='section-{{$section | urlize}} {{with .Params.PageId}}page-{{.}}{{end}}'>
+  <body class='
+    section-{{$section | urlize}}
+    {{with .Params.PageId}}page-{{.}}{{end}}
+    {{with .Layout}}layout-{{.}}{{end}}
+  '>
     {{- partial "header.html" . -}}
     <main>
       {{- block "main" . }}{{- end }}

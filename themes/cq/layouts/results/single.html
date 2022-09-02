@@ -1,18 +1,27 @@
 {{ define "main" }}
   <section class='content'>
-    <ul class="nav-results">
-      <li><b>{{ .Parent.Params.Year }}:</b></li>
-      <li><a href="../">Main Article</a></li>
-    {{ range .Parent.Paginator.Pages }}
-      {{ if (eq . $) }}
-        <li class="current">{{ .Params.SubTitle }}</li>
-      {{ else }}
-        <li><a href="{{ .Permalink }}">{{ .Params.SubTitle }}</a></li>
-      {{ end }}
-    {{ end }}
-    </ul>
 
     <h1>DX Marathon - {{ .Params.SubTitle }} for {{ .Parent.Params.Year }}</h1>
+
+    <div class='sidebar'>
+      <div class='aside'>
+        <ul class="nav-results">
+          <li><a href="../">Main Article</a></li>
+          {{ range .Parent.Paginator.Pages }}
+            {{ if (eq . $) }}
+              <li class="current">{{ .Params.SubTitle }}</li>
+            {{ else }}
+              <li><a href="{{ .Permalink }}">{{ .Params.SubTitle }}</a></li>
+            {{ end }}
+          {{ end }}
+        </ul>
+        {{ with .Parent.Params.PDF }}
+          <center>
+            <a href='../{{.}}'>Download a full PDF of the article</a>
+          </center>
+        {{ end }}
+      </div>
+    </div>
 
     {{ .Content }}
 

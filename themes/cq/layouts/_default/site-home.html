@@ -16,13 +16,15 @@
       {{ end }}
     </div>
 
-    <div id="news" class="sidebar">
-      <h2>Latest News</h2>
-      <ul>
-      {{ range first 5 (where .Site.RegularPages "Section" "news") }}
-        <li>{{ with .Date }}{{ .Format "Jan 2 2006" }}: {{ end }}<a href="{{ .Permalink }}">{{ .Title }}</a></li>
-      {{ end }}
-      </ul>
+    <div class="sidebar">
+      <div id="news" class="aside">
+        <h2>Latest News</h2>
+        <ul>
+        {{ range first 5 (where .Site.RegularPages "Section" "news") }}
+          <li>{{ with .Date }}{{ .Format "Jan 2 2006" }}: {{ end }}<a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ end }}
+        </ul>
+      </div>
     </div>
 
     {{ .Content }}

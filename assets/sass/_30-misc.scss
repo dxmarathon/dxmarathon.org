@@ -1,15 +1,26 @@
-.note {
-  background-color: var(--color-cq-yellow-bg);
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
-  padding: 1em;
-  margin-bottom: 1.5em;
-
+.sidebar {
   max-width: 40%;
   min-width: 20%;
 
-  margin-left: 1.5em;
-  margin-right: 0;
+  margin: 0 0 1rem 1.5rem;
   float: right;
+}
+
+.note {
+  background-color: var(--color-cq-yellow-bg);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+
+  margin-right: 0;
+  margin-bottom: 1.5rem;
+}
+
+.aside {
+  background-color: var(--color-cq-blue-bg);
+  border: 2px solid var(--color-border);
+  padding: 1rem;
+  margin-bottom: 1.5rem;
 }
 
 .note-left {
@@ -18,7 +29,7 @@
   float: left;
 }
 
-.sidebar {
+.xsidebar {
   background-color: var(--color-cq-blue-bg);
   border: 2px solid var(--color-border);
   padding: 1em;

@@ -2,11 +2,8 @@
 year: 2021
 date: 2022-06-01T00:00:00
 author: "John Sweeney • K9EL"
+pdf: 2021%20DX%20Marathon%20Results.pdf
 ---
-
-{{% note right %}}
-Download a PDF of the full article [here](./2021%20DX%20Marathon%20Results.pdf).
-{{% /note %}}
 
 _Great first-time experience. Would like to have worked more countries_	– **W9AP**
 

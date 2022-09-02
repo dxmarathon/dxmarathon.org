@@ -2,11 +2,8 @@
 year: 2016
 date: 2017-06-01T00:00:00
 author: "John Sweeney • K9EL"
+pdf: 2016%20DX%20Marathon%20Results.pdf
 ---
-
-{{% note right %}}
-Download a PDF of the full article [here](./2017%20DX%20Marathon%20Results.pdf).
-{{% /note %}}
 
 **47 All time records were broken or added in 2016! Click [here](records) for details.**
 

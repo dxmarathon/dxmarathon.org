@@ -2,11 +2,8 @@
 year: 2019
 date: 2020-06-01T00:00:00
 author: "John Sweeney • K9EL"
+pdf: 2019%20DX%20Marathon%20Results.pdf
 ---
-
-{{% note right %}}
-Download a PDF of the full article [here](./2019%20DX%20Marathon%20Results.pdf).
-{{% /note %}}
 
 <div>
 	<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif">

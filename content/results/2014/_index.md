@@ -2,11 +2,8 @@
 year: 2014
 date: 2015-06-01T00:00:00
 author: "John Sweeney • K9EL"
+pdf: 2014%20DX%20Marathon%20Results.pdf
 ---
-
-{{% note right %}}
-Download a PDF of the full article [here](./2014%20DX%20Marathon%20Results.pdf).
-{{% /note %}}
 
 **30 All time records were broken or added in 2014!
 Click [here](records) for details.**

@@ -4,11 +4,8 @@ year: 2020
 date: 2021-06-01T00:00:00
 author: "John Sweeney • K9EL"
 type: "page"
+pdf: 2020%20DX%20Marathon%20Results.pdf
 ---
-
-{{% note right %}}
-Download a PDF of the full article [here](./2020%20DX%20Marathon%20Results.pdf).
-{{% /note %}}
 
 _A good distraction to the troubles of 2020_ – **VK4CC**
 

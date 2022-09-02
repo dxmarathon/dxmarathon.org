@@ -10,6 +10,7 @@ section.content {
 }
 
 .content img {
+  min-width: 50%;
   max-width: var(--max-width);
 }
 
