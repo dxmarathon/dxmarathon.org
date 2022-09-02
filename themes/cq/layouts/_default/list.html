@@ -1,8 +1,18 @@
 {{ define "main" }}
   <section class='content'>
-    <h1>{{ .Title }}</h1>
+    <div class='title'>
+      {{ with .Params.PreTitle }}
+        <h2>{{.}}</h2>
+      {{ end }}
+      {{ with .Title }}
+        <h1>{{.}}</h1>
+      {{ end }}
+      {{ with .Params.SubTitle }}
+        <h2>{{.}}</h2>
+      {{ end }}
+    </div>
 
-      {{ .Content }}
+    {{ .Content }}
 
     <ul>
     {{ range .Paginator.Pages }}

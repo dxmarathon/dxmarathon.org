@@ -4,26 +4,38 @@
   {{ $results := .Site.GetPage "/results" }}
 
   <section class='content'>
-    <h1>{{ .Title }}</h1>
-
-      {{ .Content }}
-
-    <div id="results">
-      <h2>Results</h2>
-      <ul>
-      {{ range $results.Pages }}
-        <li><a href="{{ .Permalink }}">{{ .Params.Year }}</a></li>
+    <div class='title'>
+      {{ with .Params.PreTitle }}
+        <h2>{{.}}</h2>
       {{ end }}
-      </ul>
+      {{ with .Title }}
+        <h1>{{.}}</h1>
+      {{ end }}
+      {{ with .Params.SubTitle }}
+        <h2>{{.}}</h2>
+      {{ end }}
     </div>
 
-    <div id="news">
-      <h2>News</h2>
+    <div id="news" class="sidebar">
+      <h2>Latest News</h2>
       <ul>
       {{ range first 5 (where .Site.RegularPages "Section" "news") }}
-        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        <li>{{ with .Date }}{{ .Format "Jan 2 2006" }}: {{ end }}<a href="{{ .Permalink }}">{{ .Title }}</a></li>
       {{ end }}
       </ul>
     </div>
+
+    {{ .Content }}
+
+    <div id="results">
+      {{ range first 1 $results.Pages }}
+        <h2><a href="/results/{{ .Params.Year }}/records/">All Time Records</a></h2>
+        •
+        <h2><a href="/results/{{ .Params.Year }}/">{{ .Params.Year }} Results</a></h2>
+      {{ end }}
+        •
+        <h2><a href="/results/">Past Years</a></h2>
+    </div>
+
   </section>
 {{ end }}

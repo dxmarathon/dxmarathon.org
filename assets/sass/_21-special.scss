@@ -1,0 +1,67 @@
+/* List of years in Home Page */
+.section-home {
+  .title h1 {
+    font-size: 3.6em;
+  }
+
+  #results h2 {
+     display: inline-block;
+  }
+
+  #results ul {
+     display: inline-block;
+    // display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    list-style-image: none;
+    margin: 1rem 0 -1rem 0;
+    padding: 0;
+
+    & > li {
+     display: inline-block;
+      list-style-type: none;
+
+      margin-right: 1em;
+
+      &:first-of-type {
+        font-weight: bold;
+        font-size: 120%;
+      }
+    }
+  }
+
+  #news h2 {
+    margin-top: 0;
+  }
+
+  #news ul {
+    list-style-image: none;
+    padding: 0;
+    li {
+      list-style-type: none;
+      margin-bottom: 0.5em;
+    }
+  }
+}
+
+ul.nav-results {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  list-style-image: none;
+  margin: 1rem 0 -1rem 0;
+  padding: 0;
+
+  & > li {
+    text-transform: uppercase;
+    list-style-type: none;
+
+    margin-right: 1em;
+
+    &.current {
+      font-weight: bold;
+    }
+  }
+}

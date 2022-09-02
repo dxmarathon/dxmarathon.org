@@ -1,6 +1,7 @@
 {{ define "main" }}
   <section class='content'>
     <ul class="nav-results">
+      <li><b>{{ .Parent.Params.Year }}:</b></li>
       <li><a href="../">Main Article</a></li>
     {{ range .Parent.Paginator.Pages }}
       {{ if (eq . $) }}

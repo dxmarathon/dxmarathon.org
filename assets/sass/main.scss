@@ -5,47 +5,7 @@
 @import "11-chrome";
 
 @import "20-content";
+@import "21-special";
 
 @import "30-misc";
 
-.note {
-  background-color: var(--color-cq-yellow-bg);
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
-  padding: 1em;
-  margin-bottom: 1.5em;
-}
-
-.note-left {
-  margin-right: 1.5em;
-  float: left;
-  max-width: 50%;
-  min-width: 30%;
-}
-
-.note-right {
-  margin-left: 1.5em;
-  float: right;
-  max-width: 50%;
-  min-width: 30%;
-}
-
-ul.nav-results {
-  display: flex;
-  flex-direction: row;
-  justify-content: flex-start;
-  align-items: center;
-  list-style-image: none;
-  margin: 1rem 0 -1rem 0;
-  padding: 0;
-
-  & > li {
-    text-transform: uppercase;
-    list-style-type: none;
-
-    margin-right: 2em;
-
-    &.current {
-      font-weight: bold;
-    }
-  }
-}
