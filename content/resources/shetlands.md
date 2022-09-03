@@ -6,7 +6,7 @@ weight: 6
 
 ## Known Shetland Islands Callsigns
 
-The following stations are known to have operated from the Shetland Islands (GM/S) at some time over the last few years. Not all are currently active..
+The following stations are known to have operated from the Shetland Islands (GM/S) at some time over the last few years. Not all are currently active.
 
 | CALLSIGN            | NOTES |
 |---------------------|-------|
