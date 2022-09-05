@@ -1,0 +1,67 @@
+{{ define "main" }}
+  <section class='content'>
+
+    <h1>DX Marathon - {{ .Params.SubTitle }} for {{ .Parent.Params.Year }}</h1>
+
+    <div class='sidebar'>
+      <div class='aside'>
+        <ul class="nav-results">
+          <li><a href="../">Main Article</a></li>
+          {{ range .Parent.Paginator.Pages }}
+            {{ if (eq . $) }}
+              <li class="current">{{ .Params.SubTitle }}</li>
+            {{ else }}
+              <li><a href="{{ .Permalink }}">{{ .Params.SubTitle }}</a></li>
+            {{ end }}
+          {{ end }}
+        </ul>
+        {{ with .Parent.Params.PDF }}
+          <center>
+            <a href='../{{.}}'>Download a full PDF of the article</a>
+          </center>
+        {{ end }}
+      </div>
+    </div>
+
+<style>
+  .photo-gallery .break {
+    margin-bottom: 6em;
+  }
+  .photo {
+    display: inline-block;
+    border: 1px solid black;
+    padding: 1em;
+    text-align: center;
+
+    max-width: 12em;
+    width: 12em;
+    min-width: 12em;
+  }
+  .photo .thumbnail {
+    width: 100%;
+    margin-bottom: 0.5em;
+  }
+</style>
+    <div class='body'>
+      {{ .Content }}
+
+      <div class="photo-gallery">
+        {{ range sort (where (.Resources.ByType "image") "Params.weight" "ge" 0) "Params.weight" }}
+          {{ if eq 0 (mod .Params.Weight 10) }}
+            <div class="break">&nbsp;</div>
+          {{ end }}
+
+          <figure class="photo">
+            <img class="thumbnail" src="{{ .RelPermalink }}" />
+            <figcaption>
+              <b>{{ .Params.Category }}:</b>
+              {{ .Params.Caption }}
+            </figcaption>
+          </figure>
+        {{ end }}
+      </div>
+
+    </div>
+
+  </section>
+{{ end }}
