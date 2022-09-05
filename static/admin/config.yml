@@ -1,6 +1,8 @@
 backend:
-  name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
+  name: github
+  repo: dxmarathon/dxmarathon.org
+  branch: main
+#  name: git-gateway
 
 publish_mode: editorial_workflow
 
@@ -10,10 +12,24 @@ public_folder: "/"
 collections:
   - name: news
     label: News
-    folder: "content/news/2022"
+    folder: "content/news"
     create: true
-    slug: "{{month}}-{{day}}-{{slug}}"
+    slug: "{{year}}/{{month}}-{{day}}-{{slug}}"
+    nested:
+      depth: 10
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: resources
+    label: Resources
+    folder: "content/resources"
+    create: true
+    slug: "{{slug}}"
+    nested:
+      depth: 10
+    fields: # The fields for each document, usually in front matter
+      - {label: "Subtitle", name: "subtitle", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Weight", name: "weight", widget: "number"}
       - {label: "Body", name: "body", widget: "markdown"}
