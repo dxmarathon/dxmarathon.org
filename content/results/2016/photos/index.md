@@ -68,7 +68,7 @@ resources:
 
   - src: WK3N.jpg
     params:
-      weight: 31
+      weight: 30
       category: 12m
       caption: WK3N
   - src: CO6HLP.jpg
