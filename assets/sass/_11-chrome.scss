@@ -15,10 +15,18 @@ header {
     margin-bottom: 1rem;
     font-size: var(--font-size-h1);
     font-weight: bold;
-  }
 
-  .title > img {
-    width: 4rem;
+    img {
+      width: 4rem;
+    }
+
+    a, a:link, a:visited {
+      color: var(--color-text);
+      text-decoration: none;
+    }
+    a:hover, a:active {
+      color: var(--color-cq-red);
+    }
   }
 
   #main-nav {

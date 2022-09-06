@@ -1,7 +1,13 @@
+{{ define "head" }}
+  <title>{{ .Params.Year }} DX Marathon: {{ .Params.SubTitle }}</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
+  <script src="https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js"></script>
+{{ end }}
+
 {{ define "main" }}
   <section class='content'>
 
-    <h1>DX Marathon - {{ .Params.SubTitle }} for {{ .Parent.Params.Year }}</h1>
+    <h1 class="light">{{ .Parent.Params.Year }} DX Marathon: <b>{{ .Params.SubTitle }}</b></h1>
 
     <div class='sidebar'>
       <div class='aside'>
@@ -33,13 +39,15 @@
     padding: 1em;
     text-align: center;
 
-    max-width: 12em;
-    width: 12em;
-    min-width: 12em;
+    margin: 0 2em 2em 0;
   }
   .photo .thumbnail {
-    width: 100%;
+    width: 220px;
+    height: 220px;
     margin-bottom: 0.5em;
+  }
+  a.lightbox, a.lightbox:link, a.lightbox:visited {
+    text-decoration: none;
   }
 </style>
     <div class='body'>
@@ -51,17 +59,32 @@
             <div class="break">&nbsp;</div>
           {{ end }}
 
-          <figure class="photo">
-            <img class="thumbnail" src="{{ .RelPermalink }}" />
-            <figcaption>
-              <b>{{ .Params.Category }}:</b>
-              {{ .Params.Caption }}
-            </figcaption>
-          </figure>
+          <a
+            class="lightbox"
+            href="{{ .RelPermalink }}"
+            data-title="<center><b>{{ .Params.Category }}:</b> {{ .Params.Caption }}</center>"
+          >
+            <figure class="photo">
+              <img class="thumbnail" src='{{ (.Fill "220x220 q100 Center").RelPermalink }}' />
+              <figcaption>
+                <b>{{ .Params.Category }}:</b>
+                {{ .Params.Caption }}
+              </figcaption>
+            </figure>
+          </a>
         {{ end }}
       </div>
 
     </div>
 
   </section>
+
+  <script type="text/javascript">
+    const lightbox = GLightbox({
+      selector: '.lightbox',
+      touchNavigation: true,
+      loop: true,
+    });
+  </script>
+
 {{ end }}

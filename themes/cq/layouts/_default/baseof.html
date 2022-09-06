@@ -1,7 +1,10 @@
 {{ $section := or (.Section) "home" }}
 <!DOCTYPE html>
 <html>
-  {{- partial "head.html" . -}}
+  <head>
+    {{- partial "head.html" . -}}
+    {{- block "head" . }}{{- end }}
+  </head>
   <body class='
     section-{{$section | urlize}}
     {{with .Params.PageId}}page-{{.}}{{end}}
