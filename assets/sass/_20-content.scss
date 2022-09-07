@@ -6,7 +6,7 @@ section.content {
   margin-right: auto;
   padding-top: 1rem;
   max-width: var(--max-width);
-  min-height: 75vh;
+  min-height: 60vh;
 }
 
 .content img {
@@ -43,6 +43,7 @@ content.text-content > p, content.text-content > div {
   }
 }
 
+
 .content .title {
   margin-top: 1em;
   margin-bottom: 1em;
@@ -59,4 +60,38 @@ content.text-content > p, content.text-content > div {
 
 h1.light {
   font-weight: normal;
+}
+
+
+main section.title {
+  padding-left: 3rem;
+  padding-right: 3rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 1rem;
+  max-width: var(--max-width);
+
+  h1 {
+    margin-bottom: 0;
+    border-bottom: 2px solid black;
+  }
+
+  nav {
+    ul {
+      list-style-image: none;
+      margin: 0;
+      padding: 0;
+
+      & > li {
+        display: inline-block;
+        // text-transform: uppercase;
+        list-style-type: none;
+      margin: 0 1rem 0 0;
+
+        &.current {
+          font-weight: bold;
+        }
+      }
+    }
+  }
 }

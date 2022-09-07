@@ -2,24 +2,26 @@
   <title>Results of the {{ .Params.Year }} DX Marathon</title>
 {{ end }}
 {{ define "main" }}
-  <section class='content'>
+  <section class="title">
     <h1 class="light">Results of the <b>{{ .Params.Year }} DX Marathon</b></h1>
-
-    <div class='sidebar'>
-      <div class='aside'>
-        <ul class="nav-results">
+    <nav>
+        <ul>
           <li class="current">Main Article</li>
-        {{ range .Paginator.Pages }}
+        {{ range .Pages }}
           <li><a href="{{ .Permalink }}">{{ .Params.SubTitle }}</a></li>
         {{ end }}
         </ul>
-        {{ with .Params.PDF }}
-          <center>
-            <a href='./{{.}}'>Original Article (PDF)</a>
-          </center>
-        {{ end }}
+    </nav>
+  </section>
+  <section class='content'>
+
+    {{ with .Params.PDF }}
+      <div class="sidebar">
+        <div class="note">
+        You can download the<br /> <a href='./{{.}}'>Original Article in PDF format</a>.
+        </div>
       </div>
-    </div>
+    {{ end }}
 
     <div class='body'>
       {{ .Content }}

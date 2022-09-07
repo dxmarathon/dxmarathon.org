@@ -37,7 +37,7 @@ resources:
   - src: W9KNI.jpg
     params:
       weight: 13
-      category: CW - North America
+      category: CW - N. America
       caption: W9KNI
 
   - src: EA8AXT.jpg

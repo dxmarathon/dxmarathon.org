@@ -37,7 +37,7 @@ resources:
   - src: K9EU.jpg
     params:
       weight: 13
-      category: CW - North America
+      category: CW - N. America
       caption: K9EU
 
   - src: A65CA.jpg

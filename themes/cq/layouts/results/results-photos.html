@@ -5,47 +5,50 @@
 {{ end }}
 
 {{ define "main" }}
+  <section class="title">
+    <h1 class="light">{{ .Parent.Params.Year }} DX Marathon: <b>{{ .Params.SubTitle }}</b></h1>
+    <nav>
+      <ul>
+        <li><a href="../">Main Article</a></li>
+        {{ range .Parent.Pages }}
+          {{ if (eq . $) }}
+            <li class="current">{{ .Params.SubTitle }}</li>
+          {{ else }}
+            <li><a href="{{ .Permalink }}">{{ .Params.SubTitle }}</a></li>
+          {{ end }}
+        {{ end }}
+      </ul>
+    </nav>
+  </section>
   <section class='content'>
 
-    <h1 class="light">{{ .Parent.Params.Year }} DX Marathon: <b>{{ .Params.SubTitle }}</b></h1>
-
-    <div class='sidebar'>
-      <div class='aside'>
-        <ul class="nav-results">
-          <li><a href="../">Main Article</a></li>
-          {{ range .Parent.Paginator.Pages }}
-            {{ if (eq . $) }}
-              <li class="current">{{ .Params.SubTitle }}</li>
-            {{ else }}
-              <li><a href="{{ .Permalink }}">{{ .Params.SubTitle }}</a></li>
-            {{ end }}
-          {{ end }}
-        </ul>
-        {{ with .Parent.Params.PDF }}
-          <center>
-            <a href='../{{.}}'>Download a full PDF of the article</a>
-          </center>
-        {{ end }}
-      </div>
-    </div>
-
 <style>
+  .photo-gallery {
+    margin-top: 3rem;
+  }
+
   .photo-gallery .break {
-    margin-bottom: 6em;
+    margin-bottom: 4em;
   }
   .photo {
     display: inline-block;
     border: 1px solid black;
-    padding: 1em;
+    padding: 5px 5px 15px 5px;
     text-align: center;
 
-    margin: 0 2em 2em 0;
+    margin: 0 22px 22px 0;
+
   }
+  .photo-gallery .photo img {
+      margin: 10px;
+  }
+
   .photo .thumbnail {
-    width: 220px;
-    height: 220px;
+    width: 180px;
+    height: 180px;
     margin-bottom: 0.5em;
   }
+
   a.lightbox, a.lightbox:link, a.lightbox:visited {
     text-decoration: none;
   }
@@ -65,7 +68,7 @@
             data-title="<center><b>{{ .Params.Category }}:</b> {{ .Params.Caption }}</center>"
           >
             <figure class="photo">
-              <img class="thumbnail" src='{{ (.Fill "220x220 q100 Center").RelPermalink }}' />
+              <img class="thumbnail" src='{{ (.Fill "180x180 q100 Center").RelPermalink }}' />
               <figcaption>
                 <b>{{ .Params.Category }}:</b>
                 {{ .Params.Caption }}

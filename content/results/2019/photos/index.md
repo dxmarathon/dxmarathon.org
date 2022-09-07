@@ -42,7 +42,7 @@ resources:
   - src: W4QN.jpg
     params:
       weight: 13
-      category: CW - North America
+      category: CW - N. America
       caption: W4QN
 
   - src: CT3MD.jpg

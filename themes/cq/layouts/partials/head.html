@@ -1,16 +1,18 @@
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-<link rel="icon" type="image/x-icon" href="/favicon.ico" />
-<meta name="generator" content={Astro.generator} />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <meta name="generator" content={Astro.generator} />
 
-{{- with ($.Scratch.Get "Title") }}
-  <title>{{ . }} - {{ $.Site.Title }}</title>
-{{- end }}
+  <meta name="robots" content="noindex"> <!-- DON'T REMOVE UNTIL SITE IS IN FINAL DOMAIN -->
 
-{{ hugo.Generator -}}
+  {{- with ($.Title) -}}
+    <title>{{ . }}</title>
+  {{- end -}}
 
-{{ $sass_options := (dict "targetPath" "style.css" "outputStyle" "compressed" "enableSourceMap" (not hugo.IsProduction) "includePaths" (slice "node_modules/myscss")) }}
-{{ $styles := resources.Get "sass/main.scss" | toCSS $sass_options }}
-<link rel="stylesheet" href="{{ $styles.RelPermalink }}" />
+  {{ hugo.Generator -}}
 
-<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  {{ $sass_options := (dict "targetPath" "style.css" "outputStyle" "compressed" "enableSourceMap" (not hugo.IsProduction) "includePaths" (slice "node_modules/myscss")) }}
+  {{ $styles := resources.Get "sass/main.scss" | toCSS $sass_options }}
+  <link rel="stylesheet" href="{{ $styles.RelPermalink }}" />
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>

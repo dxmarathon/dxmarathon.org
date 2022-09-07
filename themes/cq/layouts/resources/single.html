@@ -1,16 +1,14 @@
+{{ define "head" }}
+  <title>{{ .Params.SubTitle }} - DX Marathon Resources, Hints & Tips</title>
+{{ end }}
 {{ define "main" }}
-  <section class='content'>
+  <section class="title">
+    <h1 class="light">Resources, Hints & Tips: <b>{{ .Params.SubTitle }}</b></h1>
 
-    <div class="title">
-      <h3>Resources, Hints & Tips</h3>
-      <h1>{{ .Params.SubTitle }}</h1>
-    </div>
-
-    <div class='sidebar'>
-      <div class='aside'>
-        <ul class="nav-results">
+    <nav>
+        <ul>
           <li><a href="../">Resources, Hints & Tips</a></li>
-          {{ range .Parent.Paginator.Pages }}
+          {{ range .Parent.Pages }}
             {{ if (eq . $) }}
               <li class="current">{{ .Params.SubTitle }}</li>
             {{ else }}
@@ -18,13 +16,10 @@
             {{ end }}
           {{ end }}
         </ul>
-        {{ with .Parent.Params.PDF }}
-          <center>
-            <a href='../{{.}}'>Download a full PDF of the article</a>
-          </center>
-        {{ end }}
-      </div>
-    </div>
+    </nav>
+  </section>
+
+  <section class='content'>
 
     <div class='body'>
       {{ .Content }}

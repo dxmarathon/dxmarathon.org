@@ -3,14 +3,11 @@
 <html>
   <head>
     {{- partial "head.html" . -}}
-    {{- block "head" . }}{{- end }}
+    {{- block "head" . -}}{{- end -}}
   </head>
-  <body class='
-    section-{{$section | urlize}}
-    {{with .Params.PageId}}page-{{.}}{{end}}
-    {{with .Layout}}layout-{{.}}{{end}}
-  '>
+  <body class='section-{{$section | urlize}}  {{with .Params.PageId}}page-{{.}}{{end}}  {{with .Layout}}layout-{{.}}{{end}}'>
     {{- partial "header.html" . -}}
+
     <main>
       {{- block "main" . }}{{- end }}
     </main>

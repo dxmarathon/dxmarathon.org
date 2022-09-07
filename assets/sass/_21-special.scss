@@ -45,24 +45,6 @@
   }
 }
 
-ul.nav-results {
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-  align-items: center;
-  list-style-image: none;
-  padding: 0;
-
-  & > li {
-    text-transform: uppercase;
-    list-style-type: none;
-
-    &.current {
-      font-weight: bold;
-    }
-  }
-}
-
 .layout-results-home {
   ul#year-list {
     list-style-image: none;

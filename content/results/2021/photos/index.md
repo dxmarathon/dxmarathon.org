@@ -42,7 +42,7 @@ resources:
   - src: K5BG.jpg
     params:
       weight: 13
-      category: CW - North America
+      category: CW - N. America
       caption: K5BG
 
   - src: CT3MD.jpg

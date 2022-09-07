@@ -1,5 +1,6 @@
+{{ define "title" }}DX DX{{ end }}
 {{ define "main" }}
-
+  {{ $.Scratch.Set "Title" "DX Marathon" }}
   {{ $news := .Site.GetPage "/news" }}
   {{ $results := .Site.GetPage "/results" }}
 

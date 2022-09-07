@@ -42,7 +42,7 @@ resources:
   - src: KB0EO.jpg
     params:
       weight: 13
-      category: CW - North America
+      category: CW - N. America
       caption: KB0EO
 
   - src: CT3MD.jpg

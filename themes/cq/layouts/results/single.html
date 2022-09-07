@@ -1,30 +1,24 @@
 {{ define "head" }}
   <title>{{ .Params.Year }} DX Marathon: {{ .Params.SubTitle }}</title>
 {{ end }}
+
 {{ define "main" }}
-  <section class='content'>
-
+  <section class="title">
     <h1 class="light">{{ .Parent.Params.Year }} DX Marathon: <b>{{ .Params.SubTitle }}</b></h1>
-
-    <div class='sidebar'>
-      <div class='aside'>
-        <ul class="nav-results">
-          <li><a href="../">Main Article</a></li>
-          {{ range .Parent.Paginator.Pages }}
-            {{ if (eq . $) }}
-              <li class="current">{{ .Params.SubTitle }}</li>
-            {{ else }}
-              <li><a href="{{ .Permalink }}">{{ .Params.SubTitle }}</a></li>
-            {{ end }}
+    <nav>
+      <ul>
+        <li><a href="../">Main Article</a></li>
+        {{ range .Parent.Pages }}
+          {{ if (eq . $) }}
+            <li class="current">{{ .Params.SubTitle }}</li>
+          {{ else }}
+            <li><a href="{{ .Permalink }}">{{ .Params.SubTitle }}</a></li>
           {{ end }}
-        </ul>
-        {{ with .Parent.Params.PDF }}
-          <center>
-            <a href='../{{.}}'>Download a full PDF of the article</a>
-          </center>
         {{ end }}
-      </div>
-    </div>
+      </ul>
+    </nav>
+  </section>
+  <section class='content'>
 
     <div class='body'>
       {{ .Content }}
