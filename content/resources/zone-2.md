@@ -13,7 +13,7 @@ Devon, Ellesmere, Baffin and the Melville and Boothia Peninsulas,
 excluding Akimiski Island, Bear Islands and East Pen Island in
 Hudson Bay)
 
-Nunavut Territory is Canada is the most difficult to determine as it lies within 3 WAZ Zones.
+Nunavut Territory in Canada is the most difficult to determine as it lies within 3 WAZ Zones.
 Click [here](http://www.hamatlas.eu/waz/Strefy_mapy/Nunavut.jpg) for a detailed Nunavut map.
 
 The following callsigns are good for Zone 2. As	2022 expeditions are announced, more callsigns will be added.
