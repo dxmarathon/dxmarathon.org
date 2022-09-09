@@ -1,5 +1,6 @@
 ---
 title: Resources, Hints & Tips
+lastmod: 2022-09-05
 ---
 
 
@@ -11,7 +12,8 @@ Use the [DX Marathon Email Group on groups.io](https://groups.io/g/dxmarathon/)
 
 {{% /note %}}
 
-Last Update - 17 August 2022
+Please read the [Special Note regarding QSOs with Russia, Belarus and Ukraine](./russia), as CQ Magazine updated their
+policy at the end of August.
 
 Each year there are pirates, operations that are not approved, callsigns that are
 copied incorrectly and unusual operations that are valid. We attempt to document
@@ -21,7 +23,6 @@ invalid callsigns, and callsign notes.We encourage you to share your findings on
 Many points are lost each year due to bad spots on the packetcluster network. We have
 assembled an extensive list of bad spots - please check the list
 before entering any of these callsigns!
-
 
 Please check USA/VE zones carefully - use [www.qrz.com](https://www.qrz.com) to check
 zones before submitting. The number in the callsign does not

@@ -1,5 +1,5 @@
 ---
-subtitle: Plaques & Awards
+title: Plaques & Awards
 ---
 
 Each year, CQ Magazine will award plaques and certificates to winners in various categories of the DX

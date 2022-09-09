@@ -1,2849 +1,643 @@
 ---
 subtitle: Bad Spots
 weight: 3
+lastmod: 2022-09-05
 ---
 
-Last Update - 17 August 2022
-
-<table>
-	<tr>
-		<th>SPOTTED AS:</th>
-		<th>WAS ACTUALLY:</th>
-		<th>DATE/BAND/MODE (if known)</th>
-	</tr>
-	<tr>
-		<td>0J0DX</td>
-		<td>DJ0FX</td>
-		<td>17Feb 15cw</td>
-	</tr>
-	<tr>
-		<td>3C2C</td>
-		<td>4C2C</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>3D2RR</td>
-		<td>3D2RRR</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>3V/KG9N</td>
-		<td>V4/KG9N</td>
-		<td>17Feb 15cw</td>
-	</tr>
-	<tr>
-		<td>5A0W</td>
-		<td>9A0W</td>
-		<td>6Mar 15ssb</td>
-	</tr>
-	<tr>
-		<td>5A4AIF</td>
-		<td>5B4AIF</td>
-		<td>20May 20SSB</td>
-	</tr>
-	<tr>
-		<td>5A8VA</td>
-		<td>HA8VA</td>
-		<td>6Apr 15cw</td>
-	</tr>
-	<tr>
-		<td>5I9/F5PLR</td>
-		<td>HI9/F5PLR</td>
-		<td>13Mar 20cw</td>
-	</tr>
-	<tr>
-		<td>7P6/N2GK</td>
-		<td>ZP6/N2GK</td>
-		<td>12Mar 10cw</td>
-	</tr>
-	<tr>
-		<td>9A/S5O0</td>
-		<td>9A/S50O</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>9M4BNC</td>
-		<td>9M4BCN</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>9M50SD</td>
-		<td>9M59SD</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>9M7AA</td>
-		<td>9N7AA</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>9M7NA</td>
-		<td>9M6NA</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>9M7WE</td>
-		<td>9N7WE</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>9M97WARD</td>
-		<td>TM97WARD</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>9S4FE</td>
-		<td>9Z4FE</td>
-		<td>17Jan 20 SSB</td>
-	</tr>
-	<tr>
-		<td>9X4Y</td>
-		<td>9Z4Y</td>
-		<td>9Mar 12cw</td>
-	</tr>
-	<tr>
-		<td>A31MA</td>
-		<td>V31MA</td>
-		<td>26Jan 40 FT8</td>
-	</tr>
-	<tr>
-		<td>BA1CRA/WO22</td>
-		<td>BY1CRA/WO22</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>BD6KFY/0</td>
-		<td>BD6KF/0</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>BY2CRA/WO22</td>
-		<td>BY1CRA/WO22</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>BY4CRA/WO22</td>
-		<td>BY1CRA/WO22</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>BY5CRA/WO22</td>
-		<td>BY1CRA/WO22</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>C5K</td>
-		<td>EC5K</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>C8SG</td>
-		<td>CN8SG</td>
-		<td>6Mar 15ssb</td>
-	</tr>
-	<tr>
-		<td>CE0Y/CE3T</td>
-		<td>CE0Y/CE3ET</td>
-		<td>14Aug 17cw</td>
-	</tr>
-	<tr>
-		<td>CE0Y/CT3CT</td>
-		<td>CE0Y/CE3ET</td>
-		<td>14Aug 10cw</td>
-	</tr>
-	<tr>
-		<td>CE96CGX</td>
-		<td>CE6CGX</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>CE9AR</td>
-		<td>CX9ARH</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>CE9ARH</td>
-		<td>CX9ARH</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>DU6DO/V</td>
-		<td>LU6DO/V</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>EA1RCP/I</td>
-		<td>EA1RCP/P</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>EA3AIU</td>
-		<td>EA6AIU</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>EA6AXQ/P</td>
-		<td>EA6XQ/P</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>EA6Q/P</td>
-		<td>EA6XQ/P</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>EA6XP</td>
-		<td>EA6XQ/P</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>EA6XQP</td>
-		<td>EA6XQ/P</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>EA6ZQ/P</td>
-		<td>EA6XQ/P</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>EA8IW</td>
-		<td>EA3IW</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>EB6CS/P</td>
-		<td>EB5CS/P</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>EC5AHS</td>
-		<td>EC5AHA</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>EC6KY/P</td>
-		<td>EC5KY/P</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>EC6PG/G</td>
-		<td>EC6PG</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>EF9F/8</td>
-		<td>EF0F/8</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>EG9YMS</td>
-		<td>EG8MYS</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>EZ7A</td>
-		<td>E77A</td>
-		<td>Multiple</td>
-	</tr>
-	<tr>
-		<td>F6KGI/EG</td>
-		<td>F6KGI/P</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>FO/4Z4LA</td>
-		<td>FO/4Z5LA</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>FO/DJ6GE</td>
-		<td>FO/DJ6GI</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>FO/K6BB</td>
-		<td>FO/KD6XU</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>FO/KD7XU</td>
-		<td>FO/KD6XU</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>FO/OQ3R</td>
-		<td>FM/OQ3R</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>FO/SP3EA</td>
-		<td>FO/SP5EAQ</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>FO/SP3EAQ</td>
-		<td>FO/SP5EAQ</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>FO/SP4EAQ</td>
-		<td>FO/SP5EAQ</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>FO/SP5AEQ</td>
-		<td>FO/SP5EAQ</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>FO/SP5AQ</td>
-		<td>FO/SP5EAQ</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>FO/SP5EA</td>
-		<td>FO/SP5EAQ</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>FO/SP5EAS</td>
-		<td>FO/SP5EAQ</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>FO/SP5EAW</td>
-		<td>FO/SP5EAQ</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>FO/SP5EQ</td>
-		<td>FO/SP5EAQ</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>FO/SP5EQA</td>
-		<td>FO/SP5EAQ</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>FO/SP5ESQ</td>
-		<td>FO/SP5EAQ</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>FO/SP5XAQ</td>
-		<td>FO/SP5EAQ</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>FO/SP7EAQ</td>
-		<td>FO/SP5EAQ</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>FO/SP9EAQ</td>
-		<td>FO/SP5EAQ</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>FO1SPA</td>
-		<td>FO/SP5EAQ</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>FO60CNES</td>
-		<td>TO60CNES</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>FT60A</td>
-		<td>7T60A</td>
-		<td>July 15m SSB</td>
-	</tr>
-	<tr>
-		<td>G4NVF/N</td>
-		<td>G4NVF/M</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>GB070E</td>
-		<td>GB70E</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>GB0CMW</td>
-		<td>GB0CHW</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>GB0GMG</td>
-		<td>GB0HMG</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>GB0HEM</td>
-		<td>GB0TWM</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>GB0HGELLA</td>
-		<td>GB0HG</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>GB0ILZ</td>
-		<td>GB0LIZ</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>GB0OPS</td>
-		<td>GQ0OPS</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>GB0OQS</td>
-		<td>GQ0OPS</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>GB1000BBBC</td>
-		<td>GB100BBC</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>GB1000BBBC</td>
-		<td>GB100BBC</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>GB1000BBC</td>
-		<td>GB100BBC</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>GB1002TM</td>
-		<td>GB1002MT</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>GB100BBS</td>
-		<td>GB100BBC</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>GB113COL</td>
-		<td>GB13COL</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>GB13C0L</td>
-		<td>GB13COL</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>GB18LAN</td>
-		<td>GB80LAN</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>GB190HA</td>
-		<td>GB1900HA</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>GB1COL</td>
-		<td>GB13COL</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>GB1HN</td>
-		<td>GB1HM</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>GB1OOC</td>
-		<td>GB100BBC</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>GB1SM</td>
-		<td>GB1SMK</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>GB22E</td>
-		<td>GB22GE</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>GB22ME</td>
-		<td>GB22GE</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>GB22NI</td>
-		<td>GB22GI</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>GB2GE</td>
-		<td>GB22GE</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>GB2KBR</td>
-		<td>GB2KDR</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>GB5HRM</td>
-		<td>GB8HRM</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>GB62GM</td>
-		<td>GB22GM</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>GB8KOW</td>
-		<td>GB8KOA</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>GB8LAM</td>
-		<td>GB80LAN</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>GB8LAN</td>
-		<td>GB80LAN</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>GB8URK</td>
-		<td>GB8UKR</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>GB900HA</td>
-		<td>GB1900HA</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>GO0VPA</td>
-		<td>GU0VPA</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>GO1KRT</td>
-		<td>DO1KRT</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>GO5G</td>
-		<td>GM5G</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>GQ4YT</td>
-		<td>GQ4YTK</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>GQ73SVK</td>
-		<td>GQ3SVK</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>GQ8M</td>
-		<td>CQ8M</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>GQ9OPS</td>
-		<td>GQ0OPS</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>HQ5W</td>
-		<td>5Q5W</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>II00IDR</td>
-		<td>II0IDR</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>II05WRTC</td>
-		<td>II5WRTC</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>II0AJV</td>
-		<td>II0IAJV</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>II0DR</td>
-		<td>II0IDR</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>II0DUM</td>
-		<td>IU0DUM</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>II0ERTC</td>
-		<td>II0WRTC</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>II0GU</td>
-		<td>II0IGU</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>II0IADO</td>
-		<td>II0IAJV</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>II0IAJV/AW</td>
-		<td>II0IAJV</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>II0IAVJ</td>
-		<td>II0IAJV</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>II0ID</td>
-		<td>II0IDR</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>II0IDX</td>
-		<td>II0IDP</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>II0IJV</td>
-		<td>II0IAJV</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>II0IP</td>
-		<td>II0IDP</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>II0LGK</td>
-		<td>IU0LGK</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>II0OG</td>
-		<td>II0OGB</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>II0OSI</td>
-		<td>I0OSI</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>II0RTC</td>
-		<td>II0WRTC</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>II0WAC</td>
-		<td>II0WRTC</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>II0WC</td>
-		<td>II0WRTC</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>II0WCTC</td>
-		<td>II0WRTC</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>II0WIRC</td>
-		<td>II0WRTC</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>II0WR</td>
-		<td>II0WRTC</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>II0WRC</td>
-		<td>II0WRTC</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>II0WRCT</td>
-		<td>II0WRTC</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>II0WRT</td>
-		<td>II0WRTC</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>II0WRTCK</td>
-		<td>II0WRTC</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>II0WRTCNON</td>
-		<td>II0WRTC</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>II0WRTS</td>
-		<td>II0WRTC</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>II0WRTV</td>
-		<td>II0WRTC</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>II0WTC</td>
-		<td>II0WRTC</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>II0WTRC</td>
-		<td>II0WRTC</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>II0WWTC</td>
-		<td>II0WRTC</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>II2WR/TC</td>
-		<td>II2WRTC</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>II3WR/TC</td>
-		<td>II3WRTC</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>IK2LEY/O</td>
-		<td>IK2LEY/P</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>IQ0QQ/0</td>
-		<td>IQ1QQ/0</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>IQ5QO/IMO</td>
-		<td>IQ5QO/IM0</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>IQ5QO/ISO</td>
-		<td>IQ5QO/IS0</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>IZ0PGIAP/IT</td>
-		<td>IZ0PAP/ITGI</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>J5PDW</td>
-		<td>JL8PDW</td>
-		<td>16Mar 15ssb</td>
-	</tr>
-	<tr>
-		<td>JD1BHM</td>
-		<td>JD1BMH</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>JD1BIA</td>
-		<td>JD1BHA</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>JD1BMS</td>
-		<td>JD1BMH</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>JD1DMH</td>
-		<td>JD1BMH</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>JD1MBH</td>
-		<td>JD1BMH</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>JG1NQJ/JD1</td>
-		<td>JG8NQJ/JD1</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>JG8NQH/JD1</td>
-		<td>JG8NQJ/JD1</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>JI1CRA/7</td>
-		<td>JO1CRA/7</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>JQ8NQJ/JD1</td>
-		<td>JG8NQJ/JD1</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>JX/KK9A</td>
-		<td>PJ4/KK9A</td>
-		<td>29Mar 30cw</td>
-	</tr>
-	<tr>
-		<td>JX0X</td>
-		<td>JW0X</td>
-		<td>24Apr 17m</td>
-	</tr>
-	<tr>
-		<td>K2H/13COL</td>
-		<td>K2H</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>K2H/13MA</td>
-		<td>K2H</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>K3KT/TT</td>
-		<td>K3Y/8</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>K3Y/KH</td>
-		<td>K3Y/KH6</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>K3Y/KP</td>
-		<td>K3Y/KP4</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>K3Y/TZ</td>
-		<td>K3Y/8</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>KH0M/M</td>
-		<td>KH0W/M</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>KH6NN/NZ</td>
-		<td>KH6ND/NZ7</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>KL7T/P</td>
-		<td>WL7T/P</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>KP4/K6D</td>
-		<td>KP4/K6DTT</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>KP4RK/TI</td>
-		<td>KP4RK</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>LU1AW/TE</td>
-		<td>LU1AW/D</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>LU1W/D</td>
-		<td>LU1AW/D</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>LU2DO/V</td>
-		<td>LU6DO/V</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>LU5DO/V</td>
-		<td>LU6DO/V</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>LU5ZS</td>
-		<td>LU4ZS</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>LU7D/D</td>
-		<td>LU7DD/D</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>LU8DHC/D</td>
-		<td>LU8DCH/D</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>LZ1ZF/BIG</td>
-		<td>LZ1ZF</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>M65M</td>
-		<td>TM65M</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>MM/W7WAQ</td>
-		<td>MM/W7YAQ</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>MO0PV</td>
-		<td>M0OPV</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>MQ0LT</td>
-		<td>MQ0XLT</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>MQ3QWD</td>
-		<td>MQ3AWD</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>MQ7MQ</td>
-		<td>MQ7Q</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>N6NRD/VE</td>
-		<td>N6NRD/VE3</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>OI1AY/MN</td>
-		<td>OI1AY/MM</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>PJ2/N2U</td>
-		<td>PJ2/NA2U</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>PJ2/SP9FOW</td>
-		<td>PJ5/SP9FOW</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>PJ5/SP0FOW</td>
-		<td>PJ5/SP9FOW</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>PJ5/SP5FIH</td>
-		<td>PJ5/SP9FIH</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>PJ5/SP5FOW</td>
-		<td>PJ5/SP9FOW</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>PJ5/SP8MQA</td>
-		<td>PJ5/SP9MQA</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>PJ5/SP9FH</td>
-		<td>PJ5/SP9FIH</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>PJ5/SP9FI</td>
-		<td>PJ5/SP9FIH</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>PJ5/SP9FJ</td>
-		<td>PJ5/SP9FIH</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>PJ5/SP9FJH</td>
-		<td>PJ5/SP9FIH</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>PJ5/SP9MAQ</td>
-		<td>PJ5/SP9MQA</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>PJ7/SP9FIH</td>
-		<td>PJ5/SP9FIH</td>
-		<td>30Mar 12 SSB</td>
-	</tr>
-	<tr>
-		<td>PJ7/SP9FIH</td>
-		<td>PJ5/SP9FIH</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>PV0AA</td>
-		<td>P40AA</td>
-		<td>30Jan 160 cw</td>
-	</tr>
-	<tr>
-		<td>R022NY</td>
-		<td>RO22NY</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>R030OF</td>
-		<td>RO30OF</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>R03M/P</td>
-		<td>RO3M/P</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>R03Z</td>
-		<td>RZ3Z</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>R0A/3</td>
-		<td>R0AI/3</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>R0CD/P</td>
-		<td>R0CDP/P</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>R100Y</td>
-		<td>R100YAA</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>R105WS</td>
-		<td>R150WS</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>R11MS</td>
-		<td>R117MS</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>R11PB</td>
-		<td>RI1PB</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>R125YWI</td>
-		<td>R135YWI</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>R12OZF</td>
-		<td>R120ZF</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>R12SRW</td>
-		<td>R12SWR</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>R135YWIRV6HJ</td>
-		<td>R135YWI</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>R13HYWI</td>
-		<td>R135YWI</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>R150AR</td>
-		<td>R350AR</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>R150C</td>
-		<td>R150S</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>R150RW</td>
-		<td>R150WS</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>R150WC</td>
-		<td>R150WS</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>R150WS/AS104</td>
-		<td>R150WS</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>R159WS</td>
-		<td>R150WS</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>R18JKG</td>
-		<td>R19JKG</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>R191RV</td>
-		<td>R19JNV</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>R1961G</td>
-		<td>R1961GP</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>R198M</td>
-		<td>R108M</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>R1990VK</td>
-		<td>R1996VK</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>R1996V</td>
-		<td>R1996VK</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>R199BV</td>
-		<td>R1996VK</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>R19J</td>
-		<td>RJ9J</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>R19JNA</td>
-		<td>R19JRA</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>R19NIV</td>
-		<td>R19JNV</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>R19XMG</td>
-		<td>R19JMG</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>R1AK/P</td>
-		<td>8R1AK/P</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>R1C/M</td>
-		<td>R1CF/M</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>R1OAE/P</td>
-		<td>R1OAJ/P</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>R2014C</td>
-		<td>R2014NC</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>R2014K</td>
-		<td>R2014RK</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>R2020NY</td>
-		<td>R2022NY</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>R2022HNY</td>
-		<td>R2022NY</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>R2022HY</td>
-		<td>R2022NY</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>R2022NYC</td>
-		<td>R2022NY</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>R2024NC</td>
-		<td>R2014NC</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>R20CNC</td>
-		<td>R2014NC</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>R20LH</td>
-		<td>RO20LH</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>R21RU</td>
-		<td>Z21RU</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>R22HNW</td>
-		<td>R22HNY</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>R22NY</td>
-		<td>RA22NY</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>R22SHNY</td>
-		<td>R22HNY</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>R23GA</td>
-		<td>R32GA</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>R2AE/P</td>
-		<td>R2EA/P</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>R2AEL/P</td>
-		<td>R2ALE/P</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>R2DTU/8</td>
-		<td>R2DXU/8</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>R2HAM/M</td>
-		<td>R2HM/M</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>R2JAJA/P</td>
-		<td>R2AJA/P</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>R2SA/9</td>
-		<td>R2SD/9</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>R2SXU/8</td>
-		<td>R2DXU/8</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>R300BR</td>
-		<td>R350BR</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>R30FO</td>
-		<td>RK30FO</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>R30M</td>
-		<td>R3OM</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>R30OF</td>
-		<td>RO30OF</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>R30T</td>
-		<td>R350T</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>R3350PP</td>
-		<td>R350PP</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>R3500D</td>
-		<td>R350D</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>R3500NN</td>
-		<td>R350NN</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>R350DR</td>
-		<td>R350BR</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>R350P</td>
-		<td>R350PP</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>R350R</td>
-		<td>R350BR</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>R359PP</td>
-		<td>R350PP</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>R35OK</td>
-		<td>R350K</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>R3ATX/M</td>
-		<td>RA3ATX/M</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>R450M</td>
-		<td>R350M</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>R45PD</td>
-		<td>RA5PD</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>R46Z</td>
-		<td>R4BZ</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>R4FUT/M</td>
-		<td>RA4FUT/M</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>R50JNG</td>
-		<td>R50JNV</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>R50KDM</td>
-		<td>R50NDM</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>R50WS</td>
-		<td>R150WS</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>R530D</td>
-		<td>R350D</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>R5D/M</td>
-		<td>RZ5D/M</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>R600RO</td>
-		<td>R900RO</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>R60BME</td>
-		<td>R60DME</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>R60DMI</td>
-		<td>R60DME</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>R60RME</td>
-		<td>R60DME</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>R6LIK/8/M</td>
-		<td>R6LJK/8/M</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>R752M</td>
-		<td>R752MAK</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>R77I</td>
-		<td>RP77I</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>R77KR</td>
-		<td>RP77KR</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>R77LO</td>
-		<td>RP77LO</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>R77MP</td>
-		<td>RP77MP</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>R77TG</td>
-		<td>RP77TG</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>R77UAI</td>
-		<td>RP77UAI</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>R77ZAM</td>
-		<td>RP77ZAM</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>R77ZM</td>
-		<td>RP77ZM</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>R7AYX/P</td>
-		<td>R7AY/P</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>R7FD/4/M</td>
-		<td>R7FO/4/M</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>R7RKB/P</td>
-		<td>R7KRB/P</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>R80AES</td>
-		<td>R80IAS</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>R80PLO</td>
-		<td>R80PWO</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>R80RWO</td>
-		<td>R80PWO</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>R80WPO</td>
-		<td>R80PWO</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>R875UV</td>
-		<td>R875VU</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>R87HVU</td>
-		<td>R875VU</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>R8DXU/8</td>
-		<td>R2DXU/8</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>R8MB/J</td>
-		<td>R8MB/1</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>R8MB/M</td>
-		<td>R8WB/M</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>R8WB/V</td>
-		<td>R8WB/M</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>R8WX/M</td>
-		<td>R8WB/M</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>R90BRB</td>
-		<td>R90BRZ</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>R90BRO</td>
-		<td>R90BRZ</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>R90BRX</td>
-		<td>R90BRZ</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>R90BZ</td>
-		<td>R90BRZ</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>R90BZR</td>
-		<td>R90BRZ</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>R90DRZ</td>
-		<td>R90BRZ</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>R90QD</td>
-		<td>R90SOK</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>R90RBZ</td>
-		<td>R90BRZ</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>R90RZ</td>
-		<td>R90BRZ</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>R90SO</td>
-		<td>R90SOK</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>R9JAJ/P</td>
-		<td>R8JAJ/P</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>R9JAP/P</td>
-		<td>R8JAJ/P</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>R9MZ/9</td>
-		<td>R8MZ/9</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>R9SO/M</td>
-		<td>RU9SO/M</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>R9WB/M</td>
-		<td>R8WB/M</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>RA/D2AI/M</td>
-		<td>RA/DK2AI/M</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>RA/DD7QL</td>
-		<td>RA/DD7QJ</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>RA/DD7QN</td>
-		<td>RA/DD7QJ</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>RA/DK1AI</td>
-		<td>RA/DK2AI</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>RA/DK1AI/M</td>
-		<td>RA/DK2AI/M</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>RA/DK2AIM/M</td>
-		<td>RA/DK2AI/M</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>RA/DL2AI</td>
-		<td>RA/DK2AI/M</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>RA/DL2AI/M</td>
-		<td>RA/DK2AI/M</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>RA0AIA/P</td>
-		<td>R0AIA/P</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>RA0D/P</td>
-		<td>R0AD/P</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>RA0LGR/P</td>
-		<td>RW0LGR/P</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>RA1961AG</td>
-		<td>R1961AG</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>RA1ALA/M</td>
-		<td>RA1ALA/MM</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>RA1AOD/M</td>
-		<td>RA1OD/M</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>RA1QAT/P</td>
-		<td>RA9QAT/P</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>RA21NY</td>
-		<td>RA22NY</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>RA222NY</td>
-		<td>RA22NY</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>RA23NY</td>
-		<td>RA22NY</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>RA30A</td>
-		<td>RA3OA</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>RA6PKS/P</td>
-		<td>R7PKS/P</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RA80IAS</td>
-		<td>R80IAS</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>RA9AR/P</td>
-		<td>UA9AR/P</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>RB1B</td>
-		<td>RN1B</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>RB1W</td>
-		<td>KB1W</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RC29LH</td>
-		<td>RC20LH</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>RC30LH</td>
-		<td>RC20LH</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>RC7C/P</td>
-		<td>UC7C/P</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RD30DX</td>
-		<td>RD30FO</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>RD30FOQ</td>
-		<td>RD30FO</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>RD3V/P</td>
-		<td>RD2V/P</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RD6DJ/P</td>
-		<td>UD6DJ/P</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RD77LDD</td>
-		<td>RP77LDD</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RE3KU</td>
-		<td>RW3KU</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>RF4S/M</td>
-		<td>UF4S/M</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>RG21NY</td>
-		<td>RG22NY</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>RG22HNY</td>
-		<td>RG22NY</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>RG22NTW</td>
-		<td>RG22NY</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>RH8RLR</td>
-		<td>EH8RLR</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RH9HCW</td>
-		<td>R9HCW</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>RI00YA</td>
-		<td>R100YA</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>RI0KO</td>
-		<td>RI1KO</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>RI150WS</td>
-		<td>R150WS</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>RI2IN/M</td>
-		<td>R2IN/M</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>RI50WS</td>
-		<td>R150WS</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>RJ50WS</td>
-		<td>R150WS</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>RK22HY</td>
-		<td>RK22NY</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>RK3DW/M</td>
-		<td>RK3DWA/M</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RK4FD/M</td>
-		<td>R4FD/M</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RK5M/M</td>
-		<td>RK5K/M</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>RK77KPA</td>
-		<td>RP77KPA</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RK77LO</td>
-		<td>RP77LO</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RL20FO</td>
-		<td>RL30FO</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>RL30FD</td>
-		<td>RL30FO</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>RL9Y/M</td>
-		<td>RZ9Y/M</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>RM1OD/M</td>
-		<td>RA1OD/M</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>RM1OD/P</td>
-		<td>RA1OD/M</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>RM21NY</td>
-		<td>RM22NY</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>RM22HNY</td>
-		<td>RM22NY</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>RM92D</td>
-		<td>RM92D</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>RM9M/M</td>
-		<td>RN9N/M</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>RN75ALT</td>
-		<td>ON75ALT</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>RN9M/M</td>
-		<td>RN9N/M</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>RO2022NY</td>
-		<td>RO22NY</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>RO22LH</td>
-		<td>RO20LH</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>RO30OF</td>
-		<td>RO30OF</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>RO77L</td>
-		<td>RP77L</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RO77TO</td>
-		<td>RP77TO</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RO77UWF</td>
-		<td>RP77UWF</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP350PP</td>
-		<td>R350PP</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>RP75AK</td>
-		<td>RP77AK</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP75MU</td>
-		<td>RP77MU</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP75UF</td>
-		<td>RP77UF</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP76GG</td>
-		<td>RP77GG</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP76H</td>
-		<td>RP77H</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP76MM</td>
-		<td>RP77MM</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP76SR</td>
-		<td>RP77SR</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP777GD</td>
-		<td>RP77GD</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP77AH</td>
-		<td>RP77AO</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP77AI</td>
-		<td>RP77UAI</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP77AUI</td>
-		<td>RP77UAI</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP77BG</td>
-		<td>RP77GB</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP77DGP</td>
-		<td>RP77DGK</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP77DX</td>
-		<td>RP77MD</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP77EM</td>
-		<td>RP77MEM</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP77GAO</td>
-		<td>RP77GRO</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP77GR</td>
-		<td>RP77GRO</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP77HD</td>
-		<td>RP77SD</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP77HG</td>
-		<td>RP77SG</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP77KAG</td>
-		<td>RP77KAS</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP77KZS</td>
-		<td>RP77ZKS</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP77LNP</td>
-		<td>RP77PNP</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP77MC</td>
-		<td>RP77KC</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP77PA</td>
-		<td>RP77KPA</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP77PK</td>
-		<td>RP77KPA</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP77PP</td>
-		<td>RP77PNP</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP77R</td>
-		<td>RP77RT</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP77SGD</td>
-		<td>RP77SG</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP77UA</td>
-		<td>RP77UAI</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP77UAN</td>
-		<td>RP77UAI</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP77UIA</td>
-		<td>RP77UAI</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP77UP</td>
-		<td>RP77UR</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP77UWP</td>
-		<td>RP77UWF</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP77XK</td>
-		<td>RP77X</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP77XR</td>
-		<td>RP77X</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP77ZRS</td>
-		<td>RP77ZKS</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP77ZSK</td>
-		<td>RP77SK</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RP80PWO</td>
-		<td>R80PWO</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>RQ6Q/P</td>
-		<td>RQ6A/P</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>RR350T</td>
-		<td>R350T</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RR7AB/M</td>
-		<td>R7AB/M</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>RR875VU</td>
-		<td>R875VU</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>RS3UT</td>
-		<td>RA3UT</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>RS5TTT</td>
-		<td>ES5TTT</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>RT22BY</td>
-		<td>RT22NY</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>RT77GB</td>
-		<td>RP77GB</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RU0AKE/P</td>
-		<td>RU0AKG/P</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>RU3KOM/M</td>
-		<td>RU3KO/M</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>RU9D/8</td>
-		<td>RU5D/8</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RV8WB/M</td>
-		<td>RV9WB/M</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>RV9WM/M</td>
-		<td>RV9WB/M</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>RV9WN/M</td>
-		<td>RV9WB/M</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>RW0LO/P</td>
-		<td>RW0LD/P</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>RW1FS/1</td>
-		<td>RW3FS/1</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>RW21NY</td>
-		<td>RW22NY</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>RW22HY</td>
-		<td>RW22NY</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>RW3CJH/P</td>
-		<td>RW4CJH/P</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>RW4NA/P</td>
-		<td>RN4WA/P</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>RW77ML</td>
-		<td>RP77ML</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RX30FO</td>
-		<td>RJ30FO</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>RX5K/M</td>
-		<td>RX7K/M</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>RX9RM/M</td>
-		<td>RX9SN/M</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RX9S/M</td>
-		<td>RX9SN/M</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>RX9SM/M</td>
-		<td>RX9SN/M</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RY0ANN/P</td>
-		<td>RY0AAN/P</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>RY2022NY</td>
-		<td>RY22NY</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>RY30YA</td>
-		<td>RY30FO</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>RZ1AG/M</td>
-		<td>RZ4AG/M</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>RZ3D/M</td>
-		<td>RZ5D/M</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>RZ4SZ/P</td>
-		<td>RZ4AZ/P</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>ST/K3DMG</td>
-		<td>P4/K3DMG</td>
-		<td>2Feb 20cw</td>
-	</tr>
-	<tr>
-		<td>ST/KG9N</td>
-		<td>V4/KG9N</td>
-		<td>18Feb 20cw</td>
-	</tr>
-	<tr>
-		<td>ST/KK9A</td>
-		<td>PJ4/KK9A</td>
-		<td>29Mar 30cw</td>
-	</tr>
-	<tr>
-		<td>T65M</td>
-		<td>TM65M</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>T6AA</td>
-		<td>N6AA</td>
-		<td>20cw</td>
-	</tr>
-	<tr>
-		<td>T8AM</td>
-		<td>ZY8AM</td>
-		<td>7Jul 40cw</td>
-	</tr>
-	<tr>
-		<td>T8CC</td>
-		<td>N8CC</td>
-		<td>7Aug 20cw</td>
-	</tr>
-	<tr>
-		<td>TM6HM</td>
-		<td>TM65M</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>TM6MM</td>
-		<td>TM65M</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>TO6CN/ES</td>
-		<td>TO60CNES</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>U02L</td>
-		<td>UP2L</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>U0HMB/M</td>
-		<td>IU0HMB</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>U1OJL/M</td>
-		<td>UA1OJL/M</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>U41A</td>
-		<td>4U1A</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>U51CK</td>
-		<td>S51CK</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>U5KHP/P</td>
-		<td>IU5KHP/P</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>U79M</td>
-		<td>UE79M</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>UA0IBA/P</td>
-		<td>UB0IBA/P</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>UA11WFH</td>
-		<td>UA1WFH</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>UA1ARD/P</td>
-		<td>UA1ATD/P</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>UA1AT/P</td>
-		<td>UA1ATD/P</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>UA2FG/M</td>
-		<td>UA2FF/M</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>UA3B/P</td>
-		<td>UA3AB/P</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>UA3NF/P</td>
-		<td>UA3NFI/P</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>UA4FML/L</td>
-		<td>UA4FML/P</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>UA4FQM/P</td>
-		<td>UA4FMQ/P</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>UA4FS/M</td>
-		<td>UF4S/M</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>UA4S/M</td>
-		<td>UF4S/M</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>UA89CTT/P</td>
-		<td>UA9CTT/P</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>UA9AR/PDX</td>
-		<td>UA9AR/P</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>UA9CCL/M</td>
-		<td>UA9CGL/M</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>UA9CT/P</td>
-		<td>UA9CTT/P</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>UA9JJL/M</td>
-		<td>UA9JLL/M</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>UB50/M</td>
-		<td>UB5O/M</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>UB5A/1</td>
-		<td>UG5A/1</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>UB8N/M</td>
-		<td>UB8M/M</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>UE0IG</td>
-		<td>UT0IG</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>UE2DEQ</td>
-		<td>VE2DEQ</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>UE3DEC</td>
-		<td>OE3DEC</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>UE3QKA</td>
-		<td>UA3QKA</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>UE3SSR</td>
-		<td>VE3SSR</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>UE75ML</td>
-		<td>UE79ML</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>UE79EL</td>
-		<td>UE79ML</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>UE7MM</td>
-		<td>UE79M</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>UE7OM</td>
-		<td>UE79M</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>UE97M</td>
-		<td>UE79M</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>UF9B/3</td>
-		<td>UF0B/3</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>V2XYL</td>
-		<td>VR2XYL</td>
-		<td>7Apr 15m</td>
-	</tr>
-	<tr>
-		<td>VE2PID/W</td>
-		<td>VE2PID/W4</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>VE3CNF/8</td>
-		<td>VE3CNF/W8</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>VE6SS/7</td>
-		<td>VE6SH/7</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>VI9FI</td>
-		<td>VE9FI</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>VK0DX</td>
-		<td>VK9DX</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>VK4ABH/8</td>
-		<td>VK4ABW/8</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>VK90ACB</td>
-		<td>VK90ABC</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>VK9ABC</td>
-		<td>VK90ABC</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>VK9D</td>
-		<td>VK9DX</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>VK9DL</td>
-		<td>VK9DX</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>VK9DR</td>
-		<td>VK9DX</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>VK9KD</td>
-		<td>VP9KD</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>VK9LA/P</td>
-		<td>VK5LA/P</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>VK9N</td>
-		<td>VK9NT</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>VK9X</td>
-		<td>VK9DX</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>VK9XD</td>
-		<td>VK9DX</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>VP8/SG1SGB</td>
-		<td>VP8/SQ1SGB</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>VP8/SQ1SBG</td>
-		<td>VP8/SQ1SGB</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>VP8/SQISGB</td>
-		<td>VP8/SQ1SGB</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>VP8AL</td>
-		<td>PV8AL</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>VP8ALE</td>
-		<td>VP8TLE</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>VP8ARD</td>
-		<td>VP8ADR</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>VP8CK</td>
-		<td>VE8CK</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>VP8DDR</td>
-		<td>VP8ADR</td>
-		<td>February</td>
-	</tr>
-	<tr>
-		<td>VP8E</td>
-		<td>VP8A</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>VP8GMM</td>
-		<td>VP8GGM</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>VP8GMM/A</td>
-		<td>VP8GGM/A</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>VP8LE</td>
-		<td>VP8TLE</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>VP8LO</td>
-		<td>VP8LP</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>VP8LR</td>
-		<td>VP8LP</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>VP8LTE</td>
-		<td>VP8TLE</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>VP8M</td>
-		<td>DP8M</td>
-		<td>March</td>
-	</tr>
-	<tr>
-		<td>VP8PC</td>
-		<td>VP8VPC</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>VP8PL</td>
-		<td>VP8LP</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>VP8SQ1SGB</td>
-		<td>VP8/SQ1SGB</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>VU29MAY</td>
-		<td>4U29MAY</td>
-		<td>May</td>
-	</tr>
-	<tr>
-		<td>VX9DX</td>
-		<td>VK9DX</td>
-		<td>April</td>
-	</tr>
-	<tr>
-		<td>VY2ERC</td>
-		<td>VY0ERC</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>XE2H/I</td>
-		<td>XE2HQI</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>XU1A</td>
-		<td>4U1A</td>
-		<td>27Apr 15cw</td>
-	</tr>
-	<tr>
-		<td>YA3BL</td>
-		<td>UA3L</td>
-		<td>30Jan 20SSB</td>
-	</tr>
-	<tr>
-		<td>YB1AR/6</td>
-		<td>YE1AR/6</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>YB1IIA/4</td>
-		<td>YB1TIA/4</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>YB8BNZ/P</td>
-		<td>YC8BNZ/P</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>YB8HZ/9</td>
-		<td>YB8HZ/P</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>YC4ZZ/5</td>
-		<td>YV4ZZ/5</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>YC7YC/7</td>
-		<td>YC5YC/7</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>YC8YLT/P</td>
-		<td>YC8ELT/P</td>
-		<td>June</td>
-	</tr>
-	<tr>
-		<td>YE6AR/6</td>
-		<td>YE1AR/6</td>
-		<td>January</td>
-	</tr>
-	<tr>
-		<td>Z6/EIHTB</td>
-		<td>Z6/EI5HTB</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>Z62FK</td>
-		<td>ZB2FK</td>
-		<td>July</td>
-	</tr>
-	<tr>
-		<td>ZD7DG</td>
-		<td>ZD7BG</td>
-		<td>26Feb 12m</td>
-	</tr>
-	<tr>
-		<td>ZD8BG</td>
-		<td>ZD7BG</td>
-		<td>Jan/Feb/Mar</td>
-	</tr>
-</table>
+| SPOTTED AS   | WAS ACTUALLY | DATE/BAND/MODE (if known) |
+|--------------|--------------|---------------------------|
+| 0J0DX        | DJ0FX        | 17Feb 15cw                |
+| 3C2C         | 4C2C         | April                     |
+| 3D2RR        | 3D2RRR       | May                       |
+| 3V/KG9N      | V4/KG9N      | 17Feb 15cw                |
+| 5A0W         | 9A0W         | 6Mar 15ssb                |
+| 5A4AIF       | 5B4AIF       | 20May 20SSB               |
+| 5A8VA        | HA8VA        | 6Apr 15cw                 |
+| 5I9/F5PLR    | HI9/F5PLR    | 13Mar 20cw                |
+| 7P6/N2GK     | ZP6/N2GK     | 12Mar 10cw                |
+| 9A/S5O0      | 9A/S50O      | July                      |
+| 9M4BNC       | 9M4BCN       | April                     |
+| 9M4SPN       | 9M2SPN       | August                    |
+| 9M50SD       | 9M59SD       | July                      |
+| 9M7AA        | 9N7AA        | April                     |
+| 9M7NA        | 9M6NA        | February                  |
+| 9M7WE        | 9N7WE        | May                       |
+| 9M97WARD     | TM97WARD     | April                     |
+| 9S4FE        | 9Z4FE        | 17Jan 20 SSB              |
+| 9X4Y         | 9Z4Y         | 9Mar 12cw                 |
+| A31MA        | V31MA        | 26Jan 40 FT8              |
+| BA1CRA/WO22  | BY1CRA/WO22  | February                  |
+| BD6KFY/0     | BD6KF/0      | February                  |
+| BY2CRA/WO22  | BY1CRA/WO22  | February                  |
+| BY4CRA/WO22  | BY1CRA/WO22  | February                  |
+| BY5CRA/WO22  | BY1CRA/WO22  | March                     |
+| C5K          | EC5K         | April                     |
+| C8SG         | CN8SG        | 6Mar 15ssb                |
+| CE0Y/CE3T    | CE0Y/CE3CT   | August                    |
+| CE0Y/CE3T    | CE0Y/CE3ET   | 14Aug 17cw                |
+| CE0Y/CT3CT   | CE0Y/CE3ET   | 14Aug 10cw                |
+| CE96CGX      | CE6CGX       | April                     |
+| CE9AR        | CX9ARH       | March                     |
+| CE9ARH       | CX9ARH       | March                     |
+| DL0WLM/LH    | DL0YLM/LH    | August                    |
+| DO2YLB/LH    | DO2LYB/LH    | August                    |
+| DU6DO/V      | LU6DO/V      | February                  |
+| EA1RCP/I     | EA1RCP/P     | January                   |
+| EA3AIU       | EA6AIU       | March                     |
+| EA6AXQ/P     | EA6XQ/P      | July                      |
+| EA6Q/P       | EA6XQ/P      | April                     |
+| EA6XP        | EA6XQ/P      | July                      |
+| EA6XQP       | EA6XQ/P      | June                      |
+| EA6ZQ/P      | EA6XQ/P      | April                     |
+| EA8IW        | EA3IW        | May                       |
+| EB6CS/P      | EB5CS/P      | April                     |
+| EC5AHS       | EC5AHA       | June                      |
+| EC6KY/P      | EC5KY/P      | March                     |
+| EC6PG/G      | EC6PG        | January                   |
+| EF9F/8       | EF0F/8       | May                       |
+| EG9YMS       | EG8MYS       | July                      |
+| EZ7A         | E77A         | Multiple                  |
+| F6KGI/EG     | F6KGI/P      | January                   |
+| FO/4Z4LA     | FO/4Z5LA     | May                       |
+| FO/DJ6GE     | FO/DJ6GI     | July                      |
+| FO/K6BB      | FO/KD6XU     | May                       |
+| FO/KD7XU     | FO/KD6XU     | May                       |
+| FO/OQ3R      | FM/OQ3R      | May                       |
+| FO/SP3EA     | FO/SP5EAQ    | March                     |
+| FO/SP3EAQ    | FO/SP5EAQ    | March                     |
+| FO/SP4EAQ    | FO/SP5EAQ    | March                     |
+| FO/SP5AEQ    | FO/SP5EAQ    | March                     |
+| FO/SP5AQ     | FO/SP5EAQ    | March                     |
+| FO/SP5EA     | FO/SP5EAQ    | March                     |
+| FO/SP5EAS    | FO/SP5EAQ    | March                     |
+| FO/SP5EAW    | FO/SP5EAQ    | March                     |
+| FO/SP5EQ     | FO/SP5EAQ    | March                     |
+| FO/SP5EQA    | FO/SP5EAQ    | March                     |
+| FO/SP5ESQ    | FO/SP5EAQ    | March                     |
+| FO/SP5XAQ    | FO/SP5EAQ    | March                     |
+| FO/SP7EAQ    | FO/SP5EAQ    | March                     |
+| FO/SP9EAQ    | FO/SP5EAQ    | March                     |
+| FO1SPA       | FO/SP5EAQ    | March                     |
+| FO5CK        | FO5SK        | August                    |
+| FO60CNES     | TO60CNES     | January                   |
+| FT60A        | 7T60A        | July 15m SSB              |
+| G4NVF/N      | G4NVF/M      | January                   |
+| GB070E       | GB70E        | June                      |
+| GB0CMW       | GB0CHW       | May                       |
+| GB0GMG       | GB0HMG       | June                      |
+| GB0HEM       | GB0TWM       | May                       |
+| GB0HGELLA    | GB0HG        | February                  |
+| GB0ILZ       | GB0LIZ       | June                      |
+| GB0OPS       | GQ0OPS       | June                      |
+| GB0OQS       | GQ0OPS       | June                      |
+| GB1000BBBC   | GB100BBC     | January                   |
+| GB1000BBBC   | GB100BBC     | January                   |
+| GB1000BBC    | GB100BBC     | January                   |
+| GB1002TM     | GB1002MT     | February                  |
+| GB100BBS     | GB100BBC     | April                     |
+| GB113COL     | GB13COL      | July                      |
+| GB11HQ       | GB22HQ       | August                    |
+| GB13C0L      | GB13COL      | July                      |
+| GB18LAN      | GB80LAN      | March                     |
+| GB190HA      | GB1900HA     | February                  |
+| GB1COL       | GB13COL      | July                      |
+| GB1HN        | GB1HM        | June                      |
+| GB1OOC       | GB100BBC     | January                   |
+| GB1SM        | GB1SMK       | February                  |
+| GB22E        | GB22GE       | July                      |
+| GB22G        | GB22GE       | August                    |
+| GB22GB       | GB22GD       | August                    |
+| GB22ME       | GB22GE       | July                      |
+| GB22NI       | GB22GI       | July                      |
+| GB22OM       | GB22GM       | August                    |
+| GB2GE        | GB22GE       | July                      |
+| GB2GL        | GB2LG        | August                    |
+| GB2GW        | GB22GW       | August                    |
+| GB2KBR       | GB2KDR       | June                      |
+| GB5HRM       | GB8HRM       | February                  |
+| GB62GM       | GB22GM       | July                      |
+| GB8KOW       | GB8KOA       | January                   |
+| GB8LAM       | GB80LAN      | March                     |
+| GB8LAN       | GB80LAN      | March                     |
+| GB8URK       | GB8UKR       | March                     |
+| GB900HA      | GB1900HA     | January                   |
+| GO0VPA       | GU0VPA       | February                  |
+| GO1KRT       | DO1KRT       | March                     |
+| GO5G         | GM5G         | February                  |
+| GQ4YT        | GQ4YTK       | June                      |
+| GQ73SVK      | GQ3SVK       | June                      |
+| GQ8M         | CQ8M         | March                     |
+| GQ9OPS       | GQ0OPS       | June                      |
+| HQ5W         | 5Q5W         | July                      |
+| I2DKM/RM     | I2DMK/RM     | August                    |
+| II00IDR      | II0IDR       | March                     |
+| II05WRTC     | II5WRTC      | January                   |
+| II0AJV       | II0IAJV      | July                      |
+| II0DR        | II0IDR       | March                     |
+| II0DUM       | IU0DUM       | March                     |
+| II0ERTC      | II0WRTC      | February                  |
+| II0GU        | II0IGU       | March                     |
+| II0IADO      | II0IAJV      | July                      |
+| II0IAJV/AW   | II0IAJV      | July                      |
+| II0IAVJ      | II0IAJV      | July                      |
+| II0ID        | II0IDR       | March                     |
+| II0IDX       | II0IDP       | March                     |
+| II0IJV       | II0IAJV      | July                      |
+| II0IP        | II0IDP       | March                     |
+| II0LGK       | IU0LGK       | January                   |
+| II0OG        | II0OGB       | February                  |
+| II0OSI       | I0OSI        | February                  |
+| II0RTC       | II0WRTC      | February                  |
+| II0WAC       | II0WRTC      | June                      |
+| II0WC        | II0WRTC      | April                     |
+| II0WCTC      | II0WRTC      | January                   |
+| II0WIRC      | II0WRTC      | May                       |
+| II0WR        | II0WRTC      | January                   |
+| II0WRC       | II0WRTC      | April                     |
+| II0WRCT      | II0WRTC      | January                   |
+| II0WRT       | II0WRTC      | January                   |
+| II0WRTCK     | II0WRTC      | February                  |
+| II0WRTCNON   | II0WRTC      | January                   |
+| II0WRTS      | II0WRTC      | March                     |
+| II0WRTV      | II0WRTC      | March                     |
+| II0WTC       | II0WRTC      | January                   |
+| II0WTRC      | II0WRTC      | January                   |
+| II0WWTC      | II0WRTC      | February                  |
+| II2WR/TC     | II2WRTC      | March                     |
+| II3WR/TC     | II3WRTC      | March                     |
+| IK2LEY/O     | IK2LEY/P     | February                  |
+| IQ0QQ/0      | IQ1QQ/0      | March                     |
+| IQ5QO/IMO    | IQ5QO/IM0    | May                       |
+| IQ5QO/ISO    | IQ5QO/IS0    | May                       |
+| IZ0PGIAP/IT  | IZ0PAP/ITGI  | May                       |
+| J5PDW        | JL8PDW       | 16Mar 15ssb               |
+| JD1BHM       | JD1BMH       | June                      |
+| JD1BIA       | JD1BHA       | May                       |
+| JD1BMS       | JD1BMH       | June                      |
+| JD1DMH       | JD1BMH       | June                      |
+| JD1MBH       | JD1BMH       | June                      |
+| JG1NQJ/JD1   | JG8NQJ/JD1   | March                     |
+| JG8NQH/JD1   | JG8NQJ/JD1   | May                       |
+| JI1CRA/7     | JO1CRA/7     | July                      |
+| JQ8NQJ/JD1   | JG8NQJ/JD1   | March                     |
+| JX/KK9A      | PJ4/KK9A     | 29Mar 30cw                |
+| JX0X         | JW0X         | 24Apr 17m                 |
+| K2H/13COL    | K2H          | July                      |
+| K2H/13MA     | K2H          | July                      |
+| K3KT/TT      | K3Y/8        | January                   |
+| K3Y/KH       | K3Y/KH6      | January                   |
+| K3Y/KP       | K3Y/KP4      | January                   |
+| K3Y/TZ       | K3Y/8        | January                   |
+| KH0M/M       | KH0W/M       | June                      |
+| KH6NN/NZ     | KH6ND/NZ7    | May                       |
+| KL7T/P       | WL7T/P       | June                      |
+| KP4/K6D      | KP4/K6DTT    | May                       |
+| KP4RK/TI     | KP4RK        | July                      |
+| LU1AW/TE     | LU1AW/D      | January                   |
+| LU1W/D       | LU1AW/D      | February                  |
+| LU2DO/V      | LU6DO/V      | January                   |
+| LU5DO/V      | LU6DO/V      | January                   |
+| LU5ZS        | LU4ZS        | July                      |
+| LU7D/D       | LU7DD/D      | February                  |
+| LU8DHC/D     | LU8DCH/D     | February                  |
+| LZ1ZF/BIG    | LZ1ZF        | July                      |
+| M65M         | TM65M        | July                      |
+| MM/W7WAQ     | MM/W7YAQ     | May                       |
+| MO0PV        | M0OPV        | June                      |
+| MQ0LT        | MQ0XLT       | June                      |
+| MQ3QWD       | MQ3AWD       | June                      |
+| MQ7MQ        | MQ7Q         | June                      |
+| N6NRD/VE     | N6NRD/VE3    | April                     |
+| OI1AY/MN     | OI1AY/MM     | May                       |
+| OZ0C/LH      | OZ0Q/LH      | August                    |
+| OZ5EB/LH     | OZ5ESB/LH    | August                    |
+| PJ2/N2U      | PJ2/NA2U     | January                   |
+| PJ2/SP9FOW   | PJ5/SP9FOW   | March                     |
+| PJ5/SP0FOW   | PJ5/SP9FOW   | March                     |
+| PJ5/SP5FIH   | PJ5/SP9FIH   | March                     |
+| PJ5/SP5FOW   | PJ5/SP9FOW   | March                     |
+| PJ5/SP8MQA   | PJ5/SP9MQA   | March                     |
+| PJ5/SP9FH    | PJ5/SP9FIH   | March                     |
+| PJ5/SP9FI    | PJ5/SP9FIH   | March                     |
+| PJ5/SP9FJ    | PJ5/SP9FIH   | March                     |
+| PJ5/SP9FJH   | PJ5/SP9FIH   | March                     |
+| PJ5/SP9MAQ   | PJ5/SP9MQA   | March                     |
+| PJ7/SP9FIH   | PJ5/SP9FIH   | 30Mar 12 SSB              |
+| PJ7/SP9FIH   | PJ5/SP9FIH   | March                     |
+| PV0AA        | P40AA        | 30Jan 160 cw              |
+| R022NY       | RO22NY       | January                   |
+| R030OF       | RO30OF       | April                     |
+| R03M/P       | RO3M/P       | July                      |
+| R03Z         | RZ3Z         | April                     |
+| R0A/3        | R0AI/3       | March                     |
+| R0CD/P       | R0CDP/P      | June                      |
+| R100ADUSB    | R100AD       | August                    |
+| R100WWS      | R110WWS      | August                    |
+| R100Y        | R100YAA      | April                     |
+| R105WS       | R150WS       | March                     |
+| R10AD        | R100AD       | August                    |
+| R110WSS      | R110WWS      | August                    |
+| R110WWA      | R110WWS      | August                    |
+| R11MS        | R117MS       | May                       |
+| R11PB        | RI1PB        | April                     |
+| R125YWI      | R135YWI      | February                  |
+| R12OZF       | R120ZF       | July                      |
+| R12SRW       | R12SWR       | July                      |
+| R135YWIRV6HJ | R135YWI      | February                  |
+| R13HYWI      | R135YWI      | February                  |
+| R150AR       | R350AR       | June                      |
+| R150C        | R150S        | June                      |
+| R150RW       | R150WS       | March                     |
+| R150WC       | R150WS       | March                     |
+| R150WS/AS104 | R150WS       | March                     |
+| R1520IG      | R1530IG      | August                    |
+| R1530G       | R1530IG      | August                    |
+| R153OIG      | R1530IG      | August                    |
+| R159WS       | R150WS       | March                     |
+| R18JKG       | R19JKG       | June                      |
+| R191RV       | R19JNV       | June                      |
+| R1961G       | R1961GP      | April                     |
+| R198M        | R108M        | March                     |
+| R1990VK      | R1996VK      | April                     |
+| R1996V       | R1996VK      | April                     |
+| R199BV       | R1996VK      | April                     |
+| R19J         | RJ9J         | May                       |
+| R19JNA       | R19JRA       | May                       |
+| R19NIV       | R19JNV       | May                       |
+| R19XMG       | R19JMG       | May                       |
+| R1AK/P       | 8R1AK/P      | July                      |
+| R1BDL/M      | R1BBL/M      | August                    |
+| R1BDR/M      | R1BBL/M      | August                    |
+| R1C/M        | R1CF/M       | May                       |
+| R1OAE/P      | R1OAJ/P      | June                      |
+| R1OM/P       | RM1O/P       | August                    |
+| R2014C       | R2014NC      | April                     |
+| R2014K       | R2014RK      | March                     |
+| R2020NY      | R2022NY      | January                   |
+| R2022HNY     | R2022NY      | January                   |
+| R2022HY      | R2022NY      | January                   |
+| R2022NYC     | R2022NY      | January                   |
+| R2024NC      | R2014NC      | April                     |
+| R20CNC       | R2014NC      | April                     |
+| R20LH        | RO20LH       | July                      |
+| R21RU        | Z21RU        | June                      |
+| R22HNW       | R22HNY       | January                   |
+| R22NY        | RA22NY       | January                   |
+| R22SHNY      | R22HNY       | January                   |
+| R23GA        | R32GA        | July                      |
+| R2AE/P       | R2EA/P       | May                       |
+| R2AEL/P      | R2ALE/P      | March                     |
+| R2DTU/8      | R2DXU/8      | July                      |
+| R2EA/5       | R2EA/M       | August                    |
+| R2HAM/M      | R2HM/M       | July                      |
+| R2HN/M       | R2HM/M       | August                    |
+| R2JAJA/P     | R2AJA/P      | June                      |
+| R2SA/9       | R2SD/9       | July                      |
+| R2SXU/8      | R2DXU/8      | July                      |
+| R300BR       | R350BR       | June                      |
+| R30FO        | RK30FO       | April                     |
+| R30M         | R3OM         | March                     |
+| R30OF        | RO30OF       | April                     |
+| R30T         | R350T        | June                      |
+| R3350PP      | R350PP       | May                       |
+| R3500D       | R350D        | May                       |
+| R3500NN      | R350NN       | June                      |
+| R350DR       | R350BR       | June                      |
+| R350P        | R350PP       | June                      |
+| R350R        | R350BR       | June                      |
+| R359PP       | R350PP       | June                      |
+| R35OK        | R350K        | June                      |
+| R3ATX/M      | RA3ATX/M     | July                      |
+| R3EA/M       | R2EA/M       | August                    |
+| R450M        | R350M        | June                      |
+| R45PD        | RA5PD        | February                  |
+| R46Z         | R4BZ         | March                     |
+| R4FUT/M      | RA4FUT/M     | June                      |
+| R50JNG       | R50JNV       | March                     |
+| R50KDM       | R50NDM       | March                     |
+| R50WS        | R150WS       | March                     |
+| R530D        | R350D        | June                      |
+| R5D/M        | RZ5D/M       | July                      |
+| R600RO       | R900RO       | January                   |
+| R60BME       | R60DME       | April                     |
+| R60DMI       | R60DME       | April                     |
+| R60RME       | R60DME       | April                     |
+| R6AB/M       | R7AB/M       | August                    |
+| R6LIK/8/M    | R6LJK/8/M    | February                  |
+| R752M        | R752MAK      | June                      |
+| R770GUK      | R770GU       | August                    |
+| R770UG       | R770GU       | August                    |
+| R77I         | RP77I        | May                       |
+| R77KR        | RP77KR       | May                       |
+| R77LO        | RP77LO       | May                       |
+| R77MP        | RP77MP       | May                       |
+| R77OGU       | R770GU       | August                    |
+| R77TG        | RP77TG       | May                       |
+| R77UAI       | RP77UAI      | May                       |
+| R77ZAM       | RP77ZAM      | May                       |
+| R77ZM        | RP77ZM       | May                       |
+| R78AB/P      | R7AB/P       | August                    |
+| R7AYX/P      | R7AY/P       | July                      |
+| R7DA/9       | R7AB/9       | August                    |
+| R7DA/M       | R7AB/M       | August                    |
+| R7FD/4/M     | R7FO/4/M     | July                      |
+| R7RKB/P      | R7KRB/P      | July                      |
+| R80AES       | R80IAS       | February                  |
+| R80PLO       | R80PWO       | January                   |
+| R80RWO       | R80PWO       | January                   |
+| R80WPO       | R80PWO       | January                   |
+| R875UV       | R875VU       | July                      |
+| R87HVU       | R875VU       | July                      |
+| R8DXU/8      | R2DXU/8      | July                      |
+| R8MB/J       | R8MB/1       | July                      |
+| R8MB/M       | R8WB/M       | June                      |
+| R8WB/V       | R8WB/M       | July                      |
+| R8WX/M       | R8WB/M       | July                      |
+| R90BRB       | R90BRZ       | April                     |
+| R90BRO       | R90BRZ       | March                     |
+| R90BRX       | R90BRZ       | April                     |
+| R90BZ        | R90BRZ       | March                     |
+| R90BZR       | R90BRZ       | April                     |
+| R90DRZ       | R90BRZ       | March                     |
+| R90QD        | R90SOK       | June                      |
+| R90RBZ       | R90BRZ       | March                     |
+| R90RZ        | R90BRZ       | April                     |
+| R90SO        | R90SOK       | June                      |
+| R9JAJ/P      | R8JAJ/P      | July                      |
+| R9JAP/P      | R8JAJ/P      | July                      |
+| R9MZ/9       | R8MZ/9       | April                     |
+| R9SO/M       | RU9SO/M      | April                     |
+| R9WB/M       | R8WB/M       | June                      |
+| RA/D2AI/M    | RA/DK2AI/M   | July                      |
+| RA/DD7QL     | RA/DD7QJ     | January                   |
+| RA/DD7QN     | RA/DD7QJ     | February                  |
+| RA/DK1AI     | RA/DK2AI     | July                      |
+| RA/DK1AI/M   | RA/DK2AI/M   | July                      |
+| RA/DK2AIM/M  | RA/DK2AI/M   | July                      |
+| RA/DKA2AI    | RA/DK2AI     | August                    |
+| RA/DL2AI     | RA/DK2AI/M   | July                      |
+| RA/DL2AI/M   | RA/DK2AI/M   | July                      |
+| RA0AIA/P     | R0AIA/P      | April                     |
+| RA0D/P       | R0AD/P       | April                     |
+| RA0F/P       | RM0F/P       | August                    |
+| RA0LGR/P     | RW0LGR/P     | March                     |
+| RA1961AG     | R1961AG      | April                     |
+| RA1ALA/M     | RA1ALA/MM    | July                      |
+| RA1AOD/M     | RA1OD/M      | July                      |
+| RA1ATD/P     | UA1ATD/P     | August                    |
+| RA1QAT/P     | RA9QAT/P     | February                  |
+| RA21NY       | RA22NY       | January                   |
+| RA222NY      | RA22NY       | January                   |
+| RA23NY       | RA22NY       | January                   |
+| RA30A        | RA3OA        | June                      |
+| RA4FD/M      | R4FD/M       | August                    |
+| RA6PKS/P     | R7PKS/P      | May                       |
+| RA80IAS      | R80IAS       | February                  |
+| RA9AR/P      | UA9AR/P      | January                   |
+| RA9WR/P      | RA9RW/P      | August                    |
+| RB1B         | RN1B         | April                     |
+| RB1W         | KB1W         | May                       |
+| RC29LH       | RC20LH       | June                      |
+| RC30LH       | RC20LH       | July                      |
+| RC7C/P       | UC7C/P       | May                       |
+| RD1O/P       | RM1O/P       | August                    |
+| RD30DX       | RD30FO       | April                     |
+| RD30FOQ      | RD30FO       | April                     |
+| RD3V/P       | RD2V/P       | May                       |
+| RD6DJ/P      | UD6DJ/P      | May                       |
+| RD77LDD      | RP77LDD      | May                       |
+| RD8U/8       | RD8U/P       | August                    |
+| RE3KU        | RW3KU        | July                      |
+| RE3T         | RT3E         | August                    |
+| RF4S/M       | UF4S/M       | February                  |
+| RG21NY       | RG22NY       | January                   |
+| RG22HNY      | RG22NY       | January                   |
+| RG22NTW      | RG22NY       | January                   |
+| RH8RLR       | EH8RLR       | May                       |
+| RH9HCW       | R9HCW        | June                      |
+| RI00YA       | R100YA       | April                     |
+| RI0KO        | RI1KO        | July                      |
+| RI150WS      | R150WS       | March                     |
+| RI2IN/M      | R2IN/M       | July                      |
+| RI50WS       | R150WS       | March                     |
+| RJ2WT/P      | RJ2T/P       | August                    |
+| RJ50WS       | R150WS       | March                     |
+| RK22HY       | RK22NY       | January                   |
+| RK3DW/M      | RK3DWA/M     | May                       |
+| RK4FD/M      | R4FD/M       | May                       |
+| RK5M/M       | RK5K/M       | February                  |
+| RK77KPA      | RP77KPA      | May                       |
+| RK77LO       | RP77LO       | May                       |
+| RL20FO       | RL30FO       | April                     |
+| RL20RH       | RL20LH       | August                    |
+| RL30FD       | RL30FO       | April                     |
+| RL9Y/M       | RZ9Y/M       | July                      |
+| RM10/P       | RM1O/P       | August                    |
+| RM1OD/M      | RA1OD/M      | July                      |
+| RM1OD/P      | RA1OD/M      | July                      |
+| RM21NY       | RM22NY       | January                   |
+| RM22HNY      | RM22NY       | January                   |
+| RM62YT       | TM62YT       | August                    |
+| RM92D        | RM92D        | March                     |
+| RM9M/M       | RN9N/M       | April                     |
+| RN34AC       | RN3AC        | August                    |
+| RN75ALT      | ON75ALT      | January                   |
+| RN9M/M       | RN9N/M       | April                     |
+| RO0TV/P      | R0TV/P       | August                    |
+| RO2022NY     | RO22NY       | January                   |
+| RO22LH       | RO20LH       | July                      |
+| RO30OF       | RO30OF       | April                     |
+| RO77L        | RP77L        | May                       |
+| RO77TO       | RP77TO       | May                       |
+| RO77UWF      | RP77UWF      | May                       |
+| RP350PP      | R350PP       | June                      |
+| RP75AK       | RP77AK       | May                       |
+| RP75MU       | RP77MU       | May                       |
+| RP75UF       | RP77UF       | May                       |
+| RP76GG       | RP77GG       | May                       |
+| RP76H        | RP77H        | May                       |
+| RP76MM       | RP77MM       | May                       |
+| RP76SR       | RP77SR       | May                       |
+| RP777GD      | RP77GD       | May                       |
+| RP77AH       | RP77AO       | May                       |
+| RP77AI       | RP77UAI      | May                       |
+| RP77AUI      | RP77UAI      | May                       |
+| RP77BG       | RP77GB       | May                       |
+| RP77DGP      | RP77DGK      | May                       |
+| RP77DX       | RP77MD       | May                       |
+| RP77EM       | RP77MEM      | May                       |
+| RP77GAO      | RP77GRO      | May                       |
+| RP77GR       | RP77GRO      | May                       |
+| RP77HD       | RP77SD       | May                       |
+| RP77HG       | RP77SG       | May                       |
+| RP77KAG      | RP77KAS      | May                       |
+| RP77KZS      | RP77ZKS      | May                       |
+| RP77LNP      | RP77PNP      | May                       |
+| RP77MC       | RP77KC       | May                       |
+| RP77PA       | RP77KPA      | May                       |
+| RP77PK       | RP77KPA      | May                       |
+| RP77PP       | RP77PNP      | May                       |
+| RP77R        | RP77RT       | May                       |
+| RP77SGD      | RP77SG       | May                       |
+| RP77UA       | RP77UAI      | May                       |
+| RP77UAN      | RP77UAI      | May                       |
+| RP77UIA      | RP77UAI      | May                       |
+| RP77UP       | RP77UR       | May                       |
+| RP77UWP      | RP77UWF      | May                       |
+| RP77XK       | RP77X        | May                       |
+| RP77XR       | RP77X        | May                       |
+| RP77ZRS      | RP77ZKS      | May                       |
+| RP77ZSK      | RP77SK       | May                       |
+| RP80PWO      | R80PWO       | January                   |
+| RQ6Q/P       | RQ6A/P       | July                      |
+| RR350T       | R350T        | May                       |
+| RR7AB/M      | R7AB/M       | June                      |
+| RR875VU      | R875VU       | July                      |
+| RS3UT        | RA3UT        | March                     |
+| RS5TTT       | ES5TTT       | February                  |
+| RT22BY       | RT22NY       | January                   |
+| RT77GB       | RP77GB       | May                       |
+| RU0AKE/P     | RU0AKG/P     | July                      |
+| RU3KOM/M     | RU3KO/M      | July                      |
+| RU4CU/M      | RU4CK/M      | August                    |
+| RU9D/8       | RU5D/8       | May                       |
+| RV1CC/O      | RV1CC/0      | August                    |
+| RV8WB/M      | RV9WB/M      | June                      |
+| RV9WM/M      | RV9WB/M      | June                      |
+| RV9WN/M      | RV9WB/M      | July                      |
+| RW0LO/P      | RW0LD/P      | June                      |
+| RW1FS/1      | RW3FS/1      | April                     |
+| RW21NY       | RW22NY       | January                   |
+| RW22HY       | RW22NY       | January                   |
+| RW3CJH/P     | RW4CJH/P     | July                      |
+| RW4NA/P      | RN4WA/P      | July                      |
+| RW77ML       | RP77ML       | May                       |
+| RW9WN/P      | RX9WN/P      | August                    |
+| RX30FO       | RJ30FO       | April                     |
+| RX5K/M       | RX7K/M       | July                      |
+| RX9RM/M      | RX9SN/M      | May                       |
+| RX9S/M       | RX9SN/M      | April                     |
+| RX9SM/M      | RX9SN/M      | May                       |
+| RY0ANN/P     | RY0AAN/P     | April                     |
+| RY2022NY     | RY22NY       | January                   |
+| RY30YA       | RY30FO       | April                     |
+| RZ10A        | RZ1OA        | August                    |
+| RZ1AG/M      | RZ4AG/M      | May                       |
+| RZ3D/M       | RZ5D/M       | June                      |
+| RZ4SZ/P      | RZ4AZ/P      | June                      |
+| ST/K3DMG     | P4/K3DMG     | 2Feb 20cw                 |
+| ST/KG9N      | V4/KG9N      | 18Feb 20cw                |
+| ST/KK9A      | PJ4/KK9A     | 29Mar 30cw                |
+| T65M         | TM65M        | July                      |
+| T6AA         | N6AA         | 20cw                      |
+| T8AM         | ZY8AM        | 7Jul 40cw                 |
+| T8CC         | N8CC         | 7Aug 20cw                 |
+| TB0AR        | YB0AR        | 28Aug 20ssb               |
+| TM6HM        | TM65M        | July                      |
+| TM6MM        | TM65M        | July                      |
+| TO6CN/ES     | TO60CNES     | January                   |
+| U02L         | UP2L         | May                       |
+| U0HMB/M      | IU0HMB       | February                  |
+| U1OJL/M      | UA1OJL/M     | June                      |
+| U41A         | 4U1A         | June                      |
+| U51CK        | S51CK        | January                   |
+| U5KHP/P      | IU5KHP/P     | February                  |
+| U79M         | UE79M        | January                   |
+| UA0IBA/P     | UB0IBA/P     | May                       |
+| UA11WFH      | UA1WFH       | July                      |
+| UA1ARD/P     | UA1ATD/P     | March                     |
+| UA1AT/P      | UA1ATD/P     | February                  |
+| UA1TD/P      | UA1ATD/P     | August                    |
+| UA1UTD/P     | UA1ATD/P     | August                    |
+| UA2FG/M      | UA2FF/M      | June                      |
+| UA3B/P       | UA3AB/P      | January                   |
+| UA3LN/P      | UA3LNM/P     | August                    |
+| UA3NF/P      | UA3NFI/P     | June                      |
+| UA4FC/P      | UA4FCS/P     | August                    |
+| UA4FML/L     | UA4FML/P     | July                      |
+| UA4FQM/P     | UA4FMQ/P     | May                       |
+| UA4FS/M      | UF4S/M       | April                     |
+| UA4ME/M      | UA4NE/M      | August                    |
+| UA4PW/P      | UA4PWR/P     | August                    |
+| UA4S/M       | UF4S/M       | April                     |
+| UA6EE/P      | UA6EED/P     | August                    |
+| UA89CTT/P    | UA9CTT/P     | March                     |
+| UA9AR/PDX    | UA9AR/P      | January                   |
+| UA9CCL/M     | UA9CGL/M     | July                      |
+| UA9CT/P      | UA9CTT/P     | March                     |
+| UA9JJL/M     | UA9JLL/M     | June                      |
+| UA9JL/M      | UA9JLL/M     | August                    |
+| UA9WG/P      | UA0WG/P      | August                    |
+| UB50/0       | UB5O/0       | August                    |
+| UB50/M       | UB5O/M       | June                      |
+| UB5A/1       | UG5A/1       | May                       |
+| UB5O/O       | UB5O/0       | August                    |
+| UB8N/M       | UB8M/M       | July                      |
+| UE0IG        | UT0IG        | May                       |
+| UE2DEQ       | VE2DEQ       | January                   |
+| UE3DEC       | OE3DEC       | January                   |
+| UE3QKA       | UA3QKA       | April                     |
+| UE3SSR       | VE3SSR       | May                       |
+| UE75ML       | UE79ML       | January                   |
+| UE79EL       | UE79ML       | January                   |
+| UE7MM        | UE79M        | January                   |
+| UE7OM        | UE79M        | January                   |
+| UE97M        | UE79M        | January                   |
+| UF9B/3       | UF0B/3       | February                  |
+| V2XYL        | VR2XYL       | 7Apr 15m                  |
+| VE2PID/W     | VE2PID/W4    | July                      |
+| VE3CNF/8     | VE3CNF/W8    | May                       |
+| VE6SS/7      | VE6SH/7      | July                      |
+| VI9FI        | VE9FI        | April                     |
+| VK0DX        | VK9DX        | April                     |
+| VK4ABH/8     | VK4ABW/8     | March                     |
+| VK90ACB      | VK90ABC      | February                  |
+| VK9ABC       | VK90ABC      | January                   |
+| VK9D         | VK9DX        | January                   |
+| VK9DL        | VK9DX        | March                     |
+| VK9DR        | VK9DX        | February                  |
+| VK9GPL/VK9   | VK2GPL/VK9   | August                    |
+| VK9KD        | VP9KD        | May                       |
+| VK9LA/P      | VK5LA/P      | July                      |
+| VK9N         | VK9NT        | April                     |
+| VK9X         | VK9DX        | March                     |
+| VK9XD        | VK9DX        | April                     |
+| VP8/SG1SGB   | VP8/SQ1SGB   | January                   |
+| VP8/SQ1SBG   | VP8/SQ1SGB   | January                   |
+| VP8/SQISGB   | VP8/SQ1SGB   | January                   |
+| VP8AL        | PV8AL        | March                     |
+| VP8ALE       | VP8TLE       | May                       |
+| VP8ARD       | VP8ADR       | July                      |
+| VP8CK        | VE8CK        | July                      |
+| VP8DDR       | VP8ADR       | February                  |
+| VP8E         | VP8A         | June                      |
+| VP8GMM       | VP8GGM       | June                      |
+| VP8GMM/A     | VP8GGM/A     | June                      |
+| VP8JP        | VP8LP        | August                    |
+| VP8LE        | VP8TLE       | May                       |
+| VP8LO        | VP8LP        | March                     |
+| VP8LR        | VP8LP        | March                     |
+| VP8LT        | VP8LP        | August                    |
+| VP8LTE       | VP8TLE       | May                       |
+| VP8M         | DP8M         | March                     |
+| VP8PC        | VP8VPC       | April                     |
+| VP8PL        | VP8LP        | May                       |
+| VP8SQ1SGB    | VP8/SQ1SGB   | January                   |
+| VU29MAY      | 4U29MAY      | May                       |
+| VX9DX        | VK9DX        | April                     |
+| VY2ERC       | VY0ERC       | July                      |
+| XE2H/I       | XE2HQI       | July                      |
+| XU1A         | 4U1A         | 27Apr 15cw                |
+| YA3BL        | UA3L         | 30Jan 20SSB               |
+| YB1AR/6      | YE1AR/6      | January                   |
+| YB1IIA/4     | YB1TIA/4     | January                   |
+| YB8BNZ/P     | YC8BNZ/P     | June                      |
+| YB8HZ/9      | YB8HZ/P      | June                      |
+| YC4ZZ/5      | YV4ZZ/5      | June                      |
+| YC7YC/7      | YC5YC/7      | January                   |
+| YC8YLT/P     | YC8ELT/P     | June                      |
+| YE6AR/6      | YE1AR/6      | January                   |
+| Z6/EIHTB     | Z6/EI5HTB    | July                      |
+| Z62FK        | ZB2FK        | July                      |
+| ZD7DG        | ZD7BG        | 26Feb 12m                 |
+| ZD8BG        | ZD7BG        | Jan/Feb/Mar               |
