@@ -11,5 +11,7 @@ Each country and zone counts only once, so you can concentrate on working new on
 
 Check our constantly updated [Helpful Hints](/resources/hints) to improve your 2022 score.
 
+Learn about the [Origins of the DX Marathon](/year-of-dx).
+
 Many awards are given for the top overall scores in four classes plus top scores in modes, bands, US call areas and more!   Details of the [extensive award list are available here](/awards).
 
