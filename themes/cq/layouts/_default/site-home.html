@@ -3,6 +3,7 @@
   {{ $.Scratch.Set "Title" "DX Marathon" }}
   {{ $news := .Site.GetPage "/news" }}
   {{ $results := .Site.GetPage "/results" }}
+  {{ $note := .Site.GetPage "/note" }}
 
   <section class='content'>
     <div class='title'>
@@ -18,6 +19,12 @@
     </div>
 
     <div class="sidebar">
+      {{ with $note.Content }}
+        <div class="note">
+          {{.}}
+        </div>
+      {{ end }}
+
       <div id="news" class="aside">
         <h2>Latest News</h2>
         <ul>

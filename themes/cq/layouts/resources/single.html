@@ -21,6 +21,12 @@
 
   <section class='content'>
 
+    {{ if .Lastmod }}
+      <p class="news-meta"></p>
+        Last updated on {{ .Lastmod.Format "2 January 2006" }}
+      </p>
+    {{ end }}
+
     <div class='body'>
       {{ .Content }}
     </div>

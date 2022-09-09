@@ -11,15 +11,16 @@
         <h2>{{.}}</h2>
       {{ end }}
       <p class="news-meta">
-        {{ $lastmodstr := .Lastmod.Format "January 2 2006" }}
-        {{ $datestr := .Date.Format "January 2 2006" }}
-        {{ with $datestr }}
-          Posted on {{ $datestr }}
+        {{ if or .Date .Lastmod }}
+          {{ $lastmodstr := .Lastmod.Format "January 2 2006" }}
+          {{ $datestr := .Date.Format "January 2 2006" }}
+          {{ with $datestr }}
+            Posted on {{ $datestr }}
+          {{ end }}
+          {{ if ne $datestr $lastmodstr  }}
+            &nbsp; Last modified on {{ $lastmodstr  }}
+          {{ end }}
         {{ end }}
-        {{ if ne $datestr $lastmodstr  }}
-          &nbsp; Last modified on {{ $lastmodstr  }}
-        {{ end }}
-
         {{ with .Params.Author }}
           by {{.}}
         {{ end }}
