@@ -1,6 +1,6 @@
 ---
 title: Resources, Hints & Tips
-lastmod: 2022-09-05
+lastmod: 2022-09-13
 ---
 
 

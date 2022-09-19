@@ -13,6 +13,7 @@ weight: 2
 | 9Q7AX      | Pirate                                                  |
 | BG5IQX     | Uses USA based remote                                   |
 | C9LOC      | Pirate                                                  |
+| E3HCO      | Was actually EA3HCO                                     |
 | FT5WQ      | Pirate                                                  |
 | HB0TW      | Pirate activity - callsign has not been used since 2020 |
 | T32C       | Pirate                                                  |

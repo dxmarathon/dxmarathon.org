@@ -5,7 +5,7 @@ weight: 1
 
 | CALLSIGN    | NOTES                                                                                                                                                       |
 |-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1A0KM       | Pirate on 24 February                                                                                                                                       |
+| 1A0KM       | Pirate on 24 February and 29 August                                                                                                                         |
 | 2Q          | 2Q stations may be in any Great Britain country in June. See [this page](https://clublog.freshdesk.com/support/solutions/articles/3000112434) for more info |
 | 3A          | Many pirates - makes sure you can confirm your QSO                                                                                                          |
 | 3A/PB8DX    | Please check log carefully for 15m QSOs - a pirate was active on 15.                                                                                        |
@@ -34,9 +34,24 @@ weight: 1
 | 9M4CGR      | West Malaysia - 9M2                                                                                                                                         |
 | 9M4CKR      | East Malaysia - 9M6                                                                                                                                         |
 | 9M59SD      | East Malaysia - 9M6                                                                                                                                         |
+| 9M65MA      | West Malaysia - 9M2                                                                                                                                         |
+| 9M65MB      | West Malaysia - 9M2                                                                                                                                         |
+| 9M65MC      | West Malaysia - 9M2                                                                                                                                         |
+| 9M65MD      | West Malaysia - 9M2                                                                                                                                         |
+| 9M65MJ      | West Malaysia - 9M2                                                                                                                                         |
+| 9M65MK      | West Malaysia - 9M2                                                                                                                                         |
+| 9M65MM      | West Malaysia - 9M2                                                                                                                                         |
+| 9M65MN      | West Malaysia - 9M2                                                                                                                                         |
+| 9M65MP      | West Malaysia - 9M2                                                                                                                                         |
+| 9M65MQ      | East Malaysia - 9M6                                                                                                                                         |
+| 9M65MR      | West Malaysia - 9M2                                                                                                                                         |
+| 9M65MS      | East Malaysia - 9M6                                                                                                                                         |
+| 9M65MT      | West Malaysia - 9M2                                                                                                                                         |
+| 9M65MW      | West Malaysia - 9M2                                                                                                                                         |
 | BY1CRA/WO22 | Station is located in China, not USA - Special Winter Olympic station                                                                                       |
 | C7A         | Valid callsign - Same as 4U1VIC                                                                                                                             |
 | CE0YHF      | Operating from CE3 - counts as Chile. Often does not sign CE3/                                                                                              |
+| E3HCO       | Was actually EA3HCO                                                                                                                                         |
 | E51CJC      | Valid callsign - South Cook Is.                                                                                                                             |
 | E51WL       | Pirate at 1200Z on 80m; 28Jul 14090 - Pirate. Warwick only operates 16-20z and 03-06Z                                                                       |
 | FM/PE1IGM   | Contacts NOT valid - operating from a boat                                                                                                                  |
