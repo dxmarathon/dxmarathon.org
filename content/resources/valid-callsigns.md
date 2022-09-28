@@ -1,5 +1,5 @@
 ---
-subtitle: Valid Callsigns
+subtitle: Valid Callsigns & Notes
 weight: 1
 ---
 
@@ -54,9 +54,11 @@ weight: 1
 | E3HCO       | Was actually EA3HCO                                                                                                                                         |
 | E51CJC      | Valid callsign - South Cook Is.                                                                                                                             |
 | E51WL       | Pirate at 1200Z on 80m; 28Jul 14090 - Pirate. Warwick only operates 16-20z and 03-06Z                                                                       |
+| EZ          | Amateur radio not authorized, so no EZ callsigns are valid                                                                                                  |
 | FM/PE1IGM   | Contacts NOT valid - operating from a boat                                                                                                                  |
 | FO/KD6XU    | Operating from a boat - contacts not valid                                                                                                                  |
 | FO5QS       | Moved to Marquesas in July                                                                                                                                  |
+| FT4XW       | Pirate on 22 Sept on 10m FT8                                                                                                                                |
 | GQ          | GQ stations may be in any Great Britain country in June. See [this page](https://clublog.freshdesk.com/support/solutions/articles/3000112434) for more info |
 | HV0A        | Activity on 9Feb on 15m FT8 and May10 on 20m SSB was a pirate                                                                                               |
 | HZ          | 30 meters not currently allowed in Saudi Arabia                                                                                                             |

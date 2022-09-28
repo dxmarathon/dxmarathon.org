@@ -20,6 +20,8 @@ weight: 2
 | TY5TZ      | Pirate                                                  |
 | VQ9LT      | Pirate                                                  |
 | VU2GSM     | Uses remotes in other countries                         |
+| Y1TH       | Pirate                                                  |
 | YK7R       | Pirate                                                  |
 | ZD8RTC     | Pirate                                                  |
+| ZL8AC      | Pirate                                                  |
 
