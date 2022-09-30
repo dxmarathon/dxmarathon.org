@@ -7,6 +7,7 @@ weight: 2
 |------------|---------------------------------------------------------|
 | 1A0/PE5CE  | Pirate                                                  |
 | 1A0UN      | Pirate                                                  |
+| 1A9KM      | Pirate                                                  |
 | 3A2AM      | Pirate                                                  |
 | 6V6CYU     | Pirate                                                  |
 | 8Q7/RX3APM | Pirate                                                  |
@@ -17,6 +18,7 @@ weight: 2
 | FT5WQ      | Pirate                                                  |
 | HB0TW      | Pirate activity - callsign has not been used since 2020 |
 | T32C       | Pirate                                                  |
+| TT8JT      | Pirate                                                  |
 | TY5TZ      | Pirate                                                  |
 | VQ9LT      | Pirate                                                  |
 | VU2GSM     | Uses remotes in other countries                         |

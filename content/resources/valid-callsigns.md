@@ -57,7 +57,7 @@ weight: 1
 | EZ          | Amateur radio not authorized, so no EZ callsigns are valid                                                                                                  |
 | FM/PE1IGM   | Contacts NOT valid - operating from a boat                                                                                                                  |
 | FO/KD6XU    | Operating from a boat - contacts not valid                                                                                                                  |
-| FO5QS       | Moved to Marquesas in July                                                                                                                                  |
+| FO5QS       | Moved to Marquesas in July, but sending Tahaiti Grid; Trying to verify real QTH                                                                             |
 | FT4XW       | Pirate on 22 Sept on 10m FT8                                                                                                                                |
 | GQ          | GQ stations may be in any Great Britain country in June. See [this page](https://clublog.freshdesk.com/support/solutions/articles/3000112434) for more info |
 | HV0A        | Activity on 9Feb on 15m FT8 and May10 on 20m SSB was a pirate                                                                                               |
@@ -93,6 +93,7 @@ weight: 1
 | VB3Q70      | Valid Canadian callsign                                                                                                                                     |
 | VK1MDJ/P2   | Appears to be portable VK2 and NOT in P2                                                                                                                    |
 | VK9DX       | 12m CW on 31 March was from a pirate. 10m CW activity was real.                                                                                             |
+| VK9XX       | On 24Sept - digital operations above 18110 not allowed for USA                                                                                              |
 | VP2V/N9DK   | Operating from a boat - contacts not valid                                                                                                                  |
 | VU2TS       | Pirate on 15m on April 26th                                                                                                                                 |
 | XU7AGA      | Pirate on 19Feb 80m                                                                                                                                         |
