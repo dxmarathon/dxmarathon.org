@@ -1,49 +1,56 @@
 ---
 subtitle: Bad Spots
 weight: 3
-lastmod: 2022-09-05
+lastmod: 2022-11-04
 ---
 
 | SPOTTED AS   | WAS ACTUALLY | DATE/BAND/MODE (if known) |
 |--------------|--------------|---------------------------|
-| 0J0DX        | DJ0FX        | 17Feb 15cw                |
+| 0J0DX        | DJ0FX        | 17 Feb 15m CW             |
+| 2E0HPI/G     | 2E0HPI/P     | September                 |
 | 3C2C         | 4C2C         | April                     |
 | 3D2RR        | 3D2RRR       | May                       |
-| 3V/KG9N      | V4/KG9N      | 17Feb 15cw                |
-| 5A0W         | 9A0W         | 6Mar 15ssb                |
-| 5A4AIF       | 5B4AIF       | 20May 20SSB               |
-| 5A8VA        | HA8VA        | 6Apr 15cw                 |
-| 5I9/F5PLR    | HI9/F5PLR    | 13Mar 20cw                |
-| 7P6/N2GK     | ZP6/N2GK     | 12Mar 10cw                |
+| 3V/KG9N      | V4/KG9N      | 17 Feb 15m CW             |
+| 5A0W         | 9A0W         | 6 Mar 15m SSB             |
+| 5A4AIF       | 5B4AIF       | 20 May 20m SSB            |
+| 5A8VA        | HA8VA        | 6 Apr 15m CW              |
+| 5I9/F5PLR    | HI9/F5PLR    | 13 Mar 20m CW             |
+| 7P6/N2GK     | ZP6/N2GK     | 12 Mar 10m CW             |
 | 9A/S5O0      | 9A/S50O      | July                      |
 | 9M4BNC       | 9M4BCN       | April                     |
 | 9M4SPN       | 9M2SPN       | August                    |
+| 9M4XCN       | 9M4BCN       | September                 |
 | 9M50SD       | 9M59SD       | July                      |
 | 9M7AA        | 9N7AA        | April                     |
 | 9M7NA        | 9M6NA        | February                  |
 | 9M7WE        | 9N7WE        | May                       |
 | 9M97WARD     | TM97WARD     | April                     |
-| 9S4FE        | 9Z4FE        | 17Jan 20 SSB              |
-| 9X4Y         | 9Z4Y         | 9Mar 12cw                 |
-| A31MA        | V31MA        | 26Jan 40 FT8              |
+| 9O50BB       | 9A0BB        | 29 Oct 20m SSB            |
+| 9S4FE        | 9Z4FE        | 17 Jan 20m SSB            |
+| 9X4Y         | 9Z4Y         | 9 Mar 12m CW              |
+| A31MA        | V31MA        | 26 Jan 40m FT8            |
+| AM8RBN       | AM7RBB       | October                   |
 | BA1CRA/WO22  | BY1CRA/WO22  | February                  |
 | BD6KFY/0     | BD6KF/0      | February                  |
 | BY2CRA/WO22  | BY1CRA/WO22  | February                  |
 | BY4CRA/WO22  | BY1CRA/WO22  | February                  |
 | BY5CRA/WO22  | BY1CRA/WO22  | March                     |
 | C5K          | EC5K         | April                     |
-| C8SG         | CN8SG        | 6Mar 15ssb                |
+| C8SG         | CN8SG        | 6 Mar 15m SSB             |
 | CE0Y/CE3T    | CE0Y/CE3CT   | August                    |
-| CE0Y/CE3T    | CE0Y/CE3ET   | 14Aug 17cw                |
-| CE0Y/CT3CT   | CE0Y/CE3ET   | 14Aug 10cw                |
+| CE0Y/CE3T    | CE0Y/CE3ET   | 14 Aug 17m CW             |
+| CE0Y/CT3CT   | CE0Y/CE3ET   | 14 Aug 10m CW             |
 | CE96CGX      | CE6CGX       | April                     |
 | CE9AR        | CX9ARH       | March                     |
 | CE9ARH       | CX9ARH       | March                     |
+| CS3SI        | CR3SI        | October                   |
 | DL0WLM/LH    | DL0YLM/LH    | August                    |
 | DO2YLB/LH    | DO2LYB/LH    | August                    |
 | DU6DO/V      | LU6DO/V      | February                  |
 | EA1RCP/I     | EA1RCP/P     | January                   |
+| EA1RIC/P     | EA1RCI/P     | October                   |
 | EA3AIU       | EA6AIU       | March                     |
+| EA3BV/9      | EA3BV/P      | September                 |
 | EA6AXQ/P     | EA6XQ/P      | July                      |
 | EA6Q/P       | EA6XQ/P      | April                     |
 | EA6XP        | EA6XQ/P      | July                      |
@@ -56,10 +63,13 @@ lastmod: 2022-09-05
 | EC6PG/G      | EC6PG        | January                   |
 | EF9F/8       | EF0F/8       | May                       |
 | EG9YMS       | EG8MYS       | July                      |
+| EZ2U         | E72U         | 28 Sept 12m CW            |
 | EZ7A         | E77A         | Multiple                  |
 | F6KGI/EG     | F6KGI/P      | January                   |
 | FO/4Z4LA     | FO/4Z5LA     | May                       |
 | FO/DJ6GE     | FO/DJ6GI     | July                      |
+| FO/F6BCN     | FO/F6BCW     | October                   |
+| FO/F6BKW     | FO/F6BCW     | October                   |
 | FO/K6BB      | FO/KD6XU     | May                       |
 | FO/KD7XU     | FO/KD6XU     | May                       |
 | FO/OQ3R      | FM/OQ3R      | May                       |
@@ -78,18 +88,22 @@ lastmod: 2022-09-05
 | FO/SP7EAQ    | FO/SP5EAQ    | March                     |
 | FO/SP9EAQ    | FO/SP5EAQ    | March                     |
 | FO1SPA       | FO/SP5EAQ    | March                     |
+| FO2DL        | TO2DL        | October                   |
 | FO5CK        | FO5SK        | August                    |
+| FO5Q         | FO5QB        | September                 |
 | FO60CNES     | TO60CNES     | January                   |
 | FT60A        | 7T60A        | July 15m SSB              |
 | G4NVF/N      | G4NVF/M      | January                   |
 | GB070E       | GB70E        | June                      |
 | GB0CMW       | GB0CHW       | May                       |
+| GB0EUR       | GB0EOR       | September                 |
 | GB0GMG       | GB0HMG       | June                      |
 | GB0HEM       | GB0TWM       | May                       |
 | GB0HGELLA    | GB0HG        | February                  |
 | GB0ILZ       | GB0LIZ       | June                      |
 | GB0OPS       | GQ0OPS       | June                      |
 | GB0OQS       | GQ0OPS       | June                      |
+| GB0PW        | GB90PW       | September                 |
 | GB1000BBBC   | GB100BBC     | January                   |
 | GB1000BBBC   | GB100BBC     | January                   |
 | GB1000BBC    | GB100BBC     | January                   |
@@ -102,11 +116,14 @@ lastmod: 2022-09-05
 | GB190HA      | GB1900HA     | February                  |
 | GB1COL       | GB13COL      | July                      |
 | GB1HN        | GB1HM        | June                      |
+| GB1KLR       | GB1FLR       | September                 |
 | GB1OOC       | GB100BBC     | January                   |
 | GB1SM        | GB1SMK       | February                  |
+| GB200BBC     | GB100BBC     | October                   |
 | GB22E        | GB22GE       | July                      |
 | GB22G        | GB22GE       | August                    |
 | GB22GB       | GB22GD       | August                    |
+| GB22HN       | GB22NH       | October                   |
 | GB22ME       | GB22GE       | July                      |
 | GB22NI       | GB22GI       | July                      |
 | GB22OM       | GB22GM       | August                    |
@@ -114,21 +131,30 @@ lastmod: 2022-09-05
 | GB2GL        | GB2LG        | August                    |
 | GB2GW        | GB22GW       | August                    |
 | GB2KBR       | GB2KDR       | June                      |
+| GB5DS        | GB5HDS       | October                   |
 | GB5HRM       | GB8HRM       | February                  |
+| GB60OUS      | GB6OUS       | September                 |
 | GB62GM       | GB22GM       | July                      |
+| GB6GUS       | GB6OUS       | September                 |
 | GB8KOW       | GB8KOA       | January                   |
 | GB8LAM       | GB80LAN      | March                     |
 | GB8LAN       | GB80LAN      | March                     |
 | GB8URK       | GB8UKR       | March                     |
 | GB900HA      | GB1900HA     | January                   |
+| GB90BW       | GB90PW       | September                 |
 | GO0VPA       | GU0VPA       | February                  |
 | GO1KRT       | DO1KRT       | March                     |
 | GO5G         | GM5G         | February                  |
+| GQ0ATA       | GQ4ATA       | September                 |
+| GQ3XNL       | GQ3XNO       | September                 |
+| GQ3XON       | GQ3XNO       | September                 |
 | GQ4YT        | GQ4YTK       | June                      |
 | GQ73SVK      | GQ3SVK       | June                      |
 | GQ8M         | CQ8M         | March                     |
 | GQ9OPS       | GQ0OPS       | June                      |
 | HQ5W         | 5Q5W         | July                      |
+| HS3BR/P      | HS3NBR/P     | October                   |
+| HS6NBR/P     | HS3NBR/P     | October                   |
 | I2DKM/RM     | I2DMK/RM     | August                    |
 | II00IDR      | II0IDR       | March                     |
 | II05WRTC     | II5WRTC      | January                   |
@@ -138,16 +164,22 @@ lastmod: 2022-09-05
 | II0ERTC      | II0WRTC      | February                  |
 | II0GU        | II0IGU       | March                     |
 | II0IADO      | II0IAJV      | July                      |
+| II0IAJA      | II0IAJV      | September                 |
 | II0IAJV/AW   | II0IAJV      | July                      |
+| II0IAKE      | II9IAKE      | September                 |
 | II0IAVJ      | II0IAJV      | July                      |
 | II0ID        | II0IDR       | March                     |
 | II0IDX       | II0IDP       | March                     |
+| II0IHBC      | II8IHBC      | September                 |
 | II0IJV       | II0IAJV      | July                      |
 | II0IP        | II0IDP       | March                     |
+| II0IRA       | II0IAR       | October                   |
 | II0LGK       | IU0LGK       | January                   |
 | II0OG        | II0OGB       | February                  |
 | II0OSI       | I0OSI        | February                  |
 | II0RTC       | II0WRTC      | February                  |
+| II0T0UR      | II0TOUR      | September                 |
+| II0TUOR      | II0TOUR      | September                 |
 | II0WAC       | II0WRTC      | June                      |
 | II0WC        | II0WRTC      | April                     |
 | II0WCTC      | II0WRTC      | January                   |
@@ -166,13 +198,16 @@ lastmod: 2022-09-05
 | II2WR/TC     | II2WRTC      | March                     |
 | II3WR/TC     | II3WRTC      | March                     |
 | IK2LEY/O     | IK2LEY/P     | February                  |
+| IM0/IQ5AEQ   | IM0/IK5AEQ   | October                   |
 | IQ0QQ/0      | IQ1QQ/0      | March                     |
 | IQ5QO/IMO    | IQ5QO/IM0    | May                       |
 | IQ5QO/ISO    | IQ5QO/IS0    | May                       |
+| IR1DC/0      | IR1DCI/0     | September                 |
 | IZ0PGIAP/IT  | IZ0PAP/ITGI  | May                       |
-| J5PDW        | JL8PDW       | 16Mar 15ssb               |
+| J5PDW        | JL8PDW       | 16 Mar 15m SSB            |
 | JD1BHM       | JD1BMH       | June                      |
 | JD1BIA       | JD1BHA       | May                       |
+| JD1BMA       | JD1BHA       | October                   |
 | JD1BMS       | JD1BMH       | June                      |
 | JD1DMH       | JD1BMH       | June                      |
 | JD1MBH       | JD1BMH       | June                      |
@@ -180,25 +215,30 @@ lastmod: 2022-09-05
 | JG8NQH/JD1   | JG8NQJ/JD1   | May                       |
 | JI1CRA/7     | JO1CRA/7     | July                      |
 | JQ8NQJ/JD1   | JG8NQJ/JD1   | March                     |
-| JX/KK9A      | PJ4/KK9A     | 29Mar 30cw                |
-| JX0X         | JW0X         | 24Apr 17m                 |
+| JX/KK9A      | PJ4/KK9A     | 29 Mar 30m CW             |
+| JX0X         | JW0X         | 24 Apr 17m                |
 | K2H/13COL    | K2H          | July                      |
 | K2H/13MA     | K2H          | July                      |
 | K3KT/TT      | K3Y/8        | January                   |
 | K3Y/KH       | K3Y/KH6      | January                   |
 | K3Y/KP       | K3Y/KP4      | January                   |
 | K3Y/TZ       | K3Y/8        | January                   |
+| K7TQ/ST      | K7TQ/M       | September                 |
 | KH0M/M       | KH0W/M       | June                      |
 | KH6NN/NZ     | KH6ND/NZ7    | May                       |
 | KL7T/P       | WL7T/P       | June                      |
 | KP4/K6D      | KP4/K6DTT    | May                       |
 | KP4RK/TI     | KP4RK        | July                      |
+| L31ZE        | LZ1ZE        | September                 |
 | LU1AW/TE     | LU1AW/D      | January                   |
 | LU1W/D       | LU1AW/D      | February                  |
 | LU2DO/V      | LU6DO/V      | January                   |
+| LU4ZEA       | LU4JEA       | October                   |
 | LU5DO/V      | LU6DO/V      | January                   |
 | LU5ZS        | LU4ZS        | July                      |
+| LU6ZTB       | LU6ETB       | September                 |
 | LU7D/D       | LU7DD/D      | February                  |
+| LU7EFF/GR    | LU8EFF/GR    | September                 |
 | LU8DHC/D     | LU8DCH/D     | February                  |
 | LZ1ZF/BIG    | LZ1ZF        | July                      |
 | M65M         | TM65M        | July                      |
@@ -208,9 +248,12 @@ lastmod: 2022-09-05
 | MQ3QWD       | MQ3AWD       | June                      |
 | MQ7MQ        | MQ7Q         | June                      |
 | N6NRD/VE     | N6NRD/VE3    | April                     |
+| OH/DF8TM     | OH/DF9TM     | October                   |
+| OH9/DJ9TM    | OH/DF9TM     | October                   |
 | OI1AY/MN     | OI1AY/MM     | May                       |
 | OZ0C/LH      | OZ0Q/LH      | August                    |
 | OZ5EB/LH     | OZ5ESB/LH    | August                    |
+| P29PO        | P29RO        | 25 Oct 20m CW             |
 | PJ2/N2U      | PJ2/NA2U     | January                   |
 | PJ2/SP9FOW   | PJ5/SP9FOW   | March                     |
 | PJ5/SP0FOW   | PJ5/SP9FOW   | March                     |
@@ -222,20 +265,30 @@ lastmod: 2022-09-05
 | PJ5/SP9FJ    | PJ5/SP9FIH   | March                     |
 | PJ5/SP9FJH   | PJ5/SP9FIH   | March                     |
 | PJ5/SP9MAQ   | PJ5/SP9MQA   | March                     |
-| PJ7/SP9FIH   | PJ5/SP9FIH   | 30Mar 12 SSB              |
+| PJ7/SP9FIH   | PJ5/SP9FIH   | 30 Mar 12m SSB            |
 | PJ7/SP9FIH   | PJ5/SP9FIH   | March                     |
-| PV0AA        | P40AA        | 30Jan 160 cw              |
+| PS/DO1BEN    | PD/DO1BEN    | October                   |
+| PV0AA        | P40AA        | 30 Jan 160m CW            |
 | R022NY       | RO22NY       | January                   |
 | R030OF       | RO30OF       | April                     |
 | R03M/P       | RO3M/P       | July                      |
 | R03Z         | RZ3Z         | April                     |
+| R06BX        | RZ6BX        | October                   |
 | R0A/3        | R0AI/3       | March                     |
 | R0CD/P       | R0CDP/P      | June                      |
+| R0OBJ/M      | R9OBJ/M      | October                   |
+| R100KAZAK    | R100KZAK     | October                   |
+| R100KZA      | R100KZAK     | October                   |
+| R1000KZAK    | R100KZAK     | October                   |
 | R100ADUSB    | R100AD       | August                    |
+| R100BAK      | R100KZAK     | October                   |
+| R100P        | R100PA       | October                   |
+| R100SSR      | R700SSR      | October                   |
 | R100WWS      | R110WWS      | August                    |
 | R100Y        | R100YAA      | April                     |
 | R105WS       | R150WS       | March                     |
 | R10AD        | R100AD       | August                    |
+| R10AV        | R150AV       | September                 |
 | R110WSS      | R110WWS      | August                    |
 | R110WWA      | R110WWS      | August                    |
 | R11MS        | R117MS       | May                       |
@@ -245,6 +298,7 @@ lastmod: 2022-09-05
 | R12SRW       | R12SWR       | July                      |
 | R135YWIRV6HJ | R135YWI      | February                  |
 | R13HYWI      | R135YWI      | February                  |
+| R141POL      | RI41POL      | October                   |
 | R150AR       | R350AR       | June                      |
 | R150C        | R150S        | June                      |
 | R150RW       | R150WS       | March                     |
@@ -269,6 +323,8 @@ lastmod: 2022-09-05
 | R1BDL/M      | R1BBL/M      | August                    |
 | R1BDR/M      | R1BBL/M      | August                    |
 | R1C/M        | R1CF/M       | May                       |
+| R1F/M        | R1CF/M       | September                 |
+| R1FW/O       | R1FW/0       | October                   |
 | R1OAE/P      | R1OAJ/P      | June                      |
 | R1OM/P       | RM1O/P       | August                    |
 | R2014C       | R2014NC      | April                     |
@@ -289,15 +345,19 @@ lastmod: 2022-09-05
 | R2AEL/P      | R2ALE/P      | March                     |
 | R2DTU/8      | R2DXU/8      | July                      |
 | R2EA/5       | R2EA/M       | August                    |
+| R2EM/M       | R2EA/M       | October                   |
 | R2HAM/M      | R2HM/M       | July                      |
 | R2HN/M       | R2HM/M       | August                    |
 | R2JAJA/P     | R2AJA/P      | June                      |
 | R2SA/9       | R2SD/9       | July                      |
 | R2SXU/8      | R2DXU/8      | July                      |
 | R300BR       | R350BR       | June                      |
+| R3010TOZ     | R310TOZ      | October                   |
 | R30FO        | RK30FO       | April                     |
 | R30M         | R3OM         | March                     |
 | R30OF        | RO30OF       | April                     |
+| R30SR        | R30SRR       | October                   |
+| R30SSR       | R30SRR       | October                   |
 | R30T         | R350T        | June                      |
 | R3350PP      | R350PP       | May                       |
 | R3500D       | R350D        | May                       |
@@ -309,14 +369,21 @@ lastmod: 2022-09-05
 | R35OK        | R350K        | June                      |
 | R3ATX/M      | RA3ATX/M     | July                      |
 | R3EA/M       | R2EA/M       | August                    |
+| R3TLS/M      | R3TKS/M      | October                   |
+| R41POL       | RI41POL      | October                   |
+| R43KSA       | A43KSA       | September                 |
 | R450M        | R350M        | June                      |
+| R457PP       | LZ457PP      | October                   |
 | R45PD        | RA5PD        | February                  |
 | R46Z         | R4BZ         | March                     |
 | R4FUT/M      | RA4FUT/M     | June                      |
+| R4PFB/M      | R4PBF/M      | September                 |
 | R50JNG       | R50JNV       | March                     |
 | R50KDM       | R50NDM       | March                     |
+| R50RC        | R50RCR       | September                 |
 | R50WS        | R150WS       | March                     |
 | R530D        | R350D        | June                      |
+| R58FG        | 5R8FG        | October                   |
 | R5D/M        | RZ5D/M       | July                      |
 | R600RO       | R900RO       | January                   |
 | R60BME       | R60DME       | April                     |
@@ -324,7 +391,11 @@ lastmod: 2022-09-05
 | R60RME       | R60DME       | April                     |
 | R6AB/M       | R7AB/M       | August                    |
 | R6LIK/8/M    | R6LJK/8/M    | February                  |
+| R700SR       | R700SSR      | October                   |
+| R700SRR      | R700SSR      | October                   |
+| R74YWA       | R75YWA       | September                 |
 | R752M        | R752MAK      | June                      |
+| R75AA        | RA75AA       | September                 |
 | R770GUK      | R770GU       | August                    |
 | R770UG       | R770GU       | August                    |
 | R77I         | RP77I        | May                       |
@@ -337,21 +408,31 @@ lastmod: 2022-09-05
 | R77ZAM       | RP77ZAM      | May                       |
 | R77ZM        | RP77ZM       | May                       |
 | R78AB/P      | R7AB/P       | August                    |
+| R7AB/M599    | R7AB/M       | September                 |
 | R7AYX/P      | R7AY/P       | July                      |
 | R7DA/9       | R7AB/9       | August                    |
 | R7DA/M       | R7AB/M       | August                    |
+| R7EA/P       | RA7E/P       | October                   |
 | R7FD/4/M     | R7FO/4/M     | July                      |
+| R7KF/P       | R7KFF/P      | October                   |
+| R7KS/M       | R7PKS/M      | October                   |
+| R7PKE/P      | R7PKS/P      | October                   |
 | R7RKB/P      | R7KRB/P      | July                      |
 | R80AES       | R80IAS       | February                  |
 | R80PLO       | R80PWO       | January                   |
+| R80RTO       | R85RTO       | September                 |
 | R80RWO       | R80PWO       | January                   |
 | R80WPO       | R80PWO       | January                   |
+| R85RO        | R85RTO       | October                   |
+| R85RTL       | R85RTO       | October                   |
+| R86RTO       | R85RTO       | October                   |
 | R875UV       | R875VU       | July                      |
 | R87HVU       | R875VU       | July                      |
 | R8DXU/8      | R2DXU/8      | July                      |
 | R8MB/J       | R8MB/1       | July                      |
 | R8MB/M       | R8WB/M       | June                      |
 | R8WB/V       | R8WB/M       | July                      |
+| R8WM/M       | RM8W/M       | September                 |
 | R8WX/M       | R8WB/M       | July                      |
 | R90BRB       | R90BRZ       | April                     |
 | R90BRO       | R90BRZ       | March                     |
@@ -363,9 +444,11 @@ lastmod: 2022-09-05
 | R90RBZ       | R90BRZ       | March                     |
 | R90RZ        | R90BRZ       | April                     |
 | R90SO        | R90SOK       | June                      |
+| R94AF        | R9AS         | September                 |
 | R9JAJ/P      | R8JAJ/P      | July                      |
 | R9JAP/P      | R8JAJ/P      | July                      |
 | R9MZ/9       | R8MZ/9       | April                     |
+| R9SC/P       | R9CS/P       | October                   |
 | R9SO/M       | RU9SO/M      | April                     |
 | R9WB/M       | R8WB/M       | June                      |
 | RA/D2AI/M    | RA/DK2AI/M   | July                      |
@@ -377,6 +460,7 @@ lastmod: 2022-09-05
 | RA/DKA2AI    | RA/DK2AI     | August                    |
 | RA/DL2AI     | RA/DK2AI/M   | July                      |
 | RA/DL2AI/M   | RA/DK2AI/M   | July                      |
+| RA/UE8MM/P   | RA/EU8MM/P   | September                 |
 | RA0AIA/P     | R0AIA/P      | April                     |
 | RA0D/P       | R0AD/P       | April                     |
 | RA0F/P       | RM0F/P       | August                    |
@@ -390,10 +474,13 @@ lastmod: 2022-09-05
 | RA222NY      | RA22NY       | January                   |
 | RA23NY       | RA22NY       | January                   |
 | RA30A        | RA3OA        | June                      |
+| RA4DI/P      | R4DI/P       | September                 |
 | RA4FD/M      | R4FD/M       | August                    |
 | RA6PKS/P     | R7PKS/P      | May                       |
+| RA6PKY/P     | R7PKS/P      | October                   |
 | RA80IAS      | R80IAS       | February                  |
 | RA9AR/P      | UA9AR/P      | January                   |
+| RA9MV/0      | RU9MV/0      | September                 |
 | RA9WR/P      | RA9RW/P      | August                    |
 | RB1B         | RN1B         | April                     |
 | RB1W         | KB1W         | May                       |
@@ -419,10 +506,13 @@ lastmod: 2022-09-05
 | RI0KO        | RI1KO        | July                      |
 | RI150WS      | R150WS       | March                     |
 | RI2IN/M      | R2IN/M       | July                      |
+| RI40POL      | RI41POL      | September                 |
 | RI50WS       | R150WS       | March                     |
 | RJ2WT/P      | RJ2T/P       | August                    |
 | RJ50WS       | R150WS       | March                     |
+| RK0M/P       | R0MR/P       | September                 |
 | RK22HY       | RK22NY       | January                   |
+| RK2AW/M      | RK3AW/M      | October                   |
 | RK3DW/M      | RK3DWA/M     | May                       |
 | RK4FD/M      | R4FD/M       | May                       |
 | RK5M/M       | RK5K/M       | February                  |
@@ -450,6 +540,7 @@ lastmod: 2022-09-05
 | RO77L        | RP77L        | May                       |
 | RO77TO       | RP77TO       | May                       |
 | RO77UWF      | RP77UWF      | May                       |
+| RO85RO       | UE85RO       | September                 |
 | RP350PP      | R350PP       | June                      |
 | RP75AK       | RP77AK       | May                       |
 | RP75MU       | RP77MU       | May                       |
@@ -489,6 +580,7 @@ lastmod: 2022-09-05
 | RP77ZRS      | RP77ZKS      | May                       |
 | RP77ZSK      | RP77SK       | May                       |
 | RP80PWO      | R80PWO       | January                   |
+| RQ6A/PUP     | RQ6A/P       | October                   |
 | RQ6Q/P       | RQ6A/P       | July                      |
 | RR350T       | R350T        | May                       |
 | RR7AB/M      | R7AB/M       | June                      |
@@ -496,12 +588,18 @@ lastmod: 2022-09-05
 | RS3UT        | RA3UT        | March                     |
 | RS5TTT       | ES5TTT       | February                  |
 | RT22BY       | RT22NY       | January                   |
+| RT34R        | RT34BR       | October                   |
 | RT77GB       | RP77GB       | May                       |
+| RT85RTO      | R85RTO       | September                 |
 | RU0AKE/P     | RU0AKG/P     | July                      |
 | RU3KOM/M     | RU3KO/M      | July                      |
+| RU45U/M      | RU4HU/M      | October                   |
 | RU4CU/M      | RU4CK/M      | August                    |
+| RU4HM/M      | RU4HU/M      | September                 |
 | RU9D/8       | RU5D/8       | May                       |
+| RU9MV/O      | RU9MV/0      | October                   |
 | RV1CC/O      | RV1CC/0      | August                    |
+| RV6AW/P      | RV6AWZ/P     | September                 |
 | RV8WB/M      | RV9WB/M      | June                      |
 | RV9WM/M      | RV9WB/M      | June                      |
 | RV9WN/M      | RV9WB/M      | July                      |
@@ -510,6 +608,7 @@ lastmod: 2022-09-05
 | RW21NY       | RW22NY       | January                   |
 | RW22HY       | RW22NY       | January                   |
 | RW3CJH/P     | RW4CJH/P     | July                      |
+| RW3UA/M      | RW3VA/M      | October                   |
 | RW4NA/P      | RN4WA/P      | July                      |
 | RW77ML       | RP77ML       | May                       |
 | RW9WN/P      | RX9WN/P      | August                    |
@@ -525,16 +624,22 @@ lastmod: 2022-09-05
 | RZ1AG/M      | RZ4AG/M      | May                       |
 | RZ3D/M       | RZ5D/M       | June                      |
 | RZ4SZ/P      | RZ4AZ/P      | June                      |
-| ST/K3DMG     | P4/K3DMG     | 2Feb 20cw                 |
-| ST/KG9N      | V4/KG9N      | 18Feb 20cw                |
-| ST/KK9A      | PJ4/KK9A     | 29Mar 30cw                |
+| S22HAF       | SX22HAF      | 2 Nov                     |
+| ST/K3DMG     | P4/K3DMG     | 2 Feb 20m CW              |
+| ST/KG9N      | V4/KG9N      | 18 Feb 20m CW             |
+| ST/KK9A      | PJ4/KK9A     | 29 Mar 30m CW             |
+| SV0JZH       | SV0JZ        | October                   |
+| SV8/FIRAF    | SV8/F1RAF    | October                   |
 | T65M         | TM65M        | July                      |
-| T6AA         | N6AA         | 20cw                      |
-| T8AM         | ZY8AM        | 7Jul 40cw                 |
-| T8CC         | N8CC         | 7Aug 20cw                 |
-| TB0AR        | YB0AR        | 28Aug 20ssb               |
+| T6AA         | N6AA         | 20m CW                    |
+| T8AM         | ZY8AM        | 7 Jul 40m CW              |
+| T8CC         | N8CC         | 7 Aug 20m CW              |
+| TB0AR        | YB0AR        | 28 Aug 20m SSB            |
+| TI9/EA3IEY   | TI/EA3IEY    | 7 Oct                     |
 | TM6HM        | TM65M        | July                      |
 | TM6MM        | TM65M        | July                      |
+| TO2DL/FG     | TO2DL        | October                   |
+| TO5MK        | TO5M         | October                   |
 | TO6CN/ES     | TO60CNES     | January                   |
 | U02L         | UP2L         | May                       |
 | U0HMB/M      | IU0HMB       | February                  |
@@ -553,11 +658,14 @@ lastmod: 2022-09-05
 | UA3B/P       | UA3AB/P      | January                   |
 | UA3LN/P      | UA3LNM/P     | August                    |
 | UA3NF/P      | UA3NFI/P     | June                      |
+| UA4ANV/P     | UA4AVN/P     | September                 |
 | UA4FC/P      | UA4FCS/P     | August                    |
 | UA4FML/L     | UA4FML/P     | July                      |
 | UA4FQM/P     | UA4FMQ/P     | May                       |
 | UA4FS/M      | UF4S/M       | April                     |
 | UA4ME/M      | UA4NE/M      | August                    |
+| UA4NE/N      | UA4NE/M      | September                 |
+| UA4NU/P      | UA4NE/P      | October                   |
 | UA4PW/P      | UA4PWR/P     | August                    |
 | UA4S/M       | UF4S/M       | April                     |
 | UA6EE/P      | UA6EED/P     | August                    |
@@ -568,12 +676,15 @@ lastmod: 2022-09-05
 | UA9JJL/M     | UA9JLL/M     | June                      |
 | UA9JL/M      | UA9JLL/M     | August                    |
 | UA9WG/P      | UA0WG/P      | August                    |
+| UA9ZO/P      | UA9ZZ/P      | October                   |
 | UB50/0       | UB5O/0       | August                    |
 | UB50/M       | UB5O/M       | June                      |
 | UB5A/1       | UG5A/1       | May                       |
+| UB5O/MY      | UB5O/M       | September                 |
 | UB5O/O       | UB5O/0       | August                    |
 | UB8N/M       | UB8M/M       | July                      |
 | UE0IG        | UT0IG        | May                       |
+| UE25L        | UE85L        | September                 |
 | UE2DEQ       | VE2DEQ       | January                   |
 | UE3DEC       | OE3DEC       | January                   |
 | UE3QKA       | UA3QKA       | April                     |
@@ -582,14 +693,22 @@ lastmod: 2022-09-05
 | UE79EL       | UE79ML       | January                   |
 | UE7MM        | UE79M        | January                   |
 | UE7OM        | UE79M        | January                   |
+| UE85IO       | UE85RO       | September                 |
+| UE85K        | UE85L        | September                 |
+| UE85LO       | UE85RO       | September                 |
+| UE86L        | UE85L        | September                 |
+| UE8HL        | UE85L        | September                 |
 | UE97M        | UE79M        | January                   |
+| UF60A        | UF6OA        | September                 |
+| UF60OA       | UF6OA        | September                 |
 | UF9B/3       | UF0B/3       | February                  |
-| V2XYL        | VR2XYL       | 7Apr 15m                  |
+| V2XYL        | VR2XYL       | 7 Apr 15m                 |
 | VE2PID/W     | VE2PID/W4    | July                      |
 | VE3CNF/8     | VE3CNF/W8    | May                       |
 | VE6SS/7      | VE6SH/7      | July                      |
 | VI9FI        | VE9FI        | April                     |
 | VK0DX        | VK9DX        | April                     |
+| VK0UN        | VK0WN        | September                 |
 | VK4ABH/8     | VK4ABW/8     | March                     |
 | VK90ACB      | VK90ABC      | February                  |
 | VK9ABC       | VK90ABC      | January                   |
@@ -614,6 +733,7 @@ lastmod: 2022-09-05
 | VP8GMM       | VP8GGM       | June                      |
 | VP8GMM/A     | VP8GGM/A     | June                      |
 | VP8JP        | VP8LP        | August                    |
+| VP8KAC       | VP8KCA       | October                   |
 | VP8LE        | VP8TLE       | May                       |
 | VP8LO        | VP8LP        | March                     |
 | VP8LR        | VP8LP        | March                     |
@@ -627,8 +747,8 @@ lastmod: 2022-09-05
 | VX9DX        | VK9DX        | April                     |
 | VY2ERC       | VY0ERC       | July                      |
 | XE2H/I       | XE2HQI       | July                      |
-| XU1A         | 4U1A         | 27Apr 15cw                |
-| YA3BL        | UA3L         | 30Jan 20SSB               |
+| XU1A         | 4U1A         | 27 Apr 15m CW             |
+| YA3BL        | UA3L         | 30 Jan 20m SSB            |
 | YB1AR/6      | YE1AR/6      | January                   |
 | YB1IIA/4     | YB1TIA/4     | January                   |
 | YB8BNZ/P     | YC8BNZ/P     | June                      |
@@ -639,5 +759,6 @@ lastmod: 2022-09-05
 | YE6AR/6      | YE1AR/6      | January                   |
 | Z6/EIHTB     | Z6/EI5HTB    | July                      |
 | Z62FK        | ZB2FK        | July                      |
-| ZD7DG        | ZD7BG        | 26Feb 12m                 |
+| ZD7DG        | ZD7BG        | 26 Feb 12m                |
 | ZD8BG        | ZD7BG        | Jan/Feb/Mar               |
+| ZL75AWRC     | ZL75WARC     | October                   |

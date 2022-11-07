@@ -1,7 +1,7 @@
 ---
 subtitle: Invalid Callsigns
 weight: 2
-lastmod: 2022-09-29
+lastmod: 2022-11-04
 ---
 
 | CALLSIGN   | NOTES                                                   |
@@ -16,15 +16,24 @@ lastmod: 2022-09-29
 | BG5IQX     | Uses USA based remote                                   |
 | C9LOC      | Pirate                                                  |
 | E3HCO      | Was actually EA3HCO                                     |
+| FP5XEQ     | Presumed Pirate                                         |
+| FR5GTO     | Pirate                                                  |
 | FT5WQ      | Pirate                                                  |
+| FT5XU      | Pirate                                                  |
 | HB0TW      | Pirate activity - callsign has not been used since 2020 |
 | T32C       | Pirate                                                  |
 | TT8JT      | Pirate                                                  |
 | TY5TZ      | Pirate                                                  |
+| VK0EX      | Pirate                                                  |
 | VQ9LT      | Pirate                                                  |
 | VU2GSM     | Uses remotes in other countries                         |
+| YI1BGD     | Pirate                                                  |
 | Y1TH       | Pirate                                                  |
 | YK7R       | Pirate                                                  |
 | ZD8RTC     | Pirate                                                  |
+| ZL7AMD     | Pirate                                                  |
 | ZL8AC      | Pirate                                                  |
+| ZL9HR      | Pirate                                                  |
+| ZL9PX      | Pirate                                                  |
+| ZS8AC      | Pirate                                                  |
 

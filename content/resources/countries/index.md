@@ -4,6 +4,15 @@ weight: 1
 full_title: Official CQ Countries and Zones
 ---
 
+This list of separate countries (entities) for the CQ World Wide DX Contest
+and the CQ DX Marathon is based on a combination of the 340 entities in the ARRL DXCC list,
+5 additional entities on the WAE (Worked All Europe) list (GM/Shetland, IT/Sicily, TA1/European Turkey, 4U1VIC, JW/Bear Is.), and the Italian islands
+of Lampedusa (IG9) & Pantelleria (IH9), in CQ Zone 33 off the coast of North Africa listed as "African Italy".
+
+Total CQ Countries: 346
+
+This list was last updated October 20, 2022.
+
 ## Other Formats
 
 The list below is also available as:
@@ -28,7 +37,7 @@ Zones](https://cq-amateur-radio.com/cq_awards/cq_waz_awards/cq_waz_list.html)
 | 3D2                    | Fiji                                       | OC   | 32                     |
 | 3D2                    | Conway Reef                                | OC   | 32                     |
 | 3D2                    | Rotuma Island                              | OC   | 32                     |
-| 3DA                    | Swaziland                                  | AF   | 38                     |
+| 3DA                    | Kingdom of eSwatini                        | AF   | 38                     |
 | 3V                     | Tunisia                                    | AF   | 33                     |
 | 3W, XV                 | Vietnam                                    | AS   | 26                     |
 | 3X                     | Guinea                                     | AF   | 35                     |
@@ -95,9 +104,9 @@ Zones](https://cq-amateur-radio.com/cq_awards/cq_waz_awards/cq_waz_list.html)
 | C6                     | Bahamas                                    | NA   | 08                     |
 | C8-9                   | Mozambique                                 | AF   | 37                     |
 | CA-CE                  | Chile                                      | SA   | 12                     |
-| CE0                    | Easter Island                              | SA   | 12                     |
-| CE0                    | Juan Fernandez Islands                     | SA   | 12                     |
-| CE0                    | San Felix & San Ambrosio                   | SA   | 12                     |
+| CE0X                   | San Felix & San Ambrosio                   | SA   | 12                     |
+| CE0Y                   | Easter Island                              | SA   | 12                     |
+| CE0Z                   | Juan Fernandez Islands                     | SA   | 12                     |
 | CE9, KC4               | Antarctica                                 | AN   | 12, 13, 29, 30, 38, 39 |
 | CM, CO                 | Cuba                                       | NA   | 08                     |
 | CN                     | Morocco                                    | AF   | 33                     |
@@ -136,8 +145,8 @@ Zones](https://cq-amateur-radio.com/cq_awards/cq_waz_awards/cq_waz_list.html)
 | EZ                     | Turkmenistan                               | AS   | 17                     |
 | F                      | France                                     | EU   | 14                     |
 | FG                     | Guadeloupe                                 | NA   | 08                     |
-| FJ                     | Saint Barthelemy                           | NA   | 08                     |
 | FH                     | Mayotte                                    | AF   | 39                     |
+| FJ                     | Saint Barthelemy                           | NA   | 08                     |
 | FK                     | New Caledonia                              | OC   | 32                     |
 | FK/C                   | Chesterfield Islands                       | OC   | 30                     |
 | FM                     | Martinique                                 | NA   | 08                     |
@@ -325,8 +334,8 @@ Zones](https://cq-amateur-radio.com/cq_awards/cq_waz_awards/cq_waz_list.html)
 | VQ9                    | Chagos Islands                             | AF   | 39                     |
 | VR                     | Hong Kong                                  | AS   | 24                     |
 | VU                     | India                                      | AS   | 22                     |
-| VU                     | Andaman & Nicobar Islands                  | AS   | 26                     |
-| VU                     | Lakshadweep Islands                        | AS   | 22                     |
+| VU4                    | Andaman & Nicobar Islands                  | AS   | 26                     |
+| VU7                    | Lakshadweep Islands                        | AS   | 22                     |
 | XA-XI                  | Mexico                                     | NA   | 06                     |
 | XA4-XI4                | Revillagigedo                              | NA   | 06                     |
 | XT                     | Burkina Faso                               | AF   | 35                     |
@@ -366,14 +375,3 @@ Zones](https://cq-amateur-radio.com/cq_awards/cq_waz_awards/cq_waz_list.html)
 | ZR-ZU                  | South Africa                               | AF   | 38                     |
 | ZS8                    | Prince Edward & Marion Islands             | AF   | 3                      |
 
-This list of separate countries (entities) for the CQ World Wide DX Contest
-and the CQ DX Marathon is based on a combination of the ARRL DXCC list,
-additional entities on the WAE (Worked All Europe) list and the Italian islands
-of Lampedusa (IG9) & Pantelleria (IH9), in CQ Zone 33 off the coast of North Africa.
-This provides a total of 346 entities, based on 340 DXCC entities, five additional
-WAE entities (GM/Shetland, IT/Sicily, TA1/European Turkey, 4U1VIC, JW/Bear Is.)
-plus African Italy.
-
-Total CQ Countries: 346
-
-This list was last updated April 2, 2019.

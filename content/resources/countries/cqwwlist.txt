@@ -1,10 +1,10 @@
 
 
              CQWW DX CONTEST / CQ DX MARATHON COUNTRIES LIST
-
+     
     Prefix          Entity                        Cont.    CQ ZONE
-
-    1S                   Spratly Is.                    AS        26
+    
+                       Spratly Is.                    AS        26
     1A0            Sov. Mil. Order of Malta       EU        15
     3A              Monaco                         EU        14
     3B6, 7        Agalega & St. Brandon Is.      AF        39
@@ -15,7 +15,7 @@
     3D2            Fiji                           OC        32
     3D2            Conway Reef                    OC        32
     3D2            Rotuma I.                      OC        32
-    3DA            Swaziland                      AF        38
+    3DA            Kingdom of eSwatini     AF        38
     3V              Tunisia                        AF        33
     3W, XV       Vietnam                        AS        26
     3X               Guinea                         AF        35
@@ -23,7 +23,7 @@
     3Y               Peter I I.                     AN        12
     4J, 4K         Azerbaijan                     AS        21
     4L               Georgia                        AS        21
-    4O              Montenegro                     EU        15
+    4O              Montenegro                     EU        15  
     4P-4S         Sri Lanka                      AS        22
     4U1ITU      ITU HQ (Geneva)                EU        14
     4U1UN      United Nations HQ (NY)         NA        05
@@ -72,7 +72,7 @@
     A7              Qatar                          AS        21
     A9              Bahrain                        AS        21
     AP-AS           Pakistan                       AS        21
-    BS7             Scarborough Reef               AS        27
+    BS7             Scarborough Reef               AS        27 
     BV              Taiwan                         AS        24
     BV9P            Pratas I.                      AS        24
     BY              China                          AS        23,24
@@ -82,9 +82,9 @@
     C6              Bahamas                        NA        08
     C8-9            Mozambique                     AF        37
     CA-CE           Chile                          SA        12
-    CE0             Easter I.                      SA        12
-    CE0             Juan Fernandez Is.             SA        12
-    CE0             San Felix & San Ambrosio       SA        12
+    CE0X            San Felix & San Ambrosio       SA        12
+    CE0Y            Easter I.                      SA        12
+    CE0Z            Juan Fernandez Is.             SA        12
     CE9/KC4         Antarctica                     AN        12,13,29,30,38,39
     CM, CO          Cuba                           NA        08
     CN              Morocco                        AF        33
@@ -103,7 +103,7 @@
     E3              Eritrea                        AF        37
     E4              Palestine                      AS        20
     E5              N. Cook Is.                    OC        32
-    E5              S. Cook Is.                    OC        32
+    E5              S. Cook Is.                    OC        32    
     E6              Niue                           OC        32
     E7              Bosnia-Herzegovina             EU        15
     EA-EH           Spain                          EU        14
@@ -123,8 +123,8 @@
     EZ              Turkmenistan                   AS        17
     F               France                         EU        14
     FG              Guadeloupe                     NA        08
-    FJ              Saint Barthelemy               NA        08
     FH              Mayotte                        AF        39
+    FJ              Saint Barthelemy               NA        08
     FK              New Caledonia                  OC        32
     FK/C            Chesterfield Is.               OC        30
     FM              Martinique                     NA        08
@@ -188,7 +188,7 @@
     JX              Jan Mayen                      EU        40
     JY              Jordan                         AS        20
     K,W,N,          United States of America       NA        3,4,5
-    AA-AK
+    AA-AK                                                    
     KG4             Guantanamo Bay                 NA        08
     KH0             Mariana Is.                    OC        27
     KH1             Baker & Howland Is.            OC        31
@@ -218,7 +218,7 @@
     OH0             Aland Is.                      EU        15
     OJ0             Market Reef                    EU        15
     OK-OL           Czech Republic                 EU        15
-    OM              Slovak Republic                EU        15
+    OM              Slovak Republic                EU        15 
     ON-OT           Belgium                        EU        14
     OX              Greenland                      NA        40
     OY              Faroe Is.                      EU        14
@@ -228,9 +228,9 @@
     P5              DPR of Korea                   AS        25
     PA-PI           Netherlands                    EU        14
     PJ2             Curacao                        SA        09
-    PJ4             Bonaire                        SA        09
+    PJ4             Bonaire                        SA        09             
     PJ5-6           Saba, St. Eustatius            NA        08
-    PJ7             Sint Maarten                   NA        08
+    PJ7             Sint Maarten                   NA        08                
     PP-PY           Brazil                         SA        11
     PP0-PY0F        Fernando de Noronha            SA        11
     PP0-PY0S        St. Peter & St. Paul Rocks     SA        11
@@ -241,7 +241,7 @@
     S2              Bangladesh                     AS        22
     S5              Slovenia                       EU        15
     S7              Seychelles                     AF        39
-    S9              Sao Tome & Principe            AF        36
+    S9              Sao Tome & Principe            AF        36   
     SA-SM           Sweden                         EU        14
     SN-SR           Poland                         EU        15
     ST              Sudan                          AF        34
@@ -254,12 +254,12 @@
     T2              Tuvalu                         OC        31
     T30             W. Kiribati (Gilbert Is. )     OC        31
     T31             C. Kiribati (British           OC        31
-                    Phoenix Is.)
+                    Phoenix Is.)          
     T32             E. Kiribati (Line Is.)         OC        31
     T33             Banaba I. (Ocean I.)           OC        31
     T5,6O              Somalia                        AF        37
     T7              San Marino                     EU        15
-    T8, KC6         Palau                          OC        27
+    T8, KC6         Palau                          OC        27 
     T9              Bosnia-Herzegovina             EU        15
     TA-TC           Turkey                         AS        20
     TA1             European Turkey                EU        20
@@ -277,10 +277,10 @@
     TY              Benin                          AF        35
     TZ              Mali                           AF        35
     UA-UI1,3,4,6    European Russia                EU        16
-    RA-RZ
+    RA-RZ                         
     UA2             Kaliningrad                    EU        15
     UA-UI8,9,0      Asiatic Russia                 AS        17-19,23
-    RA-RZ
+    RA-RZ           
     UJ-UM           Uzbekistan                     AS        17
     UN-UQ           Kazakhstan                     AS        17
     UR-UZ, EM-EO    Ukraine                        EU        16
@@ -306,19 +306,19 @@
     VP2V            British Virgin Is.             NA        08
     VP5             Turks & Caicos Is.             NA        08
     VP6             Pitcairn I.                    OC        32
-    VP6             Ducie I.                       OC        32
+    VP6             Ducie I.                       OC        32 
     VP8             Falkland Is.                   SA        13
     VP8, LU         South Georgia I.               SA        13
     VP8, LU         South Orkney Is.               SA        13
     VP8, LU         South Sandwich Is.             SA        13
     VP8, LU,         South Shetland Is.            SA        13
-    CE9, HF0, 4K1
+    CE9, HF0, 4K1        
     VP9             Bermuda                        NA        05
     VQ9             Chagos Is.                     AF        39
     VR              Hong Kong                      AS        24
     VU              India                          AS        22
-    VU              Andaman & Nicobar Is.          AS        26
-    VU              Lakshadweep Is.                AS        22
+    VU4             Andaman & Nicobar Is.          AS        26
+    VU7             Lakshadweep Is.                AS        22
     XA-XI           Mexico                         NA        06
     XA4-XI4         Revillagigedo                  NA        06
     XT              Burkina Faso                   AF        35
@@ -345,7 +345,7 @@
     ZA              Albania                        EU        15
     ZB2             Gibraltar                      EU        14
     ZC4             UK Sov. Base Areas             AS        20
-                    on Cyprus
+                    on Cyprus                    
     ZD7             St. Helena                     AF        36
     ZD8             Ascension I.                   AF        36
     ZD9             Tristan da Cunha & Gough I.    AF        38
@@ -361,15 +361,15 @@
     ZS8             Prince Edward & Marion Is.     AF        38
 
 This list of separate countries (entities) for the CQ World Wide DX Contest
-and the CQ DX Marathon is based on a combination of the ARRL DXCC list,
+and the CQ DX Marathon is based on a combination of the ARRL DXCC list, 
 additional entities on the WAE (Worked All Europe) list and the Italian islands
-of Lampedusa (IG9) & Pantelleria (IH9), in CQ Zone 33 off the coast of North Africa. This
-provides a total of 346 entities, based on 340 DXCC entities, five additional
+of Lampedusa (IG9) & Pantelleria (IH9), in CQ Zone 33 off the coast of North Africa. This 
+provides a total of 346 entities, based on 340 DXCC entities, five additional 
 WAE entities (GM/Shetland, IT/Sicily, TA1/European Turkey, 4U1VIC, JW/Bear Is.)
 plus African Italy.
 
 Total CQ Countries: 346
 
-This list last updated February 11, 2018
+This list last updated October 20, 2022
 
 
